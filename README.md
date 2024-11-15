@@ -26,8 +26,10 @@ This analysis aims to show how horror movies both respond to and shape societal 
 To analyze stereotypes in horror movie tropes and their evolution over time, we will examine character descriptions in movie summaries. We will try to extract patterns in words associated with characters' gender and ethnicity.
 
 2- One of the axis of the content analysis is through the analysis of the triggering content that the movies possess. Using the trigger dataset from Doesthedogdie, we analyse the apparition of certain content in horror movies (like the apparition of ghosts, deaths, violence...). We visualize them over the year, and work on the correlation between each using a correlation matrix. Then, we analyse their frequency of apparition, and compare that to their frequency in other genres of movies to see if those kind of content are specific to horror movies.
+
 3- In order to analyze the differences in the genre over the world we use a dictionary to map countries to different world regions and we define different list of keywords related to common themes. Using the keywords we're able to search through movie summaries and tag them with corresponding themes. 
-When analyzing the popularity and recurrence of themes by region we're careful to normalize the data to take into account the size and production diffence of different regions
+When analyzing the popularity and recurrence of themes by region we're careful to normalize the data to take into account the size and production diffence of different regions.
+
 4- For various topics (terrorism, flu epidemics, nuclear disaster, petrol, communism…), we are going to perform a similarity calculation between a vectorized list of keywords related to the topic and the vectorized summary of each horror movie. The vectorization is done through building and training a word embedding model. Some historically dependent events are retrieved through chat-GPT and statistical analysis (Mann-Whitney U test) is done to estimate the significance of the change in time of the topic-related horror movies during the period of historical events.
 
 ## Additional datasets
