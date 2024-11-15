@@ -7,19 +7,20 @@ By analyzing horror themes across decades, we are looking at how shifting societ
 This analysis aims to show how horror movies both respond to and shape societal fears and evolutions, ultimately offering insight into society's subconscious and its evolving concerns over time. 
 
 ## Research questions 
-How did horror movies' scenarios evolve over time ? 
+1- How did horror movies' scenarios evolve over time ? 
 - General evolution of themes addressed 
 - Analysis of different tropes 
 
-Are there cultural specificities in horror ? 
+2- Are there cultural specificities in horror ? 
 - Are the themes addressed different around the world ? 
 - Are horror movies as popular a genre everywhere ? 
 
-How horror movies reflect societal evolution on diversity ? 
+3- How horror movies reflect societal evolution on diversity ? 
 
-Do historical events have an impact on horror movies scenarios ? 
+4- Do historical events have an impact on horror movies scenarios ? 
 
 ## Methods 
+4- For various topics (terrorism, flu epidemics, nuclear disaster, petrol, communism…), we are going to perform a similarity calculation between a vectorized list of keywords related to the topic and the vectorized summary of each horror movie. The vectorization is done through building and training a word embedding model. Some historically dependent events are retrieved through chat-GPT and statistical analysis (Mann-Whitney U test) is done to estimate the significance of the change in time of the topic-related horror movies during the period of historical events.
 
 ## Additional datasets
 **Kaggle Horror movies dataset:**
