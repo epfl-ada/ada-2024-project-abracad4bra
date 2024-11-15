@@ -7,20 +7,25 @@ By analyzing horror themes across decades, we are looking at how shifting societ
 This analysis aims to show how horror movies both respond to and shape societal fears and evolutions, ultimately offering insight into society's subconscious and its evolving concerns over time. 
 
 ## Research questions 
-1- How did horror movies' scenarios evolve over time ? 
+1- Do horror movies reflect societal evolution on diversity ? 
+- How does the representation of diversity in horror movies compare to other film genres, and does this reveal the role of horror in reflecting societal changes?
+- Within the horror genre, how have portrayals of diversity evolved over time in terms of actor representation, character tropes, and the descriptions provided in movie summaries ?
+
+2- How did horror movies' scenarios evolve over time ? 
 - General evolution of themes addressed 
 - Analysis of different tropes and content 
 
-2- Are there cultural specificities in horror ? 
+3- Are there cultural specificities in horror ? 
 - Are the themes addressed different around the world ? 
 - Are horror movies as popular a genre everywhere ? 
-
-3- How horror movies reflect societal evolution on diversity ? 
 
 4- Do historical events have an impact on horror movies scenarios ? 
 
 ## Methods 
-1- One of the axis of the content analysis is through the analysis of the triggering content that the movies possess. Using the trigger dataset from Doesthedogdie, we analyse the apparition of certain content in horror movies (like the apparition of ghosts, deaths, violence...). We visualize them over the year, and work on the correlation between each using a correlation matrix. Then, we analyse their frequency of apparition, and compare that to their frequency in other genres of movies to see if those kind of content are specific to horror movies.
+1- To analyze how diversity in horror movies compares to other genres, we will collect data on gender and ethnicity of actors. We will use descriptive statistics (e.g., proportions) to summarize representation, and inferential tests like chi-square and ANOVA to determine if differences are statistically significant.
+To analyze stereotypes in horror movie tropes and their evolution over time, we will examine character descriptions in movie summaries. We will try to extract patterns in words associated with characters' gender and ethnicity.
+
+2- One of the axis of the content analysis is through the analysis of the triggering content that the movies possess. Using the trigger dataset from Doesthedogdie, we analyse the apparition of certain content in horror movies (like the apparition of ghosts, deaths, violence...). We visualize them over the year, and work on the correlation between each using a correlation matrix. Then, we analyse their frequency of apparition, and compare that to their frequency in other genres of movies to see if those kind of content are specific to horror movies.
 
 4- For various topics (terrorism, flu epidemics, nuclear disaster, petrol, communism…), we are going to perform a similarity calculation between a vectorized list of keywords related to the topic and the vectorized summary of each horror movie. The vectorization is done through building and training a word embedding model. Some historically dependent events are retrieved through chat-GPT and statistical analysis (Mann-Whitney U test) is done to estimate the significance of the change in time of the topic-related horror movies during the period of historical events.
 
