@@ -9,7 +9,7 @@ This analysis aims to show how horror movies both respond to and shape societal 
 ## Research questions 
 1- How did horror movies' scenarios evolve over time ? 
 - General evolution of themes addressed 
-- Analysis of different tropes 
+- Analysis of different tropes and content 
 
 2- Are there cultural specificities in horror ? 
 - Are the themes addressed different around the world ? 
@@ -20,6 +20,7 @@ This analysis aims to show how horror movies both respond to and shape societal 
 4- Do historical events have an impact on horror movies scenarios ? 
 
 ## Methods 
+1- One of the axis of the content analysis is through the analysis of the triggering content that the movies possess. Using the trigger dataset from Doesthedogdie, we analyse the apparition of certain content in horror movies (like the apparition of ghosts, deaths, violence...). We visualize them over the year, and work on the correlation between each using a correlation matrix. Then, we analyse their frequency of apparition, and compare that to their frequency in other genres of movies to see if those kind of content are specific to horror movies.
 4- For various topics (terrorism, flu epidemics, nuclear disaster, petrol, communism…), we are going to perform a similarity calculation between a vectorized list of keywords related to the topic and the vectorized summary of each horror movie. The vectorization is done through building and training a word embedding model. Some historically dependent events are retrieved through chat-GPT and statistical analysis (Mann-Whitney U test) is done to estimate the significance of the change in time of the topic-related horror movies during the period of historical events.
 
 ## Additional datasets
