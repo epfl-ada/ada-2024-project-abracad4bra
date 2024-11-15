@@ -1,4 +1,3 @@
-# Horror movies: a window on society 
 # Horror movies, the collective nightmares of society 
 
 ## Abstract: 
