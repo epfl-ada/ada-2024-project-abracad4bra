@@ -1,0 +1,453 @@
+Unnamed: 0,Wikipedia movie ID,Freebase_ID,Name,Revenue,Runtime,Language_clean,Countries_clean,original_language,popularity,vote_count,vote_average,budget,collection_name,Release_year,Genres,ID,Freebase Movie ID,Character Name,Actor DOB,Actor gender,Actor height,Actor Name,Actor age at movie release,Freebase character map1,Freebase character map2,Freebase character map3,ethnicity_clean
+81,,,100 Ghost Street: The Return of Richard Speck,0.0,84.0,,,en,4.385,35.0,4.6,150.0,,2012.0,['Horror'],82,,,,,,Steve Bencich,,,,,
+327,,,40 Days of Shrouded Ghost Resurrection,0.0,90.0,,,id,0.635,0.0,0.0,0.0,,2008.0,"['Horror', ' Thriller']",328,,,,,,,,,,,
+522,,,A Chinese Ghost,0.0,76.0,,,ko,0.6,0.0,0.0,0.0,,1971.0,['Horror'],523,,,,M,,Leslie Cheung,,,,,Asian
+523,204809.0,/m/01d22s,A Chinese Ghost Story,,95.0,"['Standard Cantonese', 'Standard Mandarin', 'Cantonese']",['Hong Kong'],,,,,,,1987.0,"['Fantasy Adventure', 'Horror', 'World cinema', 'Chinese Movies', 'Action/Adventure', 'Martial Arts Film', 'Fantasy', 'Comedy', 'Romance Film', 'Action', 'Romantic fantasy']",524,/m/01d22s,,1967-01-31,F,,Joey Wong,20.0,/m/0jsply,,/m/04n_v6,Asian
+524,33610926.0,/m/025tsbx,A Chinese Ghost Story II,,104.0,"['Standard Mandarin', 'Cantonese']",['Hong Kong'],,,,,,,1990.0,"['Horror', 'World cinema', 'Action/Adventure', 'Fantasy', 'Martial Arts Film', 'Drama', 'Comedy', 'Romantic drama', 'Romance Film', 'Action', 'Chinese Movies']",525,/m/025tsbx,,1970-06-20,F,,Michelle Reis,19.0,/m/02vcpbt,,/m/02156l,
+610,,,A Ghost Story,0.0,0.0,,,en,0.6,0.0,0.0,0.0,,1964.0,"['Drama', ' Horror']",611,,,,M,,Casey Affleck,,,,,North American
+611,,,A Ghost Story for Christmas: The Mezzotint,0.0,30.0,,,en,1.329,3.0,6.8,0.0,,2021.0,"['Horror', ' TV Movie']",612,,,,,,David Pugh,,,,,
+612,23275083.0,/m/04yd77h,A Ghost Story of Joseon Dynasty,0.0,81.0,['Korean'],['South Korea'],ko,0.921,1.0,7.0,0.0,,1970.0,['Horror'],613,/m/04yd77h,,,,,Kang-hie Lee,,/m/0n4njh8,,/m/0n4njhc,
+613,,,A Ghost Story: Xiang Yun Temple,0.0,68.0,,,zh,1.098,0.0,0.0,0.0,,2017.0,"['Horror', ' Thriller']",614,,,,,,,,,,,
+614,,,A Ghost Waits,0.0,80.0,,,en,1.413,14.0,5.4,0.0,,2020.0,"['Comedy', ' Horror', ' Romance']",615,,,,,,MacLeod Andrews,,,,,
+816,,,A Romantic Ghost Story,0.0,82.0,,,en,0.6,1.0,5.0,0.0,,1988.0,['Horror'],817,,,,M,,Casey Affleck,,,,,North American
+887,,,A Virgin Ghost,0.0,0.0,,,en,0.6,0.0,0.0,0.0,,1967.0,"['Horror', ' Mystery']",888,,,,,,Lim Chang-jung,,,,,
+912,25992458.0,/m/0b6gn09,A Wicked Ghost,0.0,85.0,"['Cantonese', 'Standard Mandarin', 'Standard Cantonese']",['Hong Kong'],cn,5.022,4.0,5.5,0.0,山村老尸（系列）,1999.0,"['Horror', 'Chinese Movies']",913,/m/0b6gn09,,,,,Nelson Ngai,,/m/0g9h80b,,/m/0g9h80f,
+913,25992848.0,/m/0b6lcyf,A Wicked Ghost II: The Fear,0.0,81.0,"['Standard Cantonese', 'Standard Mandarin', 'Cantonese']",['Hong Kong'],zh,0.627,0.0,0.0,0.0,山村老尸（系列）,2000.0,"['Horror', 'Chinese Movies']",914,/m/0b6lcyf,,1973-11-04,,,Angie Cheung,26.0,/m/0g9h5p9,,/m/04d5x0,
+914,26026273.0,/m/0b6hm2g,A Wicked Ghost III: The Possession,,87.0,"['Standard Cantonese', 'Standard Mandarin', 'Cantonese']",['Hong Kong'],,,,,,,2002.0,"['Horror', 'Chinese Movies']",915,/m/0b6hm2g,,,,,Grace Lam,,/m/0g971yn,,/m/0g971yr,
+933,,,A few pages from the life of a ghost,0.0,15.0,,,ru,0.6,4.0,5.8,0.0,,1992.0,"['Animation', ' Horror']",934,,,,M,,Oleg Tabakov,,,,,European
+1075,,,Absolutely Scary Video 2: Ghost Murder Scene,0.0,60.0,,,ja,0.6,0.0,0.0,0.0,,2015.0,['Horror'],1076,,,,,,,,,,,
+1272,,,Alabama's Ghost,0.0,96.0,,,en,0.77,6.0,4.7,0.0,,1973.0,"['Comedy', ' Horror']",1273,,,,,,Christopher Brooks,,,,,
+1514,,,Alone in the Ghost House,0.0,82.0,,,en,1.846,4.0,5.5,0.0,,2015.0,['Horror'],1515,,,,,,Adam Scott Clevenger,,,,,
+1711,,,An American Ghost Story,0.0,95.0,,,en,3.231,29.0,4.4,10000.0,,2012.0,['Horror'],1712,,,,,,,,,,,
+2058,,,April Ghost Story,0.0,98.0,,,ja,1.71,0.0,0.0,0.0,,1988.0,"['Fantasy', ' Horror', ' Mystery', ' Romance']",2059,,,,,,,,,,,
+2108,,,Archie: A Wee Ghost Story,0.0,12.0,,,en,0.6,1.0,2.0,0.0,,2012.0,"['Drama', ' Horror', ' Mystery']",2109,,,,,,Elizabeth Baillie,,,,,
+2205,,,Asian Ghost Story,0.0,75.0,,,en,1.232,2.0,5.5,0.0,,2016.0,"['Action', ' Horror']",2206,,,,,,Michael de Roos,,,,,
+2409,,,Autopsy of a Ghost,0.0,106.0,,,es,1.779,9.0,4.8,0.0,,1968.0,"['Comedy', ' Horror', ' Science Fiction']",2410,,,,,,,,,,,
+2524,,,Baby Ghost,0.0,86.0,,,en,0.637,0.0,0.0,0.0,,1995.0,"['Comedy', ' Family', ' Horror']",2525,,,,,,Joe Estevez,,,,,North American
+2602,,,Bad Ghost,0.0,112.0,,,en,0.6,0.0,0.0,200000.0,,2008.0,['Horror'],2603,,,,,,Keith Lee Morris,,,,,
+2829,,,Bayou Ghost Story,0.0,73.0,,,en,0.6,1.0,8.0,0.0,,2017.0,"['Horror', ' Mystery']",2830,,,,,,Santo Panzarella,,,,,
+2930,,,Bedwetting Beautiful Ghost?,0.0,80.0,,,id,0.6,1.0,1.0,0.0,,2016.0,['Horror'],2931,,,,,,,,,,,
+3103,,,Beware of the Ghost/Demon,0.0,1.0,,,en,0.6,1.0,4.0,0.0,,2022.0,"['Animation', ' Fantasy', ' Horror']",3104,,,,M,,Forest Whitaker,,,,,North American
+3106,,,Beware the Horror Ghost,0.0,6.0,,,en,0.6,2.0,0.5,0.0,,2014.0,"['Action', ' Adventure', ' Comedy', ' Horror']",3107,,,,,,D.J. Hennelly,,,,,
+3402,,,Black Ghost,0.0,90.0,,,ko,0.6,0.0,0.0,0.0,,1976.0,['Horror'],3403,,,,,,Sean Schliwa,,,,,
+3566,,,Blind Ghost,0.0,92.0,,,en,1.138,4.0,7.0,0.0,,2021.0,"['Horror', ' Thriller']",3567,,,,,,Alix Villaret,,,,,
+5080,,,Chang Chen Ghost Stories,0.0,87.0,,,zh,0.6,0.0,0.0,0.0,,2016.0,"['Horror', ' Romance', ' Thriller']",5081,,,,,,Wing Fan,,,,,
+5081,,,Chang Chen Ghost Stories: Be Possessed by Ghosts,0.0,87.0,,,zh,0.686,3.0,5.3,0.0,,2015.0,"['Horror', ' Mystery', ' Thriller']",5082,,,,,,Wing Fan,,,,,
+5144,,,Cheng Chin-i's Ghost Story,0.0,93.0,,,zh,0.6,0.0,0.0,0.0,,1990.0,['Horror'],5145,,,,,,Wing Fan,,,,,
+5243,,,Chinese Erotic Ghost Story,0.0,84.0,,,en,2.088,1.0,2.0,0.0,Erotic Ghost Story Collection,1998.0,['Horror'],5244,,,,F,,Amy Yip,,,,,Asian
+5398,,,Classic Ghost Stories,0.0,14.0,,,en,0.6,0.0,0.0,0.0,,1986.0,['Horror'],5399,,,,M,,Robert Powell,,,,,European
+6129,,,Culprit Ghost,0.0,100.0,,,id,0.6,0.0,0.0,0.0,,2009.0,"['Comedy', ' Drama', ' Horror']",6130,,,,,,,,,,,
+6344,,,DOTGA: Da One That Ghost Away,0.0,103.0,,,tl,0.6,0.0,0.0,0.0,,2018.0,"['Comedy', ' Horror']",6345,,,,F,,Kim Chiu,,,,,Asian
+6713,,,Daughter of a Ghost,0.0,90.0,,,ko,0.6,0.0,0.0,0.0,,1983.0,"['Fantasy', ' Horror']",6714,,,,,,Brigitte Helm,,,,,European
+7277,25008319.0,/m/09gj0dy,Death of a Ghost Hunter,0.0,107.0,['English'],['United States of America'],en,3.698,36.0,4.3,0.0,Paranormal Investigations Collection,2007.0,"['Thriller', 'Mystery', 'Supernatural', 'Horror', 'Crime Thriller']",7278,/m/09gj0dy,Carter Simms,,,,Patti Tindall,,/m/0cfzjfv,/m/0n9nyf6,/m/09rynt9,
+7787,13048913.0,/m/02z4lc6,Devon's Ghost: Legend of the Bloody Boy,0.0,90.0,['English'],['United States of America'],en,1.319,4.0,6.0,0.0,,2005.0,"['B-movie', 'Action', 'Horror', 'Slasher', 'Teen']",7788,/m/02z4lc6,Josh,1976-01-06,,1.75,Johnny Yong Bosch,28.0,/m/04hv040,/m/0h36p9t,/m/04bbv7,
+8246,,,"Don't Worry, I'm a Ghost",0.0,71.0,,,ko,2.923,10.0,7.1,225.0,,2012.0,"['Comedy', ' Drama', ' Horror', ' Romance']",8247,,,,,,Bong Tae-gyu,,,,,
+8631,20225956.0,/m/04yg4sm,Drowning Ghost,0.0,100.0,['Swedish'],['Sweden'],sv,2.749,28.0,4.8,0.0,,2004.0,"['Thriller', 'Horror', 'Slasher']",8632,/m/04yg4sm,Sara,1975-08-04,,,Rebecka Hemse,28.0,/m/0bhdc_v,/m/0n8db55,/m/0b6jc4j,
+9162,,,Erotic Ghost Story,0.0,88.0,,,cn,21.872,17.0,5.5,0.0,Erotic Ghost Story Collection,1990.0,"['Drama', ' Fantasy', ' Horror']",9163,,,,F,,Amy Yip,,,,,Asian
+9163,,,Erotic Ghost Story II,0.0,96.0,,,cn,8.664,8.0,4.7,0.0,Erotic Ghost Story Collection,1991.0,['Horror'],9164,,,,,,Anthony Chau-Sang Wong,,,,,
+9164,,,Erotic Ghost Story III,1201428.0,94.0,,,cn,8.696,7.0,5.3,0.0,Erotic Ghost Story Collection,1992.0,"['Drama', ' Fantasy', ' Horror']",9165,,,,F,,Amy Yip,,,,,Asian
+9382,,,Ex-Girlfriend's Ghost,0.0,102.0,,,id,0.6,1.0,10.0,0.0,,2021.0,"['Comedy', ' Horror']",9383,,,,,,Dino Barton,,,,,
+9877,,,Female Ghost,0.0,100.0,,,id,0.6,0.0,0.0,0.0,,1974.0,['Horror'],9878,,,,,,Kizuna Sakura,,,,,Asian
+9922,,,Fiery Ghost Story,0.0,0.0,,,th,0.6,0.0,0.0,0.0,,1990.0,['Horror'],9923,,,,,,Tim Brazeal,,,,,
+10624,,,Funny Ghost,0.0,100.0,,,cn,1.176,2.0,5.0,0.0,,1989.0,"['Comedy', ' Horror']",10625,,,,,,Sandra Kwan Yue Ng,,,,,
+10671,,,GHOST MASTER,0.0,91.0,,,ja,1.27,3.0,5.0,0.0,,2019.0,"['Comedy', ' Horror']",10672,,,,,,Mizuki Itagaki,,,,,
+10853,33914655.0,/m/0hncgrm,Ghost,0.0,130.0,[],[],hi,1.061,4.0,5.5,0.0,,2011.0,['Horror'],10854,/m/0hncgrm,,1984-01-01,,,Sayali Bhagat,27.0,/m/0hn_3vs,,/m/02r2m9s,
+10861,,,Ghost 14,0.0,79.0,,,en,0.676,0.0,0.0,0.0,,2022.0,['Horror'],10862,,,,,,Rudy Banes,,,,,
+10862,,,Ghost Adventures,0.0,87.0,,,en,3.543,38.0,8.4,0.0,,2007.0,"['Documentary', ' Horror']",10863,,,,,,Zak Bagans,,,,,North American
+10863,,,Ghost Ballroom,0.0,0.0,,,en,0.887,0.0,0.0,0.0,,1989.0,['Horror'],10864,,,,,,King Chan,,,,,
+10864,16776003.0,/m/0405qq0,Ghost Banana Tree,0.0,120.0,['Khmer language'],['Cambodia'],km,0.6,0.0,0.0,0.0,,2004.0,['Horror'],10865,,,,,,Poan Pasda,,,,,
+10865,,,Ghost Bell,0.0,0.0,,,th,0.6,0.0,0.0,0.0,,1985.0,['Horror'],10866,,,,,,Broken Bells,,,,,
+10866,,,Ghost Bell,0.0,0.0,,,th,0.6,0.0,0.0,0.0,,1968.0,['Horror'],10867,,,,,,Broken Bells,,,,,
+10867,,,Ghost Bride,0.0,0.0,,,zh,0.6,0.0,0.0,0.0,,2017.0,"['Horror', ' Thriller']",10868,,,,,,Peijia Huang,,,,,
+10868,,,Ghost Bride of Dracula,0.0,33.0,,,en,1.75,1.0,10.0,0.0,,2017.0,['Horror'],10869,,,,,,Alexis Texas,,,,,North American
+10869,,,Ghost Burger,0.0,23.0,,,en,0.6,6.0,6.7,0.0,,2013.0,"['Animation', ' Horror']",10870,,,,,,Tim Atkins,,,,,
+10870,,,Ghost Bustin,0.0,0.0,,,zh,0.656,0.0,0.0,0.0,,1985.0,"['Action', ' Comedy', ' Horror']",10871,,,,,,Pak-Cheung Chan,,,,,
+10871,,,Ghost Busting,0.0,95.0,,,cn,2.02,0.0,0.0,0.0,,1989.0,"['Comedy', ' Horror']",10872,,,,,,Pak-Cheung Chan,,,,,
+10872,,,Ghost Carol,0.0,22.0,,,en,0.6,0.0,0.0,0.0,,1983.0,['Horror'],10873,,,,M,,Nicholas Farrell,,,,,European
+10873,,,Ghost Chase,0.0,90.0,,,en,3.098,18.0,4.9,0.0,,1987.0,"['Family', ' Fantasy', ' Horror', ' Science Fiction']",10874,,,,,,Jason Lively,,,,,
+10874,,,Ghost Child,0.0,88.0,,,en,1.29,3.0,4.3,0.0,,2013.0,['Horror'],10875,,,,,,Leitreanna Terry-Brown,,,,,
+10875,,,Ghost Coins,0.0,95.0,,,th,0.707,3.0,6.3,0.0,,2014.0,"['Horror', ' Thriller']",10876,,,,,,Hataichat Eurkittiroj,,,,,
+10876,,,Ghost Cops,0.0,17.0,,,en,0.6,0.0,0.0,125.0,,2021.0,"['Action', ' Comedy', ' Crime', ' Horror', ' Mystery']",10877,,,,,,Alex Domnitch,,,,,
+10877,,,Ghost Crocodile,0.0,67.0,,,th,0.6,0.0,0.0,0.0,,1993.0,['Horror'],10878,,,,,,Tony Harris,,,,,North American
+10878,,,Ghost Day,79292.0,92.0,,,th,0.745,3.0,4.7,0.0,,2012.0,"['Comedy', ' Horror']",10879,,,,,,Apisit Opasaimlikit,,,,,
+10879,,,Ghost Delivery,0.0,85.0,,,th,0.6,3.0,5.3,0.0,,2003.0,"['Comedy', ' Fantasy', ' Horror']",10880,,,,,,Soraya Alam,,,,,
+10880,,,Ghost Diary,0.0,80.0,,,id,0.901,2.0,2.8,0.0,,2016.0,['Horror'],10881,,,,,,Genevieve Chenneour,,,,,
+10881,,,Ghost Dog,0.0,7.0,,,en,1.4,0.0,0.0,0.0,,2021.0,"['Comedy', ' Horror']",10882,,,,M,,Forest Whitaker,,,,,North American
+10882,,,Ghost Dogs,0.0,11.0,,,en,0.736,1.0,7.0,0.0,,2020.0,"['Animation', ' Fantasy', ' Horror']",10883,,,,,,Sean Dugan,,,,,
+10883,,,Ghost Dorm,0.0,16.0,,,en,0.6,0.0,0.0,0.0,,2019.0,"['Comedy', ' Horror']",10884,,,,,,Nicholas Jensen,,,,,
+10884,,,Ghost Dorm 2: She's Coming for You,0.0,8.0,,,en,0.6,0.0,0.0,0.0,,2019.0,"['Comedy', ' Horror']",10885,,,,,,,,,,,
+10885,,,Ghost Estate,0.0,8.0,,,en,0.6,1.0,10.0,0.0,,2019.0,"['Comedy', ' Drama', ' Horror']",10886,,,,,,Stephen Doring,,,,,
+10886,,,Ghost Eyes,0.0,98.0,,,zh,0.6,3.0,6.0,0.0,,1974.0,['Horror'],10887,,,,,,Szu-Chia Chen,,,,,
+10887,,,Ghost Festival,0.0,0.0,,,cn,0.6,2.0,4.5,0.0,,1985.0,['Horror'],10888,,,,,,,,,,,
+10888,,,Ghost Fever,0.0,86.0,,,en,1.066,11.0,2.5,0.0,,1987.0,"['Comedy', ' Horror']",10889,,,,,,Sherman Hemsley,,,,,North American
+10889,,,Ghost Fever,0.0,92.0,,,cn,0.99,1.0,1.0,0.0,,1989.0,"['Comedy', ' Fantasy', ' Horror']",10890,,,,,,Sherman Hemsley,,,,,North American
+10890,,,Ghost Forest,0.0,87.0,,,en,0.85,0.0,0.0,0.0,,2013.0,"['Action', ' Fantasy', ' Horror', ' Science Fiction']",10891,,,,,,James Hyde,,,,,
+10891,,,Ghost Forest Cottage,0.0,47.0,,,en,0.6,0.0,0.0,0.0,,2012.0,"['Horror', ' Mystery']",10892,,,,,,,,,,,
+10892,,,Ghost Friend,0.0,32.0,,,ko,1.131,0.0,0.0,0.0,,2021.0,"['Comedy', ' Horror']",10893,,,,,,,,,,,
+10893,,,Ghost Gambler,0.0,0.0,,,cn,0.6,0.0,0.0,0.0,,1991.0,['Horror'],10894,,,,,,Yuet-Sang Chin,,,,,
+10894,,,Ghost Game,0.0,72.0,,,en,1.953,5.0,3.8,200.0,,2005.0,"['Comedy', ' Horror']",10895,,,,,,Kia Dorsey,,,,,
+10895,,,Ghost Game,71896.0,100.0,,,th,1.015,6.0,5.2,20000.0,,2006.0,"['Horror', ' Mystery', ' Thriller']",10896,,,,,,Kia Dorsey,,,,,
+10896,,,Ghost Gate,0.0,90.0,,,en,0.6,0.0,0.0,0.0,,2003.0,['Horror'],10897,,,,,,Atsumi Kaji,,,,,
+10897,,,Ghost Ghost Ghost!,0.0,77.0,,,ms,0.6,1.0,1.0,0.0,,2013.0,"['Comedy', ' Horror']",10898,,,,,,Patrick Swayze,,,,,North American
+10898,,,Ghost Goggles,0.0,74.0,,,en,0.6,2.0,6.0,1000000.0,,2016.0,"['Adventure', ' Family', ' Horror']",10899,,,,,,Jessica Nagel,,,,,
+10899,,,Ghost Gunfighter,0.0,86.0,,,en,0.6,1.0,3.0,0.0,,1995.0,['Horror'],10900,,,,,,Michael Spartan,,,,,
+10900,,,Ghost Hospital,0.0,104.0,,,vi,0.6,0.0,0.0,0.0,,2016.0,"['Comedy', ' Horror']",10901,,,,,,Tran Thanh,,,,,
+10901,,,Ghost Hotel,0.0,120.0,,,th,0.6,0.0,0.0,0.0,,1975.0,"['Horror', ' Mystery']",10902,,,,,,Punitah Shanmugam,,,,,
+10902,3824857.0,/m/0b1xf4,Ghost House,0.0,123.0,['Korean'],['South Korea'],en,12.832,172.0,5.7,0.0,,2004.0,"['Horror', 'Comedy']",10903,/m/0b1xf4,Park Pil-gi,1970-06-07,M,1.87,Cha Seung-won,34.0,/m/02vcs22,/m/0h2r_1z,/m/0k_n3g,Asian
+10905,,,Ghost House Girl,0.0,0.0,,,th,0.6,0.0,0.0,0.0,,1990.0,['Horror'],10906,,,,,,,,,,,
+10906,,,"Ghost House, A True Story",0.0,90.0,,,cn,0.6,1.0,4.0,0.0,,1995.0,['Horror'],10907,,,,,,Kaley Cuoco,,,,,North American
+10907,,,Ghost House: A Haunting,0.0,71.0,,,en,0.985,2.0,0.8,0.0,,2018.0,['Horror'],10908,,,,,,Allyson Mae Byrley,,,,,
+10908,,,"Ghost Hunters, Inc. Presents: The Graveyard Shift",0.0,70.0,,,en,0.6,0.0,0.0,0.0,,2005.0,"['Comedy', ' Horror']",10909,,,,,,William Angove,,,,,
+10909,,,Ghost Hunters: Deep Cover Part 2,0.0,0.0,,,en,0.755,1.0,10.0,0.0,,2013.0,"['Fantasy', ' History', ' Horror', ' Music', ' TV Movie']",10910,,,,,,Anne Marie Cannon,,,,,
+10910,,,Ghost Hysteria Girl,0.0,0.0,,,th,0.6,0.0,0.0,0.0,,1975.0,['Horror'],10911,,,,,,,,,,,
+10911,,,Ghost In-Law,0.0,91.0,,,th,0.682,3.0,5.7,0.0,,2008.0,"['Comedy', ' Horror']",10912,,,,,,Hashizô Ôkawa,,,,,
+10912,,,Ghost Is All Around,0.0,94.0,,,th,1.884,4.0,6.3,0.0,,2016.0,"['Comedy', ' Drama', ' Horror']",10913,,,,M,,Hugh Grant,,,,,European
+10913,,,Ghost Island,0.0,91.0,,,id,0.6,2.0,3.5,0.0,Pulau Hantu Collection,2007.0,['Horror'],10914,,,,,,Taskya Namya,,,,,
+10914,,,Ghost Island 2,0.0,0.0,,,id,0.622,1.0,6.0,0.0,Pulau Hantu Collection,2008.0,['Horror'],10915,,,,,,Ricky Harun,,,,,
+10915,,,Ghost Island 3,0.0,84.0,,,id,0.963,0.0,0.0,0.0,Pulau Hantu Collection,2012.0,['Horror'],10916,,,,,,Shinta Bachir,,,,,
+10916,,,Ghost Keepers of the Light,0.0,27.0,,,en,0.6,0.0,0.0,0.0,,2019.0,['Horror'],10917,,,,,,Marian Anderson,,,,,North American
+10917,,,Ghost Killer,0.0,92.0,,,cn,1.657,0.0,0.0,0.0,,1992.0,['Horror'],10918,,,,,,Akari Takaishi,,,,,
+10918,,,Ghost Killers vs. Bloody Mary,0.0,103.0,,,pt,10.356,111.0,5.7,0.0,,2018.0,"['Comedy', ' Horror']",10919,,,,M,,Dan Aykroyd,,,,,North American
+10919,,,Ghost Lab,0.0,117.0,,,th,33.582,103.0,6.5,0.0,,2021.0,"['Drama', ' Horror', ' Science Fiction', ' Thriller']",10920,,,,,,Thanapob Leeratanakachorn,,,,,
+10920,2898154.0,/m/08b0r7,Ghost Lake,0.0,112.0,['English'],['United States of America'],en,1.937,13.0,3.4,110000.0,,2005.0,"['Zombie Film', 'Horror']",10921,/m/08b0r7,,,,,Gregory Lee Kenyon,,/m/02vcrzx,,/m/02qkm1b,
+10921,,,Ghost Lantern,0.0,92.0,,,cn,1.879,2.0,6.0,0.0,,1993.0,"['Crime', ' Horror', ' Romance']",10922,,,,,,Yezhou Han,,,,,
+10922,,,Ghost Light,0.0,102.0,,,en,2.177,13.0,6.3,0.0,,2018.0,"['Comedy', ' Horror']",10923,,,,M,,Roger Bart,,,,,North American
+10923,,,Ghost Light,0.0,70.0,,,en,1.421,14.0,5.8,0.0,,2020.0,"['Horror', ' Thriller']",10924,,,,M,,Roger Bart,,,,,North American
+10925,,,Ghost Love,0.0,0.0,,,th,0.6,0.0,0.0,0.0,,1964.0,['Horror'],10926,,,,F,,Kumiko Akiyoshi,,,,,Asian
+10926,,,Ghost Love,0.0,0.0,,,th,0.6,0.0,0.0,0.0,,1980.0,"['Drama', ' Horror', ' Romance']",10927,,,,F,,Kumiko Akiyoshi,,,,,Asian
+10927,,,Ghost Lover,0.0,0.0,,,cn,0.6,0.0,0.0,0.0,,1992.0,['Horror'],10928,,,,,,Nivedita Chandel,,,,,
+10928,,,Ghost Machine,0.0,100.0,,,en,5.232,38.0,5.1,0.0,,2009.0,"['Action', ' Horror', ' Science Fiction', ' Thriller']",10929,,,,F,,Karen Allen,,,,,North American
+10929,,,Ghost Magnetic,0.0,8.0,,,pt,0.6,1.0,6.0,0.0,,2020.0,['Horror'],10930,,,,,,Andressa Marconi,,,,,
+10930,7018763.0,/m/0h0l28,Ghost Man,0.0,73.0,['Japanese'],['Japan'],ja,0.626,1.0,7.0,0.0,,1954.0,"['Japanese Movies', 'Horror', 'Black-and-white']",10931,,,,,,Kim Bo-ra,,,,,
+10931,,,Ghost Mansion,0.0,106.0,,,ko,55.108,94.0,7.3,0.0,,2021.0,['Horror'],10932,,,,,,Kim Bo-ra,,,,,
+10932,,,Ghost Me,0.0,10.0,,,en,0.6,0.0,0.0,0.0,,2021.0,['Horror'],10933,,,,,,Valentin Braun,,,,,
+10933,,,Ghost Meets World,0.0,49.0,,,en,0.6,0.0,0.0,500.0,,2016.0,"['Comedy', ' Horror']",10934,,,,,,Taft Ayers,,,,,
+10934,,,Ghost Money,0.0,123.0,,,th,0.674,1.0,6.0,0.0,,1981.0,"['Horror', ' Mystery']",10935,,,,,,Choosri Misomon,,,,,
+10935,,,Ghost Month,0.0,100.0,,,en,2.237,14.0,4.3,0.0,,2009.0,['Horror'],10936,,,,,,Marina Resa,,,,,
+10936,,,Ghost Mother,0.0,84.0,,,th,0.931,3.0,5.3,0.0,,2007.0,"['Drama', ' Horror', ' Thriller']",10937,,,,,,Mark Thompson,,,,,
+10937,,,Ghost Movie.,0.0,3.0,,,en,0.6,0.0,0.0,0.0,,2020.0,"['Comedy', ' Horror']",10938,,,,M,,Marlon Wayans,,,,,North American
+10938,,,Ghost Net,0.0,97.0,,,cn,1.963,5.0,7.0,0.0,,2017.0,['Horror'],10939,,,,,,Carlos Chan,,,,,
+10939,,,Ghost Note,0.0,105.0,,,en,2.477,9.0,6.0,0.0,,2017.0,"['Horror', ' Thriller']",10940,,,,,,Alicia Underwood,,,,,
+10940,,,Ghost Nursing,0.0,0.0,,,en,0.626,0.0,0.0,0.0,,1982.0,['Horror'],10941,,,,,,Norman Chu,,,,,Asian
+10941,,,Ghost Of Mae Nak,0.0,0.0,,,th,0.6,0.0,0.0,0.0,,1978.0,['Horror'],10942,,,,,,Pataratida Pacharawirapong,,,,,
+10942,,,Ghost Office,0.0,88.0,,,cn,0.621,1.0,2.0,0.0,,2001.0,"['Comedy', ' Horror']",10943,,,,,,Ruco Chan,,,,,
+10943,,,Ghost Painter,0.0,97.0,,,id,0.6,3.0,7.3,0.0,,2020.0,"['Comedy', ' Horror']",10944,,,,,,Ge Pamungkas,,,,,
+10944,,,Ghost Photos,0.0,72.0,,,ja,0.6,3.0,3.5,0.0,,2006.0,"['Horror', ' Thriller']",10945,,,,,,Yuki Terada,,,,,
+10945,,,Ghost Puncher,0.0,8.0,,,en,0.6,0.0,0.0,0.0,,2019.0,"['Comedy', ' Horror']",10946,,,,,,Emilio Picayo,,,,,
+10946,,,Ghost Punting,0.0,94.0,,,cn,2.489,5.0,6.2,0.0,Lucky Stars Collection,1992.0,"['Action', ' Comedy', ' Horror']",10947,,,,,,Sammo Kam-Bo Hung,,,,,
+10947,,,Ghost Reality,0.0,15.0,,,ja,0.6,0.0,0.0,0.0,,2019.0,['Horror'],10948,,,,,,Ken'ichirô Matsuda,,,,,
+10948,2246413.0,/m/06yykb,Ghost Rider,228738393.0,114.0,['English'],"['United States of America', 'Australia']",,,,,,,2007.0,"['Thriller', 'Horror', 'Adventure', 'Superhero movie', 'Action/Adventure', 'Fantasy', 'Drama', 'Action']",10949,/m/06yykb,Ghost Rider,1964-01-07,M,1.83,Nicolas Cage,43.0,/m/0jyrr6,/m/027h42y,/m/01vvb4m,North American
+10949,29007308.0,/m/0dgq80b,Ghost Rider: Spirit of Vengeance,132563930.0,,['English'],"['United States of America', 'United Arab Emirates']",,,,,,,2012.0,"['Thriller', 'Action/Adventure', 'Horror', 'Action', 'Fantasy']",10950,/m/0dgq80b,Kurdish,1969-06-17,,,Sorin Tofan,42.0,/m/0hn547f,/m/0hn51mt,/m/0hn547k,
+10950,,,Ghost Riders,0.0,85.0,,,en,3.121,5.0,3.0,0.0,,1987.0,"['Horror', ' Western']",10951,,,,,,Bill Shaw,,,,,
+10951,,,Ghost Rig,0.0,90.0,,,en,1.847,6.0,4.8,0.0,,2003.0,"['Drama', ' Horror', ' Thriller']",10952,,,,M,,Jaason Simmons,,,,,Australian
+10952,,,Ghost School,0.0,93.0,,,zh,0.6,0.0,0.0,0.0,,1988.0,['Horror'],10953,,,,,,Kim Do-yeon,,,,,Asian
+10953,,,Ghost School,0.0,101.0,,,id,0.6,0.0,0.0,0.0,,2004.0,"['Horror', ' Thriller']",10954,,,,,,Kim Do-yeon,,,,,Asian
+10954,,,Ghost Searchers,0.0,19.0,,,en,0.6,1.0,7.0,6300.0,,2020.0,"['Comedy', ' Horror', ' Thriller']",10955,,,,,,Max Doubt,,,,,
+10955,,,Ghost Shark,0.0,84.0,,,en,13.801,123.0,5.1,0.0,Ghost Shark Collection,2013.0,"['Horror', ' Science Fiction']",10956,,,,,,Robert Aberdeen,,,,,
+10956,29870513.0,/m/0g9tvgw,Ghost Shark 2: Urban Jaws,0.0,76.0,['English'],['New Zealand'],en,1.582,5.0,4.8,0.0,Ghost Shark Collection,2015.0,['Horror'],10957,,,,,,Johnny Hall,,,,,
+10957,13252654.0,/m/03b_dtr,Ghost Ship,68349884.0,72.0,['English'],['United Kingdom'],en,49.195,1978.0,5.9,35000000.0,,1952.0,"['Thriller', 'Horror', 'Black-and-white', 'Supernatural']",10958,/m/03b_dtr,,1926-02-10,,,Hazel Court,25.0,/m/0cw05s3,,/m/06vfcn,European
+10960,1354688.0,/m/04w6td,Ghost Ship,68349884.0,91.0,['English'],"['United States of America', 'Australia', 'Canada']",en,49.195,1978.0,5.9,35000000.0,,2002.0,"['Horror', 'Slasher', 'Supernatural']",10961,/m/04w6td,Maureen Epps,1966-06-08,F,1.68,Julianna Margulies,36.0,/m/0jyrtq,/m/0h291hc,/m/01z_g6,North American
+10963,,,Ghost Soldier,0.0,79.0,,,fr,1.194,2.0,4.0,0.0,,1987.0,['Horror'],10964,,,,,,David A.R. White,,,,,
+10964,,,Ghost Son,0.0,97.0,,,en,2.667,14.0,4.7,0.0,,2007.0,"['Drama', ' Horror', ' Mystery', ' Thriller']",10965,,,,F,,Laura Harring,,,,,North American
+10965,,,Ghost Squad,0.0,106.0,,,ja,0.788,5.0,4.6,0.0,,2018.0,"['Action', ' Fantasy', ' Horror']",10966,,,,,,Will Spencer,,,,,
+10966,10383719.0,/m/02qb1jp,Ghost Station,0.0,102.0,['Thai'],['Thailand'],th,1.041,4.0,5.5,0.0,,2007.0,"['Parody', 'LGBT', 'Horror', 'Comedy']",10967,,,,,,Kim Bo-ra,,,,,
+10968,,,Ghost Stories,135095.0,98.0,,,en,20.157,1019.0,6.4,0.0,,2018.0,"['Drama', ' Horror']",10969,,,,,,Takako Honda,,,,,
+10969,,,Ghost Stories,0.0,144.0,,,hi,6.559,56.0,5.2,0.0,,2020.0,['Horror'],10970,,,,,,Takako Honda,,,,,
+10970,,,Ghost Stories,0.0,46.0,,,en,1.4,1.0,10.0,0.0,,1987.0,"['Animation', ' Horror', ' TV Movie']",10971,,,,,,Takako Honda,,,,,
+10971,22914078.0,/m/063_j4d,Ghost Stories of Wanderer at Honjo,0.0,55.0,['Japanese'],['Japan'],ja,1.181,3.0,7.7,0.0,,1957.0,['Horror'],10972,/m/063_j4d,,,,,Jûzaburô Akechi,,/m/0kfhccv,,/m/0kfhccy,
+10972,,,Ghost Stories: Graveyard Thriller,0.0,56.0,,,en,0.62,1.0,2.0,0.0,,1986.0,['Horror'],10973,,,,,,Bob Jenkins,,,,,
+10973,,,Ghost Storm,0.0,85.0,,,en,5.299,20.0,5.5,0.0,,2012.0,"['Action', ' Horror', ' Science Fiction', ' TV Movie']",10974,,,,M,,Carlos Bernard,,,,,North American
+10974,2887314.0,/m/0897y1,Ghost Story,23371905.0,111.0,['English'],['United States of America'],en,6.5,116.0,6.0,0.0,,1981.0,"['Thriller', 'Horror', 'Suspense', 'Haunted House Film']",10975,/m/0897y1,,1954-06-28,F,1.651,Alice Krige,27.0,/m/03jq74w,,/m/031bsz,African
+10979,30066890.0,/m/0g4x7hh,Ghost Story,0.0,89.0,[],['United Kingdom'],en,6.5,116.0,6.0,0.0,,1974.0,"['Thriller', 'Mystery', 'Horror']",10980,/m/0g4x7hh,,1927-08-31,,,Anthony Bate,46.0,/m/0g4x7k3,,/m/0c6kf3,European
+10984,,,"Ghost Story ""Godmother of Mongkok""",0.0,86.0,,,cn,0.6,1.0,3.0,0.0,,1997.0,"['Comedy', ' Crime', ' Horror']",10985,,,,,,King-Tan Yuen,,,,,
+10985,,,Ghost Story - Horrible Tea,0.0,0.0,,,zh,0.6,0.0,0.0,0.0,,2001.0,['Horror'],10986,,,,,,Lena Wai Chan,,,,,
+10986,,,Ghost Story of Devil's Fire Swamp,0.0,78.0,,,ja,0.6,1.0,8.0,0.0,,1963.0,['Horror'],10987,,,,,,Tomisaburô Wakayama,,,,,
+10987,,,Ghost Story of Kam Pin Mui,0.0,101.0,,,en,0.609,0.0,0.0,0.0,,1991.0,"['Drama', ' Fantasy', ' Horror']",10988,,,,,,Han Chai,,,,,
+10988,,,Ghost Story: Cruel Phantom,0.0,40.0,,,ja,0.6,0.0,0.0,0.0,,1964.0,['Horror'],10989,,,,,,Makoto Ôtomo,,,,,
+10989,,,Ghost Story: Crying in the Night Lantern,0.0,73.0,,,ja,0.6,0.0,0.0,0.0,,1962.0,['Horror'],10990,,,,M,,Ganjirô Nakamura,,,,,Asian
+10990,,,Ghost Story: Depth of Kasane,0.0,90.0,,,ja,0.907,1.0,4.0,0.0,,1960.0,['Horror'],10991,,,,M,,Ganjirô Nakamura,,,,,Asian
+10991,,,Ghost Story: One Eyed Jizo,0.0,66.0,,,ja,0.84,0.0,0.0,0.0,,1959.0,['Horror'],10992,,,,,,,,,,,
+10992,,,Ghost Story: Passion in Fukagawa,0.0,0.0,,,ja,0.6,0.0,0.0,0.0,,1952.0,['Horror'],10993,,,,F,,Mitsuko Mito,,,,,Asian
+10993,,,Ghost Storyteller,0.0,79.0,,,ja,0.6,0.0,0.0,0.0,,2014.0,['Horror'],10994,,,,,,Ayako Yamaguchi,,,,,
+10994,,,Ghost Sweeper Mikami,0.0,60.0,,,ja,6.43,4.0,7.9,0.0,,1994.0,"['Action', ' Adventure', ' Animation', ' Comedy', ' Fantasy', ' Horror']",10995,,,,,,Hiromi Tsuru,,,,,Asian
+10995,35080777.0,/m/0j622n9,Ghost Sweepers,,107.0,['Korean'],['South Korea'],,,,,,,2012.0,"['Comedy film', 'Horror']",10996,/m/0j622n9,,1984-07-04,M,,Lee Je-hoon,28.0,/m/0mzlq80,,/m/0h97c_s,Asian
+10996,,,Ghost Sword,0.0,80.0,,,zh,0.6,1.0,1.0,0.0,,2019.0,"['Action', ' Horror', ' Mystery', ' Thriller']",10997,,,,,,,,,,,
+10997,,,Ghost System,0.0,74.0,,,ja,0.6,1.0,5.0,0.0,,2003.0,['Horror'],10998,,,,,,Atsuko Rukawa,,,,,
+10998,,,Ghost TV,0.0,90.0,,,en,0.6,3.0,1.3,0.0,,2013.0,"['Comedy', ' Horror']",10999,,,,,,Harley Neville,,,,,
+10999,,,Ghost Taxi,0.0,49.0,,,en,0.6,0.0,0.0,0.0,,1999.0,"['Drama', ' Horror']",11000,,,,,,Scott Shaw,,,,,
+11000,,,Ghost Team,0.0,83.0,,,en,4.769,59.0,4.5,0.0,,2016.0,"['Comedy', ' Horror']",11001,,,,M,,Jon Heder,,,,,North American
+11001,,,Ghost Team One,9195.0,107.0,,,en,16.17,67.0,5.4,0.0,,2013.0,"['Comedy', ' Horror']",11002,,,,,,Carlos Santos,,,,,
+11002,,,Ghost Theater,0.0,99.0,,,ja,1.585,15.0,6.2,0.0,,2015.0,['Horror'],11003,,,,,,Rika Adachi,,,,,Asian
+11003,,,Ghost Timeless,0.0,86.0,,,cn,0.6,0.0,0.0,0.0,,2002.0,['Horror'],11004,,,,,,Edmond Leung,,,,,
+11004,,,Ghost Tour,0.0,8.0,,,en,0.6,1.0,8.0,0.0,,2015.0,"['Horror', ' Mystery', ' Thriller']",11005,,,,,,William Bloomfield,,,,,
+11005,,,Ghost Tower: A Complete Urban Legend from Hell,0.0,67.0,,,en,0.6,0.0,0.0,0.0,,2011.0,['Horror'],11006,,,,,,,,,,,
+11006,,,Ghost Town,0.0,85.0,,,en,5.255,16.0,6.0,0.0,,2009.0,"['Horror', ' Science Fiction', ' Western']",11007,,,,M,,Ricky Gervais,,,,,European
+11007,,,Ghost Town,0.0,85.0,,,en,3.064,31.0,4.5,0.0,,1988.0,"['Horror', ' Western']",11008,,,,M,,Ricky Gervais,,,,,European
+11008,,,Ghost Track,0.0,74.0,,,en,10.356,0.0,0.0,0.0,,2022.0,['Horror'],11009,,,,,,Adam Probets,,,,,
+11009,,,Ghost Tracks,0.0,5.0,,,en,0.6,1.0,10.0,0.0,,2013.0,"['Horror', ' Mystery', ' Thriller']",11010,,,,,,,,,,,
+11010,33020355.0,/m/0h56n9r,Ghost Train,0.0,90.0,['English'],['United Kingdom'],ja,2.181,19.0,4.9,0.0,,2012.0,"['Comedy film', 'Horror']",11011,,,,,,Owen McDonnell,,,,,
+11012,11053868.0,/m/02qzf7t,Ghost Train,0.0,90.0,['Japanese'],['Japan'],ja,2.181,19.0,4.9,0.0,,2006.0,"['Japanese Movies', 'Horror', 'World cinema']",11013,/m/02qzf7t,,1968-07-19,,1.68,Aya Sugimoto,37.0,/m/02vb3k5,,/m/09c81x,Asian
+11014,,,Ghost Turd,0.0,18.0,,,en,0.6,0.0,0.0,0.0,,2019.0,"['Comedy', ' Horror']",11015,,,,,,Georgia Eyers,,,,,
+11015,,,Ghost Under the Cold Moonlight,0.0,82.0,,,zh,0.84,0.0,0.0,0.0,,1975.0,['Horror'],11016,,,,,,Ling Fan,,,,,
+11016,,,Ghost Variety,0.0,104.0,,,th,0.6,1.0,6.0,0.0,,2005.0,"['Comedy', ' Horror']",11017,,,,,,Phetthai Vongkumlao,,,,,
+11017,,,Ghost Villa,0.0,99.0,,,ml,0.6,1.0,3.0,0.0,,2016.0,['Horror'],11018,,,,,,John Jacob,,,,,
+11018,18413278.0,/m/04f44f5,Ghost Voyage,0.0,86.0,['English'],['United States of America'],en,2.21,17.0,5.8,0.0,,2008.0,"['Horror', 'Television movie']",11019,/m/04f44f5,,1972-02-29,,1.85,"Antonio Sabàto, Jr.",35.0,/m/04ls5rj,,/m/027fflx,European
+11019,,,Ghost Warrior,0.0,81.0,,,en,2.565,14.0,5.2,0.0,,1984.0,"['Action', ' Crime', ' Horror', ' Science Fiction']",11020,,,,,,Hiroshi Fujioka,,,,,
+11020,,,Ghost Warrior,0.0,98.0,,,en,0.6,0.0,0.0,0.0,,2021.0,['Horror'],11021,,,,,,Hiroshi Fujioka,,,,,
+11021,,,Ghost Wedding,0.0,89.0,,,cn,1.646,0.0,0.0,0.0,,2021.0,"['Horror', ' Thriller']",11022,,,,,,Sandra Kwan Yue Ng,,,,,
+11022,,,Ghost Wife,0.0,99.0,,,th,0.84,2.0,7.0,0.0,,2018.0,['Horror'],11023,,,,,,Supawadee Kitisopakul,,,,,
+11023,,,Ghost Witch,0.0,97.0,,,en,2.486,5.0,5.0,10000.0,,2015.0,['Horror'],11024,,,,,,Scott Innes,,,,,North American
+11024,,,Ghost Writer,0.0,91.0,,,en,2.361,9.0,5.3,3000000.0,,2007.0,"['Comedy', ' Horror']",11025,,,,M,,Ewan McGregor,,,,,European
+11025,,,Ghost Writer,0.0,94.0,,,en,1.821,4.0,2.3,0.0,,1989.0,"['Comedy', ' Horror']",11026,,,,M,,Ewan McGregor,,,,,European
+11026,,,Ghost Writer,0.0,97.0,,,id,1.379,12.0,7.3,0.0,Ghost Writer - Collection,2019.0,"['Comedy', ' Drama', ' Horror']",11027,,,,M,,Ewan McGregor,,,,,European
+11027,,,Ghost Writer 2,0.0,115.0,,,id,2.178,1.0,9.0,0.0,Ghost Writer - Collection,2022.0,"['Comedy', ' Horror']",11028,,,,,,Tatjana Saphira,,,,,Asian
+11028,,,Ghost Zombie,0.0,70.0,,,ja,4.173,3.0,6.3,0.0,,2007.0,['Horror'],11029,,,,,,Silu Seppälä,,,,,
+11029,,,Ghost and Painter,0.0,0.0,,,ko,0.6,0.0,0.0,0.0,,1970.0,"['Drama', ' Horror']",11030,,,,,,Ge Pamungkas,,,,,
+11030,,,Ghost at Heart,0.0,0.0,,,th,0.6,0.0,0.0,0.0,,1984.0,['Horror'],11031,,,,F,,Anita Mui,,,,,Australian
+11031,,,Ghost for Sales,0.0,84.0,,,zh,0.6,0.0,0.0,0.0,,1991.0,"['Comedy', ' Horror']",11032,,,,M,,Ricky Hui,,,,,Asian
+11032,,,Ghost from the Continent,0.0,73.0,,,ja,0.6,0.0,0.0,0.0,,1963.0,['Horror'],11033,,,,,,Sasha Andreev,,,,,
+11033,,,Ghost from the Machine,0.0,86.0,,,en,2.876,16.0,7.6,0.0,,2010.0,"['Horror', ' Mystery', ' Science Fiction', ' Thriller']",11034,,,,,,,,,,,
+11034,,,Ghost in Barber's,0.0,84.0,,,zh,0.6,0.0,0.0,0.0,,2017.0,['Horror'],11035,,,,,,Abby Yin,,,,,
+11035,,,Ghost in ICU Room,0.0,76.0,,,th,0.84,0.0,0.0,0.0,,1987.0,['Horror'],11036,,,,,,Lily Brooks O'Briant,,,,,
+11036,4816798.0,/m/0cph2l,Ghost in Love,0.0,91.0,['Korean'],['South Korea'],ko,1.203,3.0,5.7,0.0,,1998.0,"['Fantasy', 'Horror']",11037,/m/0cph2l,Na Han-su,1970-06-07,M,1.87,Cha Seung-won,28.0,/m/02vd8xz,/m/0h2rz_b,/m/0k_n3g,Asian
+11037,,,Ghost in Me,0.0,0.0,,,cn,0.626,0.0,0.0,0.0,,1992.0,"['Comedy', ' Horror']",11038,,,,,,Valentin Braun,,,,,
+11038,,,Ghost in a Teeny Bikini,0.0,84.0,,,en,2.325,9.0,4.4,0.0,,2006.0,"['Comedy', ' Horror']",11039,,,,F,,Christine Nguyen,,,,,North American
+11039,,,Ghost in the Closet,0.0,2.0,,,en,0.6,0.0,0.0,0.0,,2022.0,['Horror'],11040,,,,,,,,,,,
+11040,,,Ghost in the Family,0.0,0.0,,,zh,0.727,0.0,0.0,0.0,,2002.0,['Horror'],11041,,,,,,Jacob Keohane,,,,,
+11041,,,Ghost in the Graveyard,0.0,92.0,,,en,1.914,15.0,4.3,0.0,,2019.0,"['Drama', ' Horror']",11042,,,,F,,Kelli Berglund,,,,,North American
+11042,,,Ghost in the House,0.0,95.0,,,zh,1.073,2.0,4.5,0.0,,1988.0,"['Comedy', ' Fantasy', ' Horror']",11043,,,,,,Adam Scott Clevenger,,,,,
+11043,,,Ghost in the House,0.0,0.0,,,zh,0.6,1.0,10.0,0.0,,2005.0,['Horror'],11044,,,,,,Adam Scott Clevenger,,,,,
+11044,2493307.0,/m/07hqz2,Ghost in the Machine,5086909.0,95.0,['English'],['United States of America'],en,5.069,55.0,4.6,12000000.0,,1993.0,"['Thriller', 'Science Fiction', 'Action', 'Horror', 'Supernatural']",11045,/m/07hqz2,,,,,Ted Marcoux,,/m/0jyrfd,,/m/0jyrch,
+11045,,,Ghost in the Regiment,0.0,75.0,,,ja,1.427,0.0,0.0,0.0,,1958.0,"['Crime', ' Horror']",11046,,,,,,Atsuko Tanaka,,,,,
+11046,,,Ghost in the Water,0.0,55.0,,,en,0.6,0.0,7.0,0.0,,1982.0,"['Drama', ' Horror', ' TV Movie']",11047,,,,,,Judith Allchurch,,,,,
+11047,,,Ghost in the Well,0.0,45.0,,,ja,1.028,5.0,7.8,0.0,,1957.0,['Horror'],11048,,,,,,,,,,,
+11048,,,Ghost of Camp Blood,0.0,73.0,,,en,2.762,11.0,5.2,0.0,Camp Blood Collection,2018.0,['Horror'],11049,,,,,,Steve Diasparra,,,,,
+11049,22937275.0,/m/06423px,Ghost of Chibusa Enoki,,48.0,['Japanese'],['Japan'],,,,,,,1958.0,"['Japanese Movies', 'Horror', 'Black-and-white']",11050,/m/06423px,Seki Hishikawa,1928-03-23,,,Katsuko Wakasugi,30.0,/m/0kdtd5v,/m/0kdtd5y,/m/0kdtd64,
+11050,,,Ghost of Dragstrip Hollow,0.0,65.0,,,en,0.9,15.0,4.2,0.0,,1959.0,"['Comedy', ' Horror']",11051,,,,,,Jody Fair,,,,,
+11051,,,Ghost of Goodnight Lane,0.0,97.0,,,en,19.145,20.0,5.3,0.0,,2014.0,"['Comedy', ' Horror']",11052,,,,M,,Billy Zane,,,,,North American
+11052,,,Ghost of Guts Eater,0.0,104.0,,,th,0.62,1.0,6.0,0.0,,1973.0,['Horror'],11053,,,,,,Sombat Metanee,,,,,European
+11053,,,Ghost of Love,0.0,93.0,,,it,1.419,23.0,7.4,0.0,,1981.0,"['Drama', ' Horror', ' Mystery', ' Romance']",11054,,,,,,Marcello Mastroianni,,,,,European
+11054,,,Ghost of Machine,0.0,25.0,,,ko,0.6,0.0,0.0,0.0,,2016.0,"['Horror', ' Science Fiction']",11055,,,,F,,Karen Allen,,,,,North American
+11055,12210037.0,/m/02vvzt3,Ghost of Mae Nak,0.0,103.0,['Thai'],"['Thailand', 'United Kingdom']",th,3.031,30.0,5.4,0.0,,2005.0,"['Thriller', 'Horror', 'World cinema', 'Supernatural']",11056,/m/02vvzt3,,,,,Jaran Ngamdee,,/m/0gc7bvf,,/m/0gc0jbl,
+11058,,,Ghost of Mae Nak 3D,0.0,0.0,,,th,0.737,2.0,3.3,0.0,,2012.0,['Horror'],11059,,,,,,Pataratida Pacharawirapong,,,,,
+11059,,,Ghost of Nang Fa Thani,0.0,0.0,,,th,0.6,0.0,0.0,0.0,,1967.0,['Horror'],11060,,,,,,,,,,,
+11060,20940115.0,/m/05b5bz6,Ghost of Saga Mansion,0.0,97.0,['Japanese'],['Japan'],ja,0.669,1.0,9.0,0.0,,1953.0,"['Japanese Movies', 'Horror', 'Black-and-white']",11061,,,,,,Shinobu Araki,,,,,
+11061,,,Ghost of Valentine,0.0,100.0,,,th,0.842,0.0,0.0,0.0,,2006.0,"['Drama', ' Horror']",11062,,,,,,Ploy Jindachote,,,,,
+11062,,,Ghost of the Golden Groves,0.0,98.0,,,bn,0.605,0.0,0.0,0.0,,2019.0,"['Fantasy', ' Horror', ' Science Fiction']",11063,,,,,,Joyraj Bhattacharya,,,,,
+11063,,,Ghost of the Mirror,0.0,93.0,,,zh,0.641,2.0,7.0,0.0,,1974.0,['Horror'],11064,,,,M,,Forest Whitaker,,,,,North American
+11064,,,Ghost of the Needle,0.0,86.0,,,en,1.763,4.0,2.1,0.0,,2003.0,['Horror'],11065,,,,,,Brian Avenet-Bradley,,,,,
+11065,,,Ghost of the Nile,0.0,0.0,,,ar,0.6,0.0,0.0,0.0,,2020.0,['Horror'],11066,,,,,,Mohamad Ramadan,,,,,
+11066,,,Ghost of the Pearl Divers,0.0,56.0,,,ja,0.741,4.0,7.3,0.0,,1960.0,['Horror'],11067,,,,M,,Johnny Depp,,,,,North American
+11067,,,Ghost on the Bridge,0.0,90.0,,,id,0.6,0.0,0.0,0.0,,2008.0,['Horror'],11068,,,,,,Andrew Shire,,,,,
+11068,,,Ghost vs. Alien 03,0.0,96.0,,,ja,0.89,0.0,0.0,0.0,,2007.0,"['Comedy', ' Drama', ' Horror', ' Science Fiction']",11069,,,,F,,Takako Fuji,,,,,Asian
+11069,,,Ghost's Hospital,0.0,0.0,,,cn,0.6,0.0,0.0,0.0,,1988.0,['Horror'],11070,,,,,,Siu-Lung Leung,,,,,
+11070,,,Ghost's Love,0.0,85.0,,,zh,0.926,0.0,0.0,0.0,,1993.0,"['Fantasy', ' Horror', ' Romance']",11071,,,,,,Jolin Tsai,,,,,
+11071,20940430.0,/m/05b1pjk,Ghost-Cat Wall of Hatred,,88.0,['Japanese'],['Japan'],,,,,,,,"['Japanese Movies', 'Horror']",11072,,,,M,,Shintarô Katsu,,,,,Asian
+11072,20940601.0,/m/05b3cmc,Ghost-Cat of Arima Palace,0.0,49.0,['Japanese'],['Japan'],ja,0.6,1.0,8.0,0.0,,1953.0,"['Japanese Movies', 'Horror', 'Black-and-white']",11073,,,,,,Kôichi Aihara,,,,,
+11073,16964927.0,/m/0413lzv,Ghost-Cat of Gojusan-Tsugi,0.0,87.0,['Japanese'],['Japan'],ja,0.621,1.0,8.0,0.0,,1956.0,"['Horror', 'Black-and-white']",11074,/m/0413lzv,Fujinami's Footman,,,,Kôichi Aihara,,/m/0jwlsh4,/m/0jwlsh7,/m/0gcxpmb,
+11074,,,Ghost-Cat of Yonaki Swamp,0.0,90.0,,,ja,0.917,1.0,7.0,0.0,,1957.0,['Horror'],11075,,,,M,,Shintarô Katsu,,,,,Asian
+11075,,,Ghost: The Cinderella,0.0,84.0,,,th,0.6,2.0,6.0,0.0,,2011.0,['Horror'],11076,,,,,,Emma Reinagel,,,,,
+11096,,,Ghostroads: A Japanese Rock N Roll Ghost Story,0.0,77.0,,,en,0.6,0.0,0.0,0.0,,2018.0,"['Horror', ' Music']",11097,,,,,,Makoto Arikida,,,,,
+11131,,,Ghoulish Ghost Mother,0.0,0.0,,,th,0.946,0.0,0.0,0.0,,1990.0,['Horror'],11132,,,,,,,,,,,
+11229,,,Go To Sleep: A Lao Ghost Story,0.0,15.0,,,en,0.6,1.0,7.0,0.0,,2019.0,['Horror'],11230,,,,,,Phet Mahathongdy,,,,,
+11619,,,Guys in Ghost's Hand,0.0,90.0,,,zh,0.706,0.0,0.0,0.0,,1991.0,['Horror'],11620,,,,,,Chia-Chen Chang,,,,,
+11816,,,Hannah and the Dog Ghost,0.0,29.0,,,en,0.84,0.0,0.0,0.0,,1981.0,"['Drama', ' Fantasy', ' Horror']",11817,,,,,,Vickie Washington,,,,,
+11882,,,Happy Ghost II,0.0,96.0,,,cn,1.934,5.0,5.0,0.0,Happy Ghost Collection,1985.0,"['Comedy', ' Fantasy', ' Horror']",11883,,,,,,Raymond Pak-Ming Wong,,,,,
+11883,,,Happy Ghost III,0.0,89.0,,,cn,2.152,9.0,6.7,0.0,Happy Ghost Collection,1986.0,"['Comedy', ' Fantasy', ' Horror']",11884,,,,,,Raymond Pak-Ming Wong,,,,,
+11931,,,Harry Price: Ghost Hunter,0.0,90.0,,,en,2.799,21.0,6.0,0.0,,2015.0,"['Drama', ' Horror']",11932,,,,M,,Rafe Spall,,,,,European
+12117,,,Hawaiian Ghost Stories,0.0,61.0,,,en,0.6,1.0,0.0,0.0,,2020.0,['Horror'],12118,,,,,,Reynolds Kamakawiwoole,,,,,
+12165,,,Headless Ghost,0.0,79.0,,,th,0.6,1.0,4.0,100000.0,,2005.0,['Horror'],12166,,,,,,Richard Lyon,,,,,North American
+12166,,,Headless Ghost,0.0,0.0,,,th,0.6,0.0,0.0,0.0,,1980.0,['Horror'],12167,,,,,,Richard Lyon,,,,,North American
+12535,,,High-Spirited Ghost Loves,0.0,0.0,,,th,0.6,0.0,0.0,0.0,,1984.0,"['Comedy', ' Horror']",12536,,,,,,,,,,,
+12580,,,His Trembling Hands: An Immigrant Ghost Story,0.0,12.0,,,tr,0.6,0.0,0.0,1555.0,,2021.0,"['Drama', ' Fantasy', ' Horror']",12581,,,,,,Serkan Tokgoz,,,,,
+12619,7114779.0,/m/0h4w5c,Hold That Ghost,,85.0,['English'],['United States of America'],,,,,,,1941.0,"['Haunted House Film', 'Horror', 'Comedy', 'Black-and-white', 'Slapstick']",12620,/m/0h4w5c,Ferdie Jones,1906-03-06,M,1.65,Lou Costello,34.0,/m/0kpydn,/m/02nwg39,/m/0qkj7,North American
+12652,,,Hollywood Ghost Stories,0.0,75.0,,,en,2.233,4.0,5.3,0.0,,1986.0,"['Documentary', ' Fantasy', ' Horror']",12653,,,,M,,John Carradine,,,,,North American
+12761,34874231.0,/m/0hz8pl_,Hong Kong Ghost Stories,0.0,97.0,['Standard Cantonese'],['Hong Kong'],cn,1.925,6.0,3.8,0.0,,2011.0,['Horror'],12762,/m/0hz8pl_,,1985-05-22,,1.68,Chrissie Chau,26.0,/m/0j59mn9,,/m/06w2vnt,
+12878,,,Horror Bizarre: Ghost Hotel,0.0,40.0,,,en,0.6,0.0,0.0,0.0,,2015.0,"['Horror', ' Thriller']",12879,,,,,,,,,,,
+13226,,,Hungry Ghost Ritual,0.0,82.0,,,cn,1.697,9.0,5.6,0.0,,2014.0,['Horror'],13227,,,,M,,Nick Cheung,,,,,Asian
+13337,,,I Am a Ghost,0.0,74.0,,,en,3.301,33.0,5.4,0.0,,2012.0,"['Drama', ' Horror', ' Thriller']",13338,,,,,,Anna Ishida,,,,,
+13636,,,In Ghost House Inn,0.0,136.0,,,ml,2.156,14.0,5.0,0.0,Harihar Nagar  Collection,2010.0,"['Comedy', ' Horror']",13637,,,,,,Mukesh,,,,,Asian
+13637,24073925.0,/m/07kfp_x,In Ghost House Inn: Harihar Nagar-3,,,['Malayalam'],['India'],,,,,,,,"['Comedy film', 'Horror']",13638,/m/07kfp_x,Mahadevan,1960-10-21,,,Mukesh,,/m/07lmgkq,/m/0h7yf1q,/m/0bwqq2,Asian
+14064,,,Invisible 2: Chasing The Ghost Sound,0.0,39.0,,,ko,0.6,1.0,5.0,0.0,,2011.0,"['Drama', ' Horror', ' Thriller']",14065,,,,,,,,,,,
+14067,2664825.0,/m/07wctc,Invisible Ghost,,70.0,['English'],['United States of America'],,,,,,,1941.0,"['Crime Fiction', 'Thriller', 'Horror', 'Adventure', 'Black-and-white', 'Action/Adventure', 'Mystery', 'Crime Thriller']",14068,/m/07wctc,,1908-10-25,F,,Polly Ann Young,32.0,/m/02vccf3,,/m/07484w,North American
+14073,,,Invitation of Ghost,0.0,0.0,,,cn,0.6,1.0,1.0,0.0,,1984.0,['Horror'],14074,,,,,,Jaime Mei-Chun Chik,,,,,
+14093,,,Irul: Ghost Hotel,0.0,99.0,,,en,1.165,0.0,0.0,50000.0,,2021.0,['Horror'],14094,,,,,,Punitah Shanmugam,,,,,
+14332,,,Japanese Archipelago: Horror Ghost Zone,0.0,45.0,,,ja,0.6,0.0,0.0,0.0,,1990.0,['Horror'],14333,,,,,,,,,,,
+14487,,,Ju-on: Black Ghost,0.0,60.0,,,ja,6.924,61.0,4.7,0.0,Ju-on Collection,2009.0,['Horror'],14488,,,,,,Kôji Seto,,,,,
+14496,,,Ju-on: White Ghost,0.0,60.0,,,ja,7.641,69.0,6.0,0.0,Ju-on Collection,2009.0,"['Fantasy', ' Horror']",14497,,,,,,Hiroki Suzuki,,,,,
+14503,,,Judas Ghost,0.0,75.0,,,en,2.527,14.0,4.7,300000.0,,2015.0,"['Fantasy', ' Horror']",14504,,,,,,Martin Delaney,,,,,
+14681,,,Kamen Rider Ghost: Final Stage,0.0,42.0,,,ja,0.6,0.0,0.0,0.0,,2017.0,"['Action', ' Horror', ' Science Fiction']",14682,,,,,,Shun Nishime,,,,,
+14707,,,Kappa no Sanpei: Ghost Operation,0.0,24.0,,,ja,0.6,0.0,0.0,0.0,,1968.0,"['Fantasy', ' Horror']",14708,,,,,,Norihei Miki,,,,,
+15136,,,Koreatown Ghost Story,0.0,14.0,,,en,0.6,0.0,0.0,0.0,,2021.0,['Horror'],15137,,,,F,,Margaret Cho,,,,,North American
+15423,,,Lady Chatterley's Ghost,0.0,81.0,,,en,1.976,2.0,2.5,0.0,,2011.0,"['Comedy', ' Horror']",15424,,,,,,Holly Sampson,,,,,North American
+15545,17284185.0,/m/043sm78,Last Ghost Standing,0.0,85.0,['Cantonese'],['Hong Kong'],cn,0.877,1.0,5.0,0.0,,1999.0,"['Thriller', 'Horror']",15546,/m/043sm78,Yeung-Yeung,1964-07-08,,,Simon Lui,34.0,/m/09j15t7,/m/0n4k9hk,/m/047dght,
+15765,,,Let It Ghost,0.0,0.0,,,cn,1.74,0.0,0.0,0.0,,2022.0,"['Comedy', ' Horror']",15766,,,,,,Man-Lung Ling,,,,,
+15776,,,Let the Ghost Pass,0.0,14.0,,,en,0.6,2.0,6.0,0.0,,2020.0,['Horror'],15777,,,,,,Alma Cederquist,,,,,
+15786,,,"Let's Play, Ghost",0.0,107.0,,,id,0.6,0.0,0.0,0.0,,2014.0,['Horror'],15787,,,,,,Virda Anggraini,,,,,
+16192,,,Love Ghost,0.0,95.0,,,ja,1.849,6.0,5.3,0.0,,2001.0,['Horror'],16193,,,,F,,Kumiko Akiyoshi,,,,,Asian
+16225,,,Love of Ghost,0.0,0.0,,,th,0.6,0.0,0.0,0.0,,1990.0,['Horror'],16226,,,,,,Moeko Ezawa,,,,,
+16340,,,Lust of the Ghost Woman,0.0,71.0,,,id,0.6,0.0,0.0,0.0,,1997.0,['Horror'],16341,,,,F,,Anna Kendrick,,,,,North American
+16402,,,MR James: Ghost Writer,0.0,60.0,,,en,1.027,2.0,8.5,0.0,,2013.0,"['Documentary', ' Fantasy', ' Horror', ' TV Movie']",16403,,,,M,,Mark Gatiss,,,,,European
+16455,,,Mad Mad Ghost,0.0,91.0,,,cn,1.541,4.0,4.0,0.0,,1992.0,"['Action', ' Comedy', ' Fantasy', ' Horror']",16456,,,,,,Ching-Ying Lam,,,,,
+17140,,,Midnight Ballad for Ghost Theater,0.0,120.0,,,ko,0.84,7.0,4.9,0.0,,2006.0,"['Comedy', ' Fantasy', ' Horror']",17141,,,,,,Kim Kkobbi,,,,,
+17332,,,Miss Ghost Goes to Town,0.0,93.0,,,zh,0.84,0.0,0.0,0.0,,1980.0,"['Comedy', ' Horror']",17333,,,,M,,Gary Cooper,,,,,North American
+17423,,,Molly & The Ghost,0.0,87.0,,,en,0.6,4.0,4.8,0.0,,1991.0,"['Horror', ' Romance', ' Thriller']",17424,,,,F,,Elisabeth Shue,,,,,North American
+17503,,,Monster Heaven: Ghost Hero,0.0,75.0,,,ja,0.742,4.0,5.0,0.0,,1990.0,"['Horror', ' Science Fiction']",17504,,,,M,,Masao Kusakari,,,,,Asian
+17735,,,Moving Temple Ghost,0.0,0.0,,,th,0.6,0.0,0.0,0.0,,1991.0,['Horror'],17736,,,,,,Kang Ning,,,,,
+17791,,,Mud Ghost,0.0,80.0,,,id,1.124,1.0,6.0,0.0,,2013.0,['Horror'],17792,,,,,,Ching-Ying Lam,,,,,
+17969,,,"My Cousin, the Ghost",0.0,91.0,,,cn,1.081,2.0,8.5,0.0,表哥到（系列）,1987.0,"['Comedy', ' Horror', ' Romance']",17970,,,,M,,Kenny Bee,,,,,Asian
+18349,,,New Ghost Story Heretic Lust: Oiwa's Vengeful Ghost,0.0,89.0,,,ja,0.6,0.0,0.0,0.0,,1976.0,['Horror'],18350,,,,,,Ryû Fujiyama,,,,,
+18362,,,New Tales of Terror from Tokyo and All Over Japan: Ghost Story,0.0,92.0,,,ja,0.642,0.0,0.0,0.0,怪谈·新耳袋(系列),2012.0,['Horror'],18363,,,,M,,Naoto Takenaka,,,,,Asian
+19137,,,O.T. Ghost Overtime,0.0,103.0,,,th,0.623,4.0,6.8,0.0,,2014.0,"['Comedy', ' Horror']",19138,,,,M,,Ananda Everingham,,,,,Australian
+19230,,,Oh My Ghost,0.0,104.0,,,th,1.161,4.0,5.4,0.0,,2013.0,"['Comedy', ' Horror']",19231,,,,F,,Park Bo-young,,,,,Asian
+19231,,,Oh My Ghost,0.0,0.0,,,ta,1.001,0.0,0.0,0.0,,2022.0,"['Comedy', ' Fantasy', ' Horror']",19232,,,,F,,Park Bo-young,,,,,Asian
+19232,,,Oh My Ghost,0.0,89.0,,,th,0.992,7.0,5.5,0.0,Oh My Ghost Collection,2009.0,"['Comedy', ' Horror']",19233,,,,F,,Park Bo-young,,,,,Asian
+19233,,,Oh My Ghost 2,0.0,102.0,,,th,1.067,4.0,5.6,0.0,Oh My Ghost Collection,2011.0,"['Comedy', ' Horror']",19234,,,,F,,Park Bo-young,,,,,Asian
+19234,,,Oh My Ghost 3,0.0,98.0,,,th,1.057,3.0,6.2,0.0,Oh My Ghost Collection,2012.0,"['Comedy', ' Horror']",19235,,,,F,,Park Bo-young,,,,,Asian
+19235,,,Oh My Ghost 6,0.0,103.0,,,th,0.704,1.0,6.0,0.0,Oh My Ghost Collection,2018.0,"['Comedy', ' Horror']",19236,,,,F,,Park Bo-young,,,,,Asian
+19236,,,Oh My Ghost!,0.0,0.0,,,en,0.883,0.0,0.0,0.0,,2006.0,"['Comedy', ' Horror']",19237,,,,F,,Park Bo-young,,,,,Asian
+19237,,,Oh My Ghost! 4,100000.0,106.0,,,th,0.6,2.0,7.0,0.0,Oh My Ghost Collection,2015.0,"['Comedy', ' Horror']",19238,,,,F,,Park Bo-young,,,,,Asian
+19238,,,Oh My Ghost! The Fierce Escape from Covid-19,0.0,110.0,,,th,2.709,1.0,10.0,0.0,Oh My Ghost Collection,2021.0,"['Comedy', ' Horror']",19239,,,,,,,,,,,
+19247,,,Okinawan Horror: Upside-Down Ghost - Chinese Horror: Breaking a Coffin,0.0,88.0,,,ja,0.6,1.0,5.0,0.0,,1962.0,['Horror'],19248,,,,,,Tamaki Katori,,,,,
+19716,,,Paranormal Activity: The Ghost Dimension,78096553.0,88.0,,,en,24.036,1198.0,5.3,10000000.0,Paranormal Activity Collection,2015.0,"['Horror', ' Thriller']",19717,,,,,,Chris J. Murray,,,,,
+19723,,,Paranormal Case Files: Ghost Investigations,0.0,72.0,,,en,0.903,2.0,5.0,0.0,,2012.0,['Horror'],19724,,,,,,Diane Howe,,,,,
+19838,,,Pay the Ghost,2160298.0,94.0,,,en,16.709,658.0,5.4,0.0,,2015.0,['Horror'],19839,,,,M,,Nicolas Cage,,,,,North American
+19915,,,Peony Lantern Ghost Story,0.0,86.0,,,ja,0.6,1.0,10.0,0.0,,2007.0,['Horror'],19916,,,,,,Kôjirô Hongô,,,,,
+20165,,,Pirates of Ghost Island,0.0,0.0,,,de,0.6,0.0,0.0,0.0,,2007.0,['Horror'],20166,,,,,,William Landsman,,,,,
+20274,,,Pocong Ghost,0.0,89.0,,,id,0.6,0.0,0.0,0.0,,1988.0,"['Drama', ' Fantasy', ' Horror']",20275,,,,,,Chrissie Chau,,,,,
+20974,,,Queen of Ghost Snakes,0.0,0.0,,,th,0.6,0.0,0.0,0.0,,1984.0,['Horror'],20975,,,,,,Nicole Sheridan,,,,,North American
+20975,,,Queen of Ghost Snakes 2,0.0,0.0,,,th,0.6,0.0,0.0,0.0,,1990.0,"['Fantasy', ' Horror']",20976,,,,,,Stephanie Mihm,,,,,
+21676,,,Revenging Ghost,0.0,0.0,,,zh,0.6,0.0,0.0,0.0,,1989.0,"['Drama', ' Fantasy', ' Horror']",21677,,,,M,,Kazuo Hasegawa,,,,,Asian
+22272,,,Santo vs. the Ghost of the Strangler,0.0,82.0,,,es,0.6,4.0,5.3,0.0,,1966.0,"['Action', ' Crime', ' Horror', ' Mystery', ' Thriller']",22273,,,,,,Santo,,,,,
+22546,,,Scent of a Ghost,0.0,93.0,,,ko,1.548,2.0,5.5,0.0,,2019.0,"['Comedy', ' Horror', ' Romance']",22547,,,,F,,Lee El,,,,,Asian
+22569,,,School Ghost Story F,0.0,72.0,,,ja,0.6,1.0,1.0,0.0,,1997.0,['Horror'],22570,,,,,,David Pugh,,,,,
+22570,,,School Ghost Story G,0.0,71.0,,,ja,1.726,10.0,6.6,0.0,,1998.0,"['Horror', ' TV Movie']",22571,,,,M,,Casey Affleck,,,,,North American
+22571,,,School Ghost Story: Curse Special,0.0,92.0,,,ja,0.6,0.0,0.0,0.0,,2000.0,"['Fantasy', ' Horror']",22572,,,,F,,Kim Gyu-ri,,,,,Asian
+22766,,,See A Ghost,0.0,107.0,,,th,0.6,2.0,5.0,0.0,Saranae The Movie,2010.0,"['Comedy', ' Horror']",22767,,,,,,Derry Grehan,,,,,
+22786,31361887.0,/m/0crxw57,Seeding of a Ghost,0.0,89.0,['Standard Cantonese'],['Hong Kong'],cn,3.229,20.0,6.0,0.0,,1983.0,"['Thriller', 'Horror', 'Chinese Movies', 'World cinema']",22787,/m/0crxw57,,1955-05-06,,,Norman Chu,27.0,/m/0csk443,,/m/0j_wqj,Asian
+22843,,,Senritsu Kaiki File Kowasugi! File 02: Shivering Ghost,0.0,72.0,,,ja,0.84,1.0,6.0,0.0,Senritsu Kaiki! Files,2012.0,['Horror'],22844,,,,,,Shigeo Ôsako,,,,,
+22847,,,Senritsu Kaiki File Kowasugi! Preface: True Story of the Ghost of Yotsua,0.0,71.0,,,en,0.945,1.0,5.0,0.0,Senritsu Kaiki! Files,2014.0,['Horror'],22848,,,,,,Shigeo Ôsako,,,,,
+22860,,,Seoul Ghost Stories,0.0,122.0,,,ko,2.735,3.0,7.7,0.0,,2022.0,"['Fantasy', ' Horror']",22861,,,,,,AleXa,,,,,North American
+23009,,,Shadow of a Ghost,0.0,98.0,,,zh,0.6,3.0,5.0,0.0,,1981.0,"['Horror', ' Science Fiction']",23010,,,,,,,,,,,
+23300,,,Show Me the Ghost,0.0,83.0,,,ko,21.345,38.0,7.6,0.0,,2021.0,"['Comedy', ' Horror']",23301,,,,,,Seung-Bum Hong,,,,,
+23381,,,Sightings: Heartland Ghost,0.0,92.0,,,en,2.055,13.0,5.3,0.0,,2002.0,"['Horror', ' Thriller', ' TV Movie']",23382,,,,M,,Beau Bridges,,,,,North American
+23486,,,Sin and Salvation: The Comic Book Origin of Ghost Rider,0.0,46.0,,,en,0.622,1.0,2.0,0.0,,2007.0,"['Action', ' Documentary', ' Fantasy', ' Horror']",23487,,,,,,,,,,,
+23524,,,Sir Ghost,0.0,114.0,,,th,0.6,0.0,0.0,0.0,,1991.0,"['Comedy', ' Horror']",23525,,,,,,,,,,,
+23938,31766057.0,/m/0gtvck5,Sodoma's Ghost,0.0,84.0,[],[],it,2.718,27.0,4.6,0.0,,1988.0,['Horror'],23939,,,,,,Claudio Aliotti,,,,,
+24309,,,Spooky Kitaro: Ghost Nighter,0.0,30.0,,,ja,1.4,0.0,0.0,0.0,Spooky Kitaro Collection,1997.0,"['Animation', ' Comedy', ' Family', ' Fantasy', ' Horror']",24310,,,,,,Shigeru Chiba,,,,,Asian
+24904,,,Susan Hill's Ghost Story,0.0,92.0,,,en,0.918,3.0,4.3,0.0,,2019.0,"['Horror', ' TV Movie']",24905,,,,,,,,,,,
+25014,,,Swole Ghost,0.0,7.0,,,en,0.6,0.0,0.0,0.0,,2022.0,"['Comedy', ' Horror']",25015,,,,,,,,,,,
+25405,,,Terrible Ghost Cat of Okazaki,0.0,86.0,,,ja,0.63,1.0,8.0,0.0,,1954.0,['Horror'],25406,,,,,,Kôichi Aihara,,,,,
+25898,,,The Beautiful Ghost's Grievance,0.0,120.0,,,cn,0.6,1.0,8.0,0.0,,1959.0,"['Drama', ' Horror']",25899,,,,,,Yanfen Fang,,,,,
+26021,,,The Blackwell Ghost,0.0,59.0,,,en,3.847,45.0,6.7,0.0,The Blackwell Ghost Collection,2017.0,['Horror'],26022,,,,,,Sonny Burnette,,,,,
+26022,,,The Blackwell Ghost 2,0.0,68.0,,,en,1.683,13.0,6.4,0.0,The Blackwell Ghost Collection,2018.0,['Horror'],26023,,,,,,Turner Clay,,,,,
+26023,,,The Blackwell Ghost 3,0.0,75.0,,,en,2.726,14.0,6.6,0.0,The Blackwell Ghost Collection,2019.0,['Horror'],26024,,,,,,Turner Clay,,,,,
+26024,,,The Blackwell Ghost 4,0.0,78.0,,,en,3.836,12.0,6.4,0.0,The Blackwell Ghost Collection,2020.0,['Horror'],26025,,,,,,Turner Clay,,,,,
+26025,,,The Blackwell Ghost 5,0.0,72.0,,,en,3.297,13.0,7.0,0.0,The Blackwell Ghost Collection,2020.0,"['Documentary', ' Horror']",26026,,,,,,Turner Clay,,,,,
+26026,,,The Blackwell Ghost 6,0.0,68.0,,,en,2.91,1.0,3.0,0.0,,2022.0,"['Drama', ' Horror']",26027,,,,,,Turner Clay,,,,,
+26027,,,The Blackwell Ghost: Recovered Footage,0.0,15.0,,,en,0.868,0.0,0.0,0.0,,2020.0,"['Horror', ' Science Fiction']",26028,,,,,,Sonny Burnette,,,,,
+26711,,,The Curse of the Ghost,0.0,94.0,,,ja,1.181,3.0,5.0,0.0,,1969.0,['Horror'],26712,,,,,,Brooklyn,,,,,
+27109,,,The Dismembered Ghost,0.0,71.0,,,ja,0.6,5.0,6.2,0.0,,1968.0,['Horror'],27110,,,,,,Reiko Akikawa,,,,,
+27247,,,The Enchanting Ghost,0.0,81.0,,,zh,0.7,3.0,5.7,0.0,,1970.0,"['Fantasy', ' Horror']",27248,,,,,,Mei-Yao Chang,,,,,
+27274,,,The Erotic Ghost,0.0,72.0,,,en,3.886,4.0,3.5,0.0,,2001.0,"['Fantasy', ' Horror']",27275,,,,,,Tammy Parks,,,,,
+27385,,,The Fake Ghost Catchers,0.0,96.0,,,cn,1.499,3.0,5.0,0.0,,1982.0,"['Action', ' Comedy', ' Horror']",27386,,,,,,Sheng Fu,,,,,
+27510,,,The Flirting Ghost,0.0,0.0,,,cn,0.808,0.0,0.0,0.0,,1993.0,['Horror'],27511,,,,,,Kwok-Choi Hon,,,,,
+27601,9618696.0,/m/02pm10y,The Frozen Ghost,,61.0,['English'],['United States of America'],,,,,,,1945.0,"['Mystery', 'Horror']",27602,/m/02pm10y,,1907-09-10,F,,Tala Birell,37.0,/m/03js7fg,,/m/02qm944,European
+27669,,,The Ghost,0.0,98.0,,,ko,3.543,56.0,5.9,0.0,,2004.0,"['Horror', ' Thriller']",27670,,,,M,,Ewan McGregor,,,,,European
+27670,,,The Ghost,0.0,97.0,,,en,1.471,22.0,6.4,0.0,,1963.0,"['Horror', ' Thriller']",27671,,,,M,,Ewan McGregor,,,,,European
+27671,,,The Ghost,0.0,89.0,,,zh,0.6,0.0,0.0,0.0,,1976.0,['Horror'],27672,,,,M,,Ewan McGregor,,,,,European
+27672,,,The Ghost,0.0,17.0,,,ko,0.6,0.0,0.0,0.0,,2016.0,['Horror'],27673,,,,M,,Ewan McGregor,,,,,European
+27673,,,The Ghost Beyond,0.0,90.0,,,en,3.005,10.0,4.9,1000000.0,,2018.0,"['Horror', ' Thriller']",27674,,,,M,,Trevor Donovan,,,,,North American
+27674,4644909.0,/m/0cf73t,The Ghost Breakers,,82.0,['English'],['United States of America'],,,,,,,1940.0,"['Thriller', 'Horror', 'Screwball comedy', 'Black-and-white', 'Haunted House Film', 'Comedy']",27675,/m/0cf73t,,1903-05-29,,1.79,Bob Hope,37.0,/m/02vdbw0,,/m/015cbq,European
+27675,,,The Ghost Bride,0.0,111.0,,,tl,1.273,5.0,7.4,0.0,,2017.0,['Horror'],27676,,,,,,Peijia Huang,,,,,
+27676,,,The Ghost Building,0.0,95.0,,,zh,1.21,0.0,0.0,0.0,,1980.0,['Horror'],27677,,,,,,Fa Gao,,,,,
+27677,,,The Ghost Cat of Otama Pond,0.0,75.0,,,ja,0.6,3.0,8.0,0.0,,1960.0,['Horror'],27678,,,,,,Shôzaburô Date,,,,,
+27678,,,The Ghost Cat of Ouma Crossing,0.0,82.0,,,ja,1.641,6.0,7.7,0.0,,1954.0,['Horror'],27679,,,,,,Michiyo Ai,,,,,
+27679,,,The Ghost Club: Spirits Never Die,0.0,85.0,,,en,0.6,1.0,2.0,0.0,,2013.0,"['Horror', ' Mystery', ' Thriller']",27680,,,,,,Enisha Brewster,,,,,
+27680,,,The Ghost Dance,0.0,96.0,,,en,0.6,2.0,5.0,1000000.0,,1982.0,['Horror'],27681,,,,,,Julie Amato,,,,,
+27681,,,The Ghost Footage 2,0.0,96.0,,,en,0.6,2.0,3.5,0.0,,2013.0,['Horror'],27682,,,,,,Jason Day-Boisvert,,,,,
+27682,5153217.0,/m/0d57b0,The Ghost Galleon,0.0,85.0,['Spanish'],['Spain'],es,3.86,47.0,4.7,0.0,The Blind Dead Collection,1974.0,"['Zombie Film', 'Horror', 'World cinema']",27683,/m/0d57b0,,,,,Barbara Rey,,/m/0k55jc,,/m/0k55h6,European
+27683,,,The Ghost House,0.0,0.0,,,zh,1.1,0.0,0.0,0.0,,2018.0,['Horror'],27684,,,,,,Nazanin Bayati,,,,,Middle Eastern
+27684,11957889.0,/m/02rzm9y,The Ghost Inside,0.0,100.0,['Chinese language'],['China'],zh,0.6,0.0,0.0,0.0,,2005.0,"['Horror', 'Chinese Movies']",27685,,,,,,Leitreanna Terry-Brown,,,,,
+27685,,,The Ghost Killer,0.0,0.0,,,en,0.6,1.0,4.5,0.0,,2011.0,['Horror'],27686,,,,,,Akari Takaishi,,,,,
+27686,,,The Ghost Lights,0.0,84.0,,,en,2.041,0.0,0.0,0.0,,2022.0,"['Horror', ' Science Fiction']",27687,,,,,,Ryan Bijan,,,,,
+27687,,,The Ghost Lovers,0.0,90.0,,,zh,0.6,3.0,6.0,0.0,,1973.0,"['Horror', ' Romance']",27688,,,,,,Ching Lee,,,,,
+27688,,,The Ghost Marriage,0.0,0.0,,,zh,0.6,0.0,0.0,0.0,,2018.0,"['Horror', ' Romance']",27689,,,,,,Yao Chengjin,,,,,
+27689,,,The Ghost Photo Club,0.0,101.0,,,ja,0.94,4.0,4.5,0.0,,2015.0,['Horror'],27690,,,,,,Yousuke Itou,,,,,
+27690,,,The Ghost Resort,0.0,86.0,,,ar,0.6,0.0,0.0,0.0,,2021.0,"['Horror', ' Thriller']",27691,,,,,,Abhinav Sardhar,,,,,
+27691,2873612.0,/m/08890m,The Ghost Ship,,69.0,['English'],['United States of America'],,,,,,,1943.0,"['Horror', 'Adventure', 'Black-and-white']",27692,/m/08890m,,1893-07-18,M,1.82,Richard Dix,,/m/0k55ly,,/m/012c79,North American
+27692,,,The Ghost Snatchers,0.0,88.0,,,cn,1.237,2.0,4.0,0.0,,1986.0,['Horror'],27693,,,,,,Joey Wang,,,,,
+27693,,,The Ghost Story,0.0,102.0,,,zh,0.904,0.0,0.0,0.0,,1979.0,['Horror'],27694,,,,M,,Casey Affleck,,,,,North American
+27694,,,The Ghost Train,0.0,85.0,,,da,1.076,4.0,6.4,0.0,,1976.0,"['Comedy', ' Family', ' Horror']",27695,,,,,,Arthur Askey,,,,,European
+27695,,,The Ghost Train of Manggarai,0.0,89.0,,,id,1.0,1.0,9.0,0.0,,2008.0,['Horror'],27696,,,,,,Sheila Marcia,,,,,
+27696,,,The Ghost Train of Manggarai,0.0,82.0,,,id,0.6,0.0,0.0,0.0,,2009.0,['Horror'],27697,,,,,,Sheila Marcia,,,,,
+27697,,,The Ghost Writer,0.0,27.0,,,en,0.986,1.0,8.0,0.0,,1990.0,"['Comedy', ' Horror']",27698,,,,M,,Ewan McGregor,,,,,European
+27698,,,The Ghost Writer Show - The Call of Cthulhu,0.0,14.0,,,pt,0.645,1.0,6.0,0.0,,2020.0,"['Animation', ' Fantasy', ' Horror']",27699,,,,,,Miriam N. Dohrn,,,,,
+27699,,,The Ghost and Master Boh,0.0,92.0,,,th,0.771,5.0,7.0,0.0,,2008.0,"['Comedy', ' Horror']",27700,,,,M,,Russell Crowe,,,,,Australian
+27700,515151.0,/m/02kfzz,The Ghost and the Darkness,75019405.0,110.0,"['Hindi', 'Swahili', 'English']",['United States of America'],en,23.769,807.0,6.7,50000000.0,,1996.0,"['Thriller', 'Horror', 'Adventure', 'British Empire Film', 'Costume Adventure', 'Jungle Film', 'Action/Adventure', 'Period piece', 'Drama', 'Suspense', 'Action']",27701,/m/02kfzz,Helena Patterson,1971-12-01,F,1.727,Emily Mortimer,24.0,/m/03jrb0z,/m/0c0n7kb,/m/03k545,European
+27701,,,The Ghost from Hovrino,0.0,80.0,,,en,0.6,2.0,6.5,0.0,,2012.0,['Horror'],27702,,,,,,Sasha Andreev,,,,,
+27702,,,The Ghost in the Darkness,0.0,65.0,,,en,0.6,0.0,0.0,0.0,,2019.0,['Horror'],27703,,,,,,Jacq,,,,,
+27703,,,The Ghost in the Invisible Bikini,0.0,82.0,,,en,2.199,18.0,5.6,0.0,Beach Party Collection,1966.0,"['Comedy', ' Horror']",27704,,,,,,Tommy Kirk,,,,,North American
+27704,,,The Ghost of Ampera House,0.0,85.0,,,id,0.6,1.0,5.0,0.0,,2009.0,"['Drama', ' Horror']",27705,,,,,,Matt Smith,,,,,
+27705,3302699.0,/m/094c_h,The Ghost of Frankenstein,,67.0,['English'],['United States of America'],,,,,,,1942.0,"['Gothic Film', 'Horror', 'Creature Film', 'Black-and-white', 'Costume Horror']",27706,/m/094c_h,,1893-02-19,M,,Cedric Hardwicke,,/m/0k55k1,,/m/017d3v,European
+27706,,,The Ghost of Garganta,0.0,35.0,,,en,0.6,0.0,0.0,0.0,,2011.0,"['Comedy', ' Horror', ' Science Fiction']",27707,,,,M,,Forest Whitaker,,,,,North American
+27707,,,The Ghost of Hank Williams,0.0,15.0,,,en,0.6,0.0,0.0,0.0,,2019.0,"['Comedy', ' Horror']",27708,,,,,,Ed Camacho,,,,,
+27708,,,The Ghost of Kasane,0.0,66.0,,,ja,0.84,4.0,7.5,0.0,,1957.0,['Horror'],27709,,,,M,,Forest Whitaker,,,,,North American
+27709,,,The Ghost of Night Crow,0.0,79.0,,,zh,0.6,0.0,0.0,0.0,,1972.0,"['Drama', ' Horror']",27710,,,,,,Riz Ahmed,,,,,European
+27710,,,The Ghost of Sierra de Cobre,0.0,80.0,,,en,2.223,10.0,5.5,0.0,,1964.0,"['Horror', ' Mystery', ' Thriller', ' TV Movie']",27711,,,,M,,Martin Landau,,,,,North American
+27711,,,The Ghost of Yotsuya,0.0,76.0,,,ja,3.246,37.0,6.8,0.0,,1959.0,['Horror'],27712,,,,M,,Shigeru Amachi,,,,,Asian
+27712,,,The Ghost of the Hunchback,0.0,81.0,,,ja,2.466,5.0,6.5,0.0,,1965.0,['Horror'],27713,,,,M,,Eddie Redmayne,,,,,European
+27713,,,The Ghost of the Mikogami Festival,0.0,60.0,,,en,0.6,0.0,0.0,0.0,,2018.0,['Horror'],27714,,,,M,,Forest Whitaker,,,,,North American
+27714,,,The Ghost of the One Eyed Man,0.0,84.0,,,ja,0.6,0.0,0.0,0.0,,1965.0,['Horror'],27715,,,,,,Kô Nishimura,,,,,
+27715,,,The Ghost-Cat Cursed Wall,0.0,88.0,,,ja,0.624,1.0,7.0,0.0,,1958.0,['Horror'],27716,,,,M,,Shintarô Katsu,,,,,Asian
+27849,,,The Great Ghost Rescue,0.0,79.0,,,en,4.803,21.0,4.8,0.0,,2011.0,"['Family', ' Fantasy', ' Horror']",27850,,,,M,,Jason Isaacs,,,,,European
+27945,,,The Happy Ghost,0.0,96.0,,,cn,2.172,8.0,5.7,0.0,Happy Ghost Collection,1984.0,"['Comedy', ' Family', ' Fantasy', ' Horror', ' Mystery']",27946,,,,,,Raymond Pak-Ming Wong,,,,,
+28037,,,The Haunting of the Radical Ghost,0.0,8.0,,,en,0.6,0.0,0.0,0.0,,2021.0,"['Drama', ' Horror']",28038,,,,M,,Michiel Huisman,,,,,European
+28048,,,The Headless Ghost,0.0,62.0,,,en,1.4,6.0,3.8,0.0,,1959.0,"['Comedy', ' Fantasy', ' Horror']",28049,,,,,,Richard Lyon,,,,,North American
+28138,,,The Holy Ghost,0.0,47.0,,,en,0.6,0.0,0.0,0.0,,2020.0,['Horror'],28139,,,,,,Vassili Karis,,,,,European
+28139,,,The Holy Man With Ghost Sathu,0.0,94.0,,,th,0.6,1.0,5.0,0.0,,2009.0,"['Comedy', ' Horror']",28140,,,,,,Paul Guyet,,,,,
+28254,,,The House of Headless Ghost,0.0,0.0,,,th,0.6,0.0,0.0,0.0,,1994.0,"['Comedy', ' Horror']",28255,,,,,,Matt Smith,,,,,
+28465,,,The Investigation: The Mansfield Ghost,0.0,0.0,,,en,3.845,0.0,0.0,0.0,,2022.0,['Horror'],28466,,,,M,,Søren Malling,,,,,European
+28518,,,The Jealous Ghost,0.0,0.0,,,id,0.6,0.0,0.0,0.0,,1973.0,"['Comedy', ' Horror']",28519,,,,,,Jason Merrells,,,,,
+28675,,,The Last Ghost Hunters,0.0,76.0,,,en,0.6,0.0,0.0,0.0,,2021.0,['Horror'],28676,,,,,,William Barr,,,,,
+28694,,,The Last Light: An Irish Ghost Story,0.0,85.0,,,en,0.6,2.0,2.5,0.0,,2011.0,['Horror'],28695,,,,,,Robert Render,,,,,
+28759,,,The Legacy: A Ghost Story,0.0,75.0,,,en,0.841,0.0,0.0,0.0,,2004.0,"['Drama', ' Horror']",28760,,,,M,,Casey Affleck,,,,,North American
+28778,,,The Legend of Ghost Festival,0.0,0.0,,,cn,0.621,1.0,1.0,0.0,,2003.0,['Horror'],28779,,,,F,,Laura Bailey,,,,,North American
+28869,26800570.0,/m/0bmg2jx,The Living Ghost,,62.0,['English'],['United States of America'],,,,,,,1942.0,"['Thriller', 'Mystery', 'Horror']",28870,/m/0bmg2jx,,1903-05-27,,,Norman Willis,39.0,/m/0gdgyy9,,/m/0n5_2gl,
+29283,3504034.0,/m/09h37b,The Mummy's Ghost,,61.0,['English'],['United States of America'],,,,,,,1944.0,"['Archaeology', 'Horror', 'Creature Film']",29284,/m/09h37b,,1906-02-10,M,1.87,"Lon Chaney, Jr.",38.0,/m/03lfjys,,/m/011xjd,North American
+29633,,,The ParaPod:  A Very British Ghost Hunt,0.0,108.0,,,en,1.633,12.0,5.8,0.0,,2020.0,"['Comedy', ' Documentary', ' Horror']",29634,,,,,,Ian Boldsworth,,,,,
+29639,,,The Paranormal Gecko Ghost,0.0,0.0,,,th,0.6,0.0,0.0,0.0,,1991.0,['Horror'],29640,,,,,,Chris J. Murray,,,,,
+29812,,,The Pocong Shroud Ghost,0.0,3.0,,,en,0.6,0.0,0.0,0.0,,2022.0,['Horror'],29813,,,,,,,,,,,
+30109,,,The Revenge Ghost of the Tree,0.0,92.0,,,zh,0.6,0.0,0.0,0.0,,1988.0,['Horror'],30110,,,,M,,Shia LaBeouf,,,,,North American
+30166,,,The Romance in the Ghost House,0.0,0.0,,,en,0.6,0.0,0.0,0.0,,1975.0,"['Drama', ' Horror', ' Romance']",30167,,,,,,Atsuko Tanaka,,,,,
+30715,,,The Sunken-Eyed Ghost,0.0,0.0,,,th,0.6,0.0,0.0,0.0,,1981.0,"['Comedy', ' Horror']",30716,,,,,,,,,,,
+30755,,,The Tale of Oiwa's Ghost,0.0,94.0,,,ja,1.348,6.0,7.5,0.0,,1961.0,"['Drama', ' Horror']",30756,,,,,,Lee Dong-wook,,,,,Asian
+31000,,,The Troop of Ghost,0.0,93.0,,,th,0.6,1.0,6.0,0.0,,2004.0,"['Comedy', ' Horror']",31001,,,,M,,Forest Whitaker,,,,,North American
+31037,,,The Ugly Ghost,0.0,109.0,,,th,1.095,0.0,0.0,0.0,,2014.0,"['Comedy', ' Horror']",31038,,,,,,,,,,,
+31229,,,The Virgin Ghost of Jeruk Purut,0.0,80.0,,,en,0.6,0.0,0.0,0.0,,2008.0,['Horror'],31230,,,,,,Ratu Felisha,,,,,
+31275,,,The Wanton Ghost of Semanggi Bridge,0.0,71.0,,,id,0.6,1.0,5.0,0.0,,2009.0,['Horror'],31276,,,,,,Dale Cox,,,,,
+31374,,,The Wicked Ghost III: The Possession,0.0,87.0,,,zh,2.646,1.0,5.0,0.0,山村老尸（系列）,2002.0,['Horror'],31375,,,,,,Grace Lam,,,,,
+31402,,,The Wind of Ghost,0.0,88.0,,,zh,0.6,0.0,0.0,0.0,,1974.0,"['Drama', ' Horror']",31403,,,,,,,,,,,
+31526,,,The Writer's Ghost,0.0,97.0,,,en,0.6,0.0,0.0,0.0,,2015.0,['Horror'],31527,,,,,,Jensen Higley,,,,,
+31631,,,There's a Ghost in the House,0.0,0.0,,,en,0.6,0.0,0.0,0.0,,2020.0,"['Comedy', ' Horror']",31632,,,,,,Mark E. Smith,,,,,European
+31761,,,This Woman Is Not a Ghost,0.0,0.0,,,th,0.6,0.0,0.0,0.0,,1987.0,['Horror'],31762,,,,,,Stephen Tompkinson,,,,,
+31937,,,To Catch a Virgin Ghost,0.0,102.0,,,ko,1.968,22.0,7.3,0.0,,2004.0,"['Comedy', ' Horror']",31938,,,,F,,Shailene Woodley,,,,,North American
+31949,,,To Marry a Ghost,0.0,0.0,,,cn,0.706,0.0,0.0,0.0,,1966.0,"['Fantasy', ' Horror', ' Romance']",31950,,,,F,,Marilyn Monroe,,,,,North American
+32264,,,Travel with Ghost,0.0,93.0,,,ja,0.877,0.0,0.0,0.0,,1961.0,"['Comedy', ' Horror', ' Music']",32265,,,,M,,Tatsuya Mihashi,,,,,Asian
+32481,,,Twilight Zone Cops: Ghost Driven,0.0,0.0,,,cn,1.595,0.0,0.0,0.0,,2002.0,['Horror'],32482,,,,,,Cherry Chiu-Chiu Chan,,,,,
+32812,,,Urban Ghost Story,0.0,82.0,,,en,1.597,6.0,4.7,0.0,,1998.0,"['Horror', ' Mystery', ' Thriller']",32813,,,,,,Jason Connery,,,,,European
+32859,,,V-MONSTER: Ghost Boxer,0.0,49.0,,,ja,0.6,0.0,0.0,0.0,,2000.0,['Horror'],32860,,,,,,,,,,,
+33357,,,Visits: Hungry Ghost Anthology,0.0,107.0,,,en,0.6,0.0,0.0,0.0,,2004.0,['Horror'],33358,,,,,,Adlin Aman Ramlie,,,,,
+33587,,,Water Ghost,0.0,12.0,,,ko,0.6,0.0,0.0,0.0,,2020.0,"['Comedy', ' Horror']",33588,,,,,,Judith Allchurch,,,,,
+33809,,,When Pen Ghost Meets Plate Ghost,0.0,90.0,,,zh,0.6,0.0,0.0,0.0,,2016.0,['Horror'],33810,,,,,,SungGoo Kang,,,,,
+33839,24062002.0,/m/07k4dvy,Where Got Ghost?,0.0,102.0,"['English', 'Hokkien', 'Standard Mandarin', 'Mandarin Chinese']",['Singapore'],zh,1.4,1.0,5.0,782640.0,,2009.0,"['Horror', 'Comedy']",33840,/m/07k4dvy,,1956-01-24,,,Jack Neo,53.0,/m/07llsn2,,/m/06400z,
+33954,,,Who's the Ghost in the Sleepy Hollow?,0.0,90.0,,,zh,0.876,0.0,0.0,0.0,,1977.0,['Horror'],33955,,,,,,Chi-Wing Lau,,,,,
+33989,,,Widow Ghost 5,0.0,83.0,,,th,0.6,0.0,0.0,0.0,,1994.0,"['Comedy', ' Horror', ' Mystery']",33990,,,,,,New Thanya,,,,,
+34107,,,Witchcraft 8: Salem's Ghost,0.0,90.0,,,en,2.043,6.0,2.5,48000.0,Witchcraft Collection,1996.0,['Horror'],34108,,,,,,Lee Grober,,,,,
+34110,17918253.0,/m/047sq_8,Witchcraft IIX: Salem's Ghost,,90.0,['English'],['United States of America'],,,,,,,,['Horror'],34111,,,,,,Lee Grober,,,,,
+34217,,,Woman Ghost,0.0,0.0,,,cn,0.6,0.0,0.0,0.0,,1958.0,['Horror'],34218,,,,,,Jacqui Calloway,,,,,
+34406,,,Yotsuya Ghost Story,0.0,84.0,,,ja,1.4,5.0,5.8,0.0,,1959.0,"['Drama', ' Horror']",34407,,,,M,,Shigeru Amachi,,,,,Asian
+34414,,,You Believe In Ghost,0.0,76.0,,,en,0.6,0.0,0.0,0.0,,2012.0,['Horror'],34415,,,,,,Felina Cheah,,,,,
+34461,,,Young-gu and Ddaengchili 4: Hong Kong Granny Ghost,0.0,85.0,,,ko,0.871,0.0,0.0,0.0,,1991.0,"['Action', ' Comedy', ' Family', ' Fantasy', ' Horror']",34462,,,,M,,Hyung-rae Shim,,,,,Asian
+34510,,,Zenigata Heiji: Ghost Lord,0.0,90.0,,,ja,1.349,0.0,0.0,0.0,,1954.0,['Horror'],34511,,,,M,,Kazuo Hasegawa,,,,,Asian
+34521,,,Zhang Zhen's Ghost Stories: The Girl Who Washed Her Face,0.0,72.0,,,zh,0.6,0.0,0.0,0.0,,2021.0,"['Drama', ' Horror']",34522,,,,,,,,,,,

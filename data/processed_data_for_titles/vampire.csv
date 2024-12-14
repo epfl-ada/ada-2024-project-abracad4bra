@@ -1,0 +1,312 @@
+Unnamed: 0,Wikipedia movie ID,Freebase_ID,Name,Revenue,Runtime,Language_clean,Countries_clean,original_language,popularity,vote_count,vote_average,budget,collection_name,Release_year,Genres,ID,Freebase Movie ID,Character Name,Actor DOB,Actor gender,Actor height,Actor Name,Actor age at movie release,Freebase character map1,Freebase character map2,Freebase character map3,ethnicity_clean
+66,,,1-900 Vampire,0.0,70.0,,,en,0.6,0.0,0.0,0.0,,2017.0,['Horror'],67,,,,M,,David Boreanaz,,,,,North American
+328,,,400 Ways to Kill a Vampire,0.0,22.0,,,en,0.6,0.0,0.0,0.0,,2015.0,['Horror'],329,,,,,,Mina Edgerton,,,,,
+414,,,7 Sins Of The Vampire,0.0,75.0,,,en,0.6,0.0,0.0,0.0,,2013.0,['Horror'],415,,,,,,Darla Albornoz,,,,,
+767,,,A Nocturne: Night Of The Vampire,0.0,70.0,,,en,1.25,3.0,2.0,0.0,,2007.0,"['Drama', ' Horror']",768,,,,,,River Phoenix,,,,,North American
+792,,,A Polish Vampire in Burbank,500000.0,84.0,,,en,1.49,6.0,5.7,3000.0,,1983.0,"['Comedy', ' Horror']",793,,,,,,Mark Pirro,,,,,
+877,,,A Vampire's Tale,0.0,90.0,,,en,1.164,6.0,4.2,0.0,,2011.0,['Horror'],878,,,,M,,Doug Bradley,,,,,European
+878,,,A Vampire's Tale,0.0,85.0,,,en,0.6,0.0,0.0,0.0,,2008.0,['Horror'],879,,,,M,,Doug Bradley,,,,,European
+936,,,A vampire in the window,0.0,6.0,,,es,0.6,0.0,0.0,0.0,,2010.0,"['Comedy', ' Horror']",937,,,,F,,Erica Cerra,,,,,North American
+1061,,,Abraham Lincoln Vampire Hunter: The Great Calamity,0.0,7.0,,,en,5.071,200.0,8.2,0.0,,2012.0,"['Animation', ' Fantasy', ' Horror']",1062,,,,M,,Benjamin Walker,,,,,North American
+1063,30928961.0,/m/0gj8nq2,Abraham Lincoln: Vampire Hunter,109436965.0,105.0,['English'],['United States of America'],en,103.0,2855.0,5.7,69000000.0,,2012.0,"['Thriller', 'Action/Adventure', 'Action', 'Horror', 'Fantasy']",1064,/m/0gj8nq2,Mary Todd Lincoln,1984-11-28,F,1.74,Mary Elizabeth Winstead,27.0,/m/0gvwq4f,/m/05n7j2y,/m/073x6y,North American
+1292,,,Aleta: Vampire Mistress,0.0,86.0,,,en,2.575,3.0,4.7,250000.0,,2012.0,"['Action', ' Fantasy', ' Horror']",1293,,,,,,Ange Maya,,,,,
+1545,,,Alucardos: Portrait of a Vampire,0.0,88.0,,,es,1.285,5.0,3.4,0.0,,2011.0,"['Documentary', ' Horror']",1546,,,,F,,Noémie Merlant,,,,,European
+1559,,,Amalanhig: The Vampire Chronicle,0.0,84.0,,,tl,0.6,1.0,9.0,0.0,,2017.0,['Horror'],1560,,,,,,Jerico Estregan,,,,,
+1629,27545586.0,/m/0c02882,American Vampire,,99.0,['English'],['United States of America'],,,,,,,1997.0,"['Horror', 'Comedy']",1630,/m/0c02882,,1973-10-29,,,Trevor Lissauer,23.0,/m/0ggj7ll,,/m/026nrbb,
+1663,,,Amityville Vampire,0.0,92.0,,,en,1.482,0.0,0.0,0.0,,2021.0,['Horror'],1664,,,,,,Jin N. Tonic,,,,,
+1714,,,An American Vampire Story,0.0,99.0,,,en,2.592,8.0,4.0,0.0,,1997.0,"['Comedy', ' Horror']",1715,,,,,,Trevor Lissauer,,,,,
+1726,,,An Erotic Vampire in Paris,0.0,79.0,,,en,1.108,4.0,2.8,0.0,,2002.0,"['Horror', ' Romance']",1727,,,,F,,Erin Brown,,,,,North American
+1762,,,Anal Paprika 2: Vampire Killers,0.0,53.0,,,en,0.6,0.0,0.0,0.0,,2000.0,"['Comedy', ' Horror']",1763,,,,,,Teen Ape,,,,,
+2270,,,At Stake: Vampire Solutions,0.0,85.0,,,en,1.116,4.0,8.3,120000.0,,2012.0,"['Comedy', ' Horror']",2271,,,,,,Carl Pfeiffer Jr.,,,,,
+2293,,,Atlanta Vampire Movie,0.0,110.0,,,en,1.75,0.0,0.0,10000.0,,2018.0,"['Comedy', ' Horror']",2294,,,,,,Chelsea Howard,,,,,
+2297,6500990.0,/m/0g7s7w,Atom Age Vampire,0.0,105.0,"['Italian', 'English']",['Italy'],en,1.459,24.0,4.3,0.0,,1963.0,"['Science Fiction', 'Horror', 'Creature Film', 'Black-and-white']",2298,/m/0g7s7w,,1925-08-06,F,,Lilyan Chauvin,37.0,/m/04hv94h,,/m/07n2ps,European
+2426,,,Avia: Vampire Hunter,0.0,0.0,,,en,0.748,4.0,3.3,0.0,,2005.0,['Horror'],2427,,,,,,Allison Valentino,,,,,
+3261,,,Bikini Vampire Babes,0.0,90.0,,,en,0.6,0.0,0.0,0.0,,2010.0,"['Comedy', ' Horror']",3262,,,,,,Sharis Fajardo,,,,,
+3273,,,Billy the Kid and the Green Baize Vampire,0.0,89.0,,,en,2.016,8.0,5.6,0.0,,1985.0,"['Comedy', ' Horror', ' Music', ' Western']",3274,,,,,,Phil Daniels,,,,,European
+3511,,,Blade of the Vampire,0.0,0.0,,,en,0.6,0.0,0.0,0.0,,2006.0,['Horror'],3512,,,,,,Michael Taggart,,,,,
+3789,,,Blood Slaves of the Vampire Wolf,0.0,105.0,,,en,0.6,2.0,2.0,0.0,,1996.0,"['Fantasy', ' Horror']",3790,,,,,,Conrad Brooks,,,,,
+3841,,,Blood for the vampire,0.0,6.0,,,es,0.6,0.0,0.0,0.0,,2018.0,['Horror'],3842,,,,M,,Morris Chestnut,,,,,North American
+3855,4143552.0,/m/0blfc0,Blood of the Vampire,0.0,87.0,['English'],['United Kingdom'],en,2.463,23.0,6.1,0.0,,1958.0,['Horror'],3856,/m/0blfc0,,1902-04-20,,,Donald Wolfit,55.0,/m/0jvjl9,,/m/0181gp,European
+3870,430740.0,/m/027ncf,Blood: The Last Vampire,0.0,50.0,"['Japanese', 'English']","['United States of America', 'Japan']",ja,13.029,246.0,6.8,0.0,,2000.0,"['Action', 'Horror', 'Anime', 'Animation']",3871,/m/027ncf,Saya,1971-01-17,F,1.58,Youki Kudoh,29.0,/m/0bmm054,/m/0bm6nb1,/m/097rfn,Asian
+3872,23396344.0,/m/06wb73s,Blood: The Last Vampire,5731143.0,86.0,['English'],"['France', 'Hong Kong', 'China']",ja,13.029,246.0,6.8,0.0,,2009.0,"['Thriller', 'Horror', 'World cinema', 'Remake', 'Action/Adventure', 'Action', 'Chinese Movies']",3873,/m/06wb73s,,1943-11-07,M,,Michael Byrne,65.0,/m/0cs1fbx,,/m/0c6mv6,European
+4404,4231.0,/m/01cbx,Buffy the Vampire Slayer,16624456.0,86.0,['English'],['United States of America'],en,17.115,653.0,5.6,7000000.0,,1992.0,"['Action', 'Horror', 'Comedy', 'Horror Comedy']",4405,/m/01cbx,Buffy Summers,1969-12-19,F,1.676,Kristy Swanson,22.0,/m/0jvy0r,/m/0b41h,/m/0337zp,North American
+4640,,,Call of the Vampire,0.0,102.0,,,es,0.906,1.0,5.0,0.0,,1972.0,['Horror'],4641,,,,M,,Harrison Ford,,,,,North American
+4770,,,Cannibal Vampire School Girls from Outer Space,0.0,81.0,,,en,0.6,0.0,0.0,0.0,,1999.0,"['Horror', ' Science Fiction']",4771,,,,,,Donny Boaz,,,,,
+4789,5516533.0,/m/0dqg88,Captain Kronos - Vampire Hunter,,91.0,['English'],['United Kingdom'],,,,,,,1974.0,"['Action/Adventure', 'Horror', 'Adventure']",4790,/m/0dqg88,,1927-02-28,,,John Carson,46.0,/m/02vc_md,,/m/0c5zk1,European
+4790,,,Captain Kronos: Vampire Hunter,0.0,91.0,,,en,7.533,101.0,6.2,400000.0,,1974.0,"['Adventure', ' Horror']",4791,,,,,,Horst Janson,,,,,European
+4824,,,Caress of the Vampire,0.0,46.0,,,en,0.729,4.0,3.0,0.0,,1996.0,['Horror'],4825,,,,,,Paulina Monet,,,,,
+4825,,,Caress of the Vampire 2: Teenage Ghoul Girl A Go-Go,0.0,75.0,,,en,1.374,1.0,2.0,0.0,,1996.0,['Horror'],4826,,,,,,Matthew Ike Angel,,,,,
+4834,,,"Carmilla, the Lesbian Vampire",0.0,85.0,,,en,1.314,12.0,2.7,0.0,,2004.0,['Horror'],4835,,,,,,Bonny Giroux,,,,,
+5089,,,Chanoc vs. the Tiger and the Vampire,0.0,85.0,,,es,0.89,6.0,5.0,0.0,Chanoc Collection,1972.0,"['Action', ' Horror']",5090,,,,,,Germán Valdés,,,,,Latino/Hispanic
+5364,14421091.0,/m/0270k40,Cirque du Freak: The Vampire's Assistant,39102650.0,119.0,['English'],['United States of America'],,,,,,,2009.0,"['Thriller', 'Horror', 'Creature Film', 'Action/Adventure', 'Fantasy', ""Children's Fantasy""]",5365,/m/0270k40,Darren Shan,1992-03-29,M,1.83,Chris Massoglia,17.0,/m/07smql7,/m/09twcm,/m/05c2qq9,North American
+5513,,,Club Vampire,0.0,76.0,,,en,1.43,5.0,2.0,0.0,,1998.0,['Horror'],5514,,,,,,John Savage,,,,,
+5788,,,Count Duckula: The Vampire Strikes Back,0.0,60.0,,,en,0.6,0.0,0.0,0.0,,1988.0,"['Animation', ' Comedy', ' Family', ' Horror']",5789,,,,,,David Jason,,,,,European
+5789,3374673.0,/m/09895j,"Count Yorga, Vampire",7000000.0,90.0,['English'],['United States of America'],en,4.009,38.0,5.6,64000.0,Count Yorga Collection,1970.0,['Horror'],5790,/m/09895j,,1925-11-03,,,Robert Quarry,44.0,/m/0jwqbd,,/m/0h6qzs,
+6048,,,Crucible of the Vampire,0.0,104.0,,,en,2.93,5.0,4.3,0.0,,2019.0,"['Drama', ' Fantasy', ' Horror', ' Mystery']",6049,,,,,,Katie Goldfinch,,,,,
+6094,,,Crypt of the Vampire,0.0,82.0,,,it,2.376,15.0,4.7,0.0,,1964.0,['Horror'],6095,,,,,,Christopher Lee,,,,,European
+6140,,,Cult of the Vampire,0.0,79.0,,,en,0.6,0.0,0.0,0.0,,2016.0,"['Fantasy', ' Horror']",6141,,,,,,Iva Stelmak,,,,,
+6453,,,Danni and The Vampire,0.0,103.0,,,en,1.4,6.0,9.5,0.0,,2022.0,"['Comedy', ' Horror']",6454,,,,,,Alexandra Landau,,,,,
+6700,,,Date with a Vampire,0.0,59.0,,,en,0.6,1.0,2.0,0.0,,2001.0,['Horror'],6701,,,,M,,Matt O'Leary,,,,,North American
+6701,,,Dating a Vampire,0.0,87.0,,,en,1.508,1.0,1.0,0.0,,2006.0,['Horror'],6702,,,,,,Ayres Went,,,,,
+7920,25326327.0,/m/09ggg4g,Dinner with a Vampire,0.0,90.0,['Italian'],['Italy'],it,2.197,23.0,5.4,0.0,,1988.0,"['Horror', 'World cinema']",7921,/m/09ggg4g,,1969-01-01,,,Yvonne Sciò,18.0,/m/0cg3phb,,/m/0dnvtq,
+8054,,,Doctor Vampire,0.0,98.0,,,cn,1.244,1.0,5.0,0.0,,1990.0,"['Comedy', ' Horror']",8055,,,,M,,Bowie Lam,,,,,Asian
+8532,,,Dracula: The Original Living Vampire,0.0,86.0,,,en,7.332,12.0,3.8,0.0,,2022.0,"['Fantasy', ' Horror', ' Thriller']",8533,,,,,,Jake Herbert,,,,,
+9034,1667811.0,/m/05l_gp,Embrace of the Vampire,0.0,93.0,['English'],['United States of America'],en,15.35,100.0,5.0,500000.0,,1995.0,"['Cult', 'Erotic thriller', 'Horror', 'Erotica', 'Indie']",9035,/m/05l_gp,,1961-10-10,,1.83,Martin Kemp,33.0,/m/062trxt,,/m/01vw18n,
+9055,24338635.0,/m/07s4bqy,Empress Vampire,,,"['Chinese language', 'English']",['United States of America'],,,,,,,,"['Musical', 'Horror']",9056,,,,,,Ange Maya,,,,,
+9236,,,Eulogy for a Vampire,0.0,107.0,,,en,1.3,3.0,5.0,200000.0,,2009.0,['Horror'],9237,,,,,,Ryan G. Metzger,,,,,
+9884,3520726.0,/m/09j3wh,Female Vampire,0.0,110.0,['French'],"['France', 'Belgium']",fr,4.415,41.0,4.2,0.0,,1973.0,"['Horror', 'Erotica', 'Adult', 'Creature Film', 'Cult', 'Sexploitation']",9885,/m/09j3wh,Hotel Masseur,,,,Raymond Hardy,,/m/0l0zzsm,/m/0l0zzsq,/m/0gc5m7d,
+9896,,,Ferat Vampire,0.0,93.0,,,cs,1.805,19.0,5.7,0.0,,1982.0,"['Horror', ' Science Fiction']",9897,,,,M,,Jirí Menzel,,,,,European
+10029,,,Fist of the Vampire,0.0,96.0,,,en,1.615,6.0,5.3,0.0,,2007.0,"['Action', ' Horror']",10030,,,,,,Brian Heffron,,,,,North American
+10226,,,Forest of the Vampire,0.0,0.0,,,en,1.523,0.0,0.0,0.0,,2016.0,['Horror'],10227,,,,,,Caitlyn Moore,,,,,
+10394,,,"Frankenstein, the Vampire and Company",0.0,76.0,,,es,1.081,4.0,4.5,0.0,,1962.0,"['Comedy', ' Horror', ' Science Fiction']",10395,,,,F,,Sandra Julien,,,,,European
+10574,,,Frost: Portrait of a Vampire,0.0,90.0,,,en,1.403,5.0,2.4,0.0,,2003.0,"['Horror', ' Thriller']",10575,,,,M,,Gary Busey,,,,,North American
+11445,26140666.0,/m/0b6lnfh,Grave of the Vampire,0.0,95.0,[],['United States of America'],en,3.036,23.0,6.1,50000.0,,1974.0,['Horror'],11446,/m/0b6lnfh,,1938-01-16,,,Michael Pataki,35.0,/m/0csg901,,/m/07bpwm,North American
+12118,,,Hawk and Rev: Vampire Slayers,0.0,85.0,,,en,0.873,7.0,5.9,0.0,,2020.0,"['Comedy', ' Horror']",12119,,,,,,Ryan Barton-Grimley,,,,,
+12344,,,Hello Dracula 2: Son of the Vampire,0.0,87.0,,,zh,1.4,1.0,6.0,0.0,Hello Dracula Collection,1987.0,"['Adventure', ' Comedy', ' Fantasy', ' Horror']",12345,,,,,,Shadow Liu,,,,,
+12350,,,"Hello, Mr. Vampire",0.0,65.0,,,zh,0.6,3.0,8.0,0.0,,2016.0,"['Action', ' Fantasy', ' Horror', ' Romance']",12351,,,,,,Antonio Anuk,,,,,
+12424,,,Here Comes a Vampire,0.0,93.0,,,en,0.706,0.0,0.0,0.0,,1990.0,"['Comedy', ' Horror']",12425,,,,,,Joanna Chan,,,,,
+12855,,,Hopping Vampire Vs. Zombie,0.0,62.0,,,zh,0.6,0.0,0.0,0.0,,2015.0,"['Comedy', ' Horror']",12856,,,,,,Jingchuan Xu,,,,,
+12976,,,Hot Vampire Nights,0.0,57.0,,,en,0.6,1.0,1.0,0.0,,2000.0,['Horror'],12977,,,,,,Shelly Jones,,,,,
+13345,14267167.0,/m/03czpx9,I Bought a Vampire Motorcycle,0.0,101.0,['English'],"['United States of America', 'United Kingdom']",en,2.256,28.0,5.6,0.0,,1990.0,"['Parody', 'Horror', 'Slasher', 'Horror Comedy']",13346,/m/03czpx9,Noddy,1962-07-04,,1.91,Neil Morrissey,27.0,/m/0cg0g_x,/m/0h27l7q,/m/02pvs8,
+13393,,,I Married a Vampire,0.0,89.0,,,en,0.6,1.0,2.0,0.0,,1987.0,"['Drama', ' Horror']",13394,,,,,,Rachel Golden,,,,,
+13496,,,"I, Vampire",0.0,85.0,,,fr,0.6,4.0,6.4,10000000.0,,2000.0,['Horror'],13497,,,,,,Kaileen Angelic Chang,,,,,
+13561,,,Igor the Vegan Vampire,0.0,5.0,,,en,0.6,0.0,0.0,100.0,,2019.0,"['Comedy', ' Horror']",13562,,,,,,Carlos Diehz,,,,,
+13789,,,Indemnity: Rage of a Jealous Vampire,0.0,51.0,,,en,0.904,2.0,3.5,0.0,,2012.0,"['Drama', ' Horror', ' Mystery', ' Thriller']",13790,,,,,,David Dietz,,,,,
+13993,,,Interview with the Vampire,223664608.0,123.0,,,en,42.674,4852.0,7.4,60000000.0,The Vampire Chronicles Collection,1994.0,"['Drama', ' Fantasy', ' Horror']",13994,,,,,,Jacob Anderson,,,,,European
+13994,3239688.0,/m/02p76f9,Interview with the Vampire: The Vampire Chronicles,223664608.0,123.0,"['French', 'English']",['United States of America'],,,,,,,1994.0,"['Drama', 'Horror', 'Fantasy']",13995,/m/02p76f9,Armand,1960-08-10,M,1.74,Antonio Banderas,34.0,/m/02vb8wm,/m/06rzz0,/m/0436kgz,European
+14409,623593.0,/m/02xstw,Jesus Christ Vampire Hunter,0.0,85.0,['English'],['Canada'],en,6.173,81.0,4.6,100000.0,,2002.0,"['LGBT', 'Parody', 'Horror', 'Musical comedy', 'Cult', 'Musical', 'Satire', 'Comedy', 'Horror Comedy']",14410,/m/02xstw,,,,,Lucky Ron,,/m/0gck48m,,/m/0gc8jw3,
+14443,,,Joe Vampire,0.0,67.0,,,en,0.6,0.0,0.0,3500.0,,2012.0,['Horror'],14444,,,,,,Mike Christopher,,,,,
+14519,,,Jugular Wine: A Vampire Odyssey,0.0,95.0,,,en,0.74,2.0,4.0,0.0,,1994.0,['Horror'],14520,,,,,,Shaun Irons,,,,,
+14580,,,Just the Vampire Hunter,0.0,93.0,,,en,1.255,1.0,4.0,0.0,,2012.0,"['Action', ' Horror']",14581,,,,,,Dustin James Leighton,,,,,
+14656,,,Kakame - Vampire Clay Derivation,0.0,100.0,,,ja,0.6,0.0,0.0,0.0,,2019.0,['Horror'],14657,,,,,,,,,,,
+15029,,,Kingdom of the Vampire,0.0,82.0,,,en,0.985,0.0,0.0,0.0,,2007.0,['Horror'],15030,,,,,,Matthew Jason Walsh,,,,,
+15030,,,Kingdom of the Vampire,0.0,70.0,,,en,0.6,2.0,3.0,2500.0,,1991.0,['Horror'],15031,,,,,,Matthew Jason Walsh,,,,,
+15054,25008136.0,/m/0crvlqy,Kiss of the Vampire,,111.0,['English'],['United States of America'],,,,,,,2007.0,"['Drama', 'Romantic drama', 'Romance Film', 'Horror']",15055,/m/0crvlqy,,1971-08-28,M,1.88,Daniel Goddard,35.0,/m/0cs3j6r,,/m/077dsn,European
+15196,,,Kung Fu Vampire,94680.0,92.0,,,cn,0.6,1.0,5.0,0.0,,1993.0,"['Action', ' Comedy', ' Horror']",15197,,,,,,Katherine Beresford,,,,,
+15197,,,Kung Fu Vampire Killers,0.0,92.0,,,en,0.6,0.0,0.0,16000.0,,2001.0,"['Comedy', ' Horror']",15198,,,,,,Katherine Beresford,,,,,
+15339,27884321.0,/m/0ch5wx3,La Vampire Nue,,90.0,[],[],,,,,,,,['Horror'],15340,/m/0ch5wx3,,1950-02-05,F,,Catherine Castel,,/m/0gvz0wp,,/m/0cc6bsm,European
+15440,,,Lady Vampire,1000000.0,120.0,,,km,0.6,4.0,5.0,9000.0,,2004.0,['Horror'],15441,,,,,,Martin Kemp,,,,,
+15446,,,Lady of the Dark: Genesis of the Serpent Vampire,0.0,63.0,,,en,1.186,0.0,0.0,0.0,,2011.0,['Horror'],15447,,,,,,Melanie Denholme,,,,,
+15751,17789399.0,/m/047g4zk,Lesbian Vampire Killers,0.0,86.0,['English'],"['England', 'United Kingdom']",en,14.434,309.0,5.3,0.0,,2009.0,"['Parody', 'Action', 'Horror', 'Comedy', 'Horror Comedy']",15752,/m/047g4zk,Trudi,1986-02-08,F,,Ashley Mulheron,23.0,/m/0czyk06,/m/0h5m8cj,/m/09lpt_,European
+16202,,,Love Me Vampire,0.0,0.0,,,cn,0.6,1.0,6.0,0.0,,1986.0,"['Comedy', ' Horror']",16203,,,,,,Siu-Ho Chin,,,,,
+16335,4691910.0,/m/0chl70,Lust for a Vampire,0.0,95.0,['English'],['United Kingdom'],en,5.85,46.0,6.0,0.0,Karnstein (Hammer) Trilogy,1971.0,"['Thriller', 'Horror', 'Erotica']",16336,/m/0chl70,,1948-04-15,F,,Pippa Steel,22.0,/m/0gcns0q,,/m/0c3p7r,European
+16341,,,Lust of the Vampire,0.0,81.0,,,it,3.058,52.0,6.4,0.0,,1957.0,"['Crime', ' Horror', ' Science Fiction']",16342,,,,,,Jeff Christensen,,,,,
+16342,,,Lust of the Vampire Hookers,0.0,70.0,,,en,0.6,0.0,0.0,0.0,,1999.0,['Horror'],16343,,,,,,,,,,,
+16803,627935.0,/m/02y8kn,Mark of the Vampire,,60.0,['English'],['United States of America'],,,,,,,1935.0,"['Thriller', 'Detective fiction', 'Horror', 'Detective', 'Gothic Film', 'Black-and-white', 'Mystery']",16804,/m/02y8kn,,1897-06-18,,,Henry Wadsworth,,/m/05n9723,,/m/05bh67d,
+16821,,,Marty Jenkins and the Vampire Bitches,0.0,80.0,,,en,1.474,0.0,0.0,0.0,,2006.0,"['Comedy', ' Horror']",16822,,,,,,Shawn A. Green,,,,,
+17429,,,Mom's Got a Date with a Vampire,0.0,85.0,,,en,11.775,100.0,5.7,0.0,,2000.0,"['Comedy', ' Family', ' Fantasy', ' Horror', ' TV Movie']",17430,,,,M,,Matt O'Leary,,,,,North American
+17430,,,"Mom, If I Were a Vampire",0.0,17.0,,,zh,0.6,0.0,0.0,20000.0,,2022.0,"['Horror', ' Thriller']",17431,,,,,,Ting Chiu,,,,,
+17573,,,Montrak - Meister der Vampire,0.0,0.0,,,de,0.841,0.0,0.0,0.0,,2002.0,['Horror'],17574,,,,,,Adrian Ogaza,,,,,
+17614,,,Morbius: The Living Vampire,0.0,12.0,,,en,1.575,3.0,2.7,0.0,,2014.0,"['Action', ' Horror']",17615,,,,,,Adam Michaels,,,,,
+17693,,,Mother Riley Meets the Vampire,0.0,74.0,,,en,1.892,14.0,4.5,0.0,Old Mother Riley Collection,1952.0,"['Comedy', ' Horror']",17694,,,,,,Arthur Lucan,,,,,
+17740,,,Mr Vampire Saga 4,0.0,96.0,,,cn,5.015,12.0,7.5,0.0,Mr. Vampire Collection,1988.0,"['Comedy', ' Horror']",17741,,,,,,Anthony Chan,,,,,
+17767,2052515.0,/m/06hrvl,Mr. Vampire,0.0,94.0,"['Standard Cantonese', 'Standard Mandarin', 'Cantonese']",['Hong Kong'],cn,8.125,69.0,6.8,0.0,Mr. Vampire Collection,1985.0,"['Parody', 'Horror', 'World cinema', 'Chinese Movies', 'Martial Arts Film', 'Horror Comedy', 'Action', 'Slapstick', 'Comedy']",17768,/m/06hrvl,,1952-12-27,,,Lam Ching Ying,32.0,/m/02vbx8_,,/m/06vh34,
+17768,,,Mr. Vampire 1992,0.0,88.0,,,cn,3.671,10.0,6.3,0.0,Mr. Vampire Collection,1992.0,"['Comedy', ' Horror']",17769,,,,,,Ching-Ying Lam,,,,,
+17769,27306334.0,/m/0by0w2p,Mr. Vampire II,0.0,91.0,"['Cantonese', 'Standard Mandarin', 'Standard Cantonese']",['Hong Kong'],cn,5.225,18.0,6.4,0.0,Mr. Vampire Collection,1986.0,"['Horror', 'Comedy', 'World cinema', 'Chinese Movies']",17770,/m/0by0w2p,,1952-12-27,,,Lam Ching Ying,33.0,/m/0byks37,,/m/06vh34,
+17770,27445334.0,/m/0b_zmlc,Mr. Vampire III,0.0,90.0,"['Cantonese', 'Standard Mandarin', 'Standard Cantonese']",['Hong Kong'],cn,5.257,23.0,7.2,0.0,Mr. Vampire Collection,1987.0,"['Horror', 'Comedy', 'World cinema', 'Chinese Movies']",17771,/m/0b_zmlc,,1952-12-27,,,Lam Ching Ying,34.0,/m/0c05fwh,,/m/06vh34,
+17771,27445372.0,/m/0c02drx,Mr. Vampire IV,,96.0,['Standard Cantonese'],['Hong Kong'],,,,,,,1988.0,"['Horror', 'Chinese Movies']",17772,/m/0c02drx,,1965-08-06,,,Chin Ka Lok,22.0,/m/0g5v6n2,,/m/06ttzt,
+17772,27445422.0,/m/0c023ht,Mr. Vampire V,,88.0,['Standard Cantonese'],['Hong Kong'],,,,,,,1992.0,"['Horror', 'Chinese Movies']",17773,/m/0c023ht,,1952-12-27,,,Lam Ching Ying,39.0,/m/0c05gky,,/m/06vh34,
+17921,,,Mutant Vampire Zombies from the 'Hood!,0.0,81.0,,,en,2.183,8.0,2.8,0.0,,2010.0,"['Comedy', ' Horror']",17922,,,,M,,C. Thomas Howell,,,,,North American
+17949,29333670.0,/m/0ds5m7l,My Babysitter's a Vampire,0.0,80.0,[],[],en,18.017,335.0,6.9,0.0,,2010.0,"['Horror', 'Comedy film', 'Fantasy', 'Adventure']",17950,,,,M,,Matthew Knight,,,,,European
+17950,4306406.0,/m/0bw6_3,My Best Friend Is a Vampire,174.0,89.0,['English'],['United States of America'],en,9.069,73.0,5.9,0.0,,1988.0,"['Horror', 'Comedy', 'Teen']",17951,/m/0bw6_3,,1958-05-01,,1.8,Cecilia Peck,,/m/0cgnlwh,,/m/027sx7c,
+18001,,,My Honeymoon with a Vampire,0.0,90.0,,,en,0.6,0.0,0.0,0.0,,2003.0,['Horror'],18002,,,,F,,Carmen Machi,,,,,European
+18048,,,My Vampire Lover,0.0,100.0,,,en,1.179,5.0,5.6,0.0,,2002.0,"['Comedy', ' Horror']",18049,,,,,,Paige Richards,,,,,
+18052,,,My password is: vampire,0.0,8.0,,,es,0.6,0.0,0.0,0.0,,2016.0,['Horror'],18053,,,,,,Robert Sean Leonard,,,,,North American
+18356,29042331.0,/m/0dgp6t1,New Mr. Vampire,0.0,84.0,['Cantonese'],['Hong Kong'],cn,1.465,4.0,6.5,0.0,,1987.0,"['Comedy horror', 'Horror', 'Chinese Movies']",18357,/m/0dgp6t1,,,,,Wang Ha,,/m/0gc_bf1,,/m/0gblt5s,
+18357,,,New Mr. Vampire II,0.0,86.0,,,zh,0.686,2.0,6.3,0.0,,1991.0,"['Comedy', ' Horror']",18358,,,,,,Ching-Ying Lam,,,,,
+18370,,,New York Vampire,0.0,73.0,,,en,0.6,5.0,3.8,0.0,,1991.0,['Horror'],18371,,,,,,Tommy Sweeney,,,,,
+18599,,,Night of the Vampire Hunter,0.0,0.0,,,de,0.6,0.0,0.0,0.0,,2000.0,['Horror'],18600,,,,,,Nicole Bujard,,,,,
+18940,,,Nosferatu: The First Vampire,0.0,70.0,,,en,1.495,8.0,5.0,0.0,,1998.0,['Horror'],18941,,,,M,,David Carradine,,,,,North American
+20504,,,Pra/ey: A Vampire Film Short by Lia Scott Price,0.0,15.0,,,en,0.6,0.0,0.0,0.0,,2012.0,['Horror'],20505,,,,,,Brandon Murphy Barnes,,,,,
+20694,,,Project Vampire,0.0,88.0,,,en,1.615,6.0,4.2,0.0,,1992.0,"['Action', ' Horror']",20695,,,,,,Myron Natwick,,,,,North American
+20751,,,Psychic Vampire,0.0,95.0,,,en,0.6,0.0,0.0,300.0,,2022.0,"['Comedy', ' Horror']",20752,,,,,,Kaatia Fedrow,,,,,
+20793,,,Psycho Vampire,0.0,90.0,,,en,0.6,0.0,0.0,0.0,,1992.0,['Horror'],20794,,,,,,Ben Morgan,,,,,
+21389,,,Redwood Justin: Vampire Hunter: Dance with a Vampire,0.0,118.0,,,en,0.6,0.0,0.0,0.0,,2006.0,['Horror'],21390,,,,,,Stacey T. Gillespie,,,,,
+21501,,,Requiem for a Vampire,0.0,87.0,,,fr,3.283,51.0,4.9,0.0,,1971.0,['Horror'],21502,,,,,,Matt Locker,,,,,
+21502,,,Requiem for a Vampire,0.0,94.0,,,en,1.079,3.0,4.2,0.0,,2006.0,"['Drama', ' Horror', ' Thriller']",21503,,,,,,Matt Locker,,,,,
+21607,,,Return of the vampire,0.0,9.0,,,es,0.6,0.0,0.0,0.0,,2015.0,['Horror'],21608,,,,M,,Bela Lugosi,,,,,European
+21731,,,Ring of the vampire,0.0,6.0,,,es,0.6,0.0,0.0,0.0,,2018.0,['Horror'],21732,,,,M,,Elijah Wood,,,,,North American
+21822,,,Robo Vampire,0.0,90.0,,,en,2.672,26.0,4.7,2500000.0,The Robo-Warrior Trilogy,1988.0,"['Action', ' Crime', ' Horror', ' Thriller']",21823,,,,,,Robin Mackay,,,,,
+21838,,,Rockabilly Vampire,0.0,90.0,,,en,0.6,4.0,4.0,0.0,,1996.0,"['Comedy', ' Horror']",21839,,,,,,Stephen Blackehart,,,,,North American
+22110,,,Sacrifice: A Vampire Tale,0.0,9.0,,,en,0.6,0.0,0.0,30000.0,,2009.0,"['Horror', ' Thriller']",22111,,,,M,,Julian Sands,,,,,European
+22203,21070824.0,/m/05c42zy,Samson vs. the Vampire Women,,89.0,['Spanish'],['Mexico'],,,,,,,1962.0,"['Horror', 'Black-and-white', 'Superhero movie']",22204,/m/05c42zy,,,,,Armando Acosta,,/m/0hmwm93,,/m/0hmwm96,
+22207,,,Samurai Vampire Bikers from Hell,0.0,60.0,,,en,0.876,0.0,0.0,0.0,,1992.0,"['Action', ' Comedy', ' Fantasy', ' Horror']",22208,,,,,,Scott Shaw,,,,,
+22276,,,Santo vs. the Vampire Women,0.0,89.0,,,es,3.002,29.0,4.3,0.0,,1962.0,"['Action', ' Fantasy', ' Horror']",22277,,,,,,Mister Lobo,,,,,
+22956,,,Sex and the Single Vampire,0.0,54.0,,,en,1.176,5.0,4.4,0.0,,1970.0,"['Comedy', ' Horror']",22957,,,,,,John Holmes,,,,,
+23002,,,Shadow Tracker: Vampire Hunter,0.0,120.0,,,en,0.6,0.0,0.0,0.0,,1999.0,['Horror'],23003,,,,,,Ron Rausch,,,,,
+23016,213224.0,/m/01f7b2,Shadow of the Vampire,11155214.0,93.0,"['English', 'German', 'Luxembourgish language']","['United States of America', 'Luxembourg', 'United Kingdom']",en,11.449,459.0,6.7,8000000.0,,2000.0,"['Horror', 'Indie', 'Gothic Film', 'Period piece', 'Drama', 'Costume Horror']",23017,/m/01f7b2,,,,,Nicholas Elliott,,/m/0gcjds6,,/m/0gcjds9,
+23087,,,Shaolin vs. Vampire,0.0,90.0,,,ja,1.142,2.0,4.3,0.0,,1988.0,"['Action', ' Comedy', ' Fantasy', ' Horror']",23088,,,,,,Chia-Hui Liu,,,,,
+23170,,,She: The Vampire,0.0,75.0,,,en,0.6,1.0,1.0,0.0,,1998.0,['Horror'],23171,,,,,,Elisabetta Principe,,,,,
+23224,,,Shira: The Vampire Samurai,0.0,0.0,,,en,0.651,2.0,3.3,0.0,,2005.0,"['Action', ' Adventure', ' Horror']",23225,,,,,,Chona Jason,,,,,
+23351,,,Sicilian Vampire,0.0,124.0,,,en,1.294,10.0,4.3,0.0,,2015.0,"['Crime', ' Drama', ' Horror', ' Thriller']",23352,,,,,,Vittorio Altomare,,,,,
+23377,,,Sifu vs. Vampire,0.0,96.0,,,cn,2.372,3.0,5.0,0.0,,2014.0,"['Action', ' Comedy', ' Fantasy', ' Horror']",23378,,,,,,Michael Chan,,,,,European
+23732,20575233.0,/m/051yjsh,Sleeper: A Vampire Movie,,,['English'],['United Kingdom'],,,,,,,,"['Horror', 'Comedy']",23733,/m/051yjsh,,1930-12-04,,1.524,Ronnie Corbett,,/m/059t2d5,,/m/024l_d,European
+24126,,,Space Vampire,0.0,0.0,,,en,0.6,0.0,0.0,0.0,,2021.0,"['Drama', ' Fantasy', ' Horror']",24127,,,,M,,Lloyd Kaufman,,,,,North American
+24404,,,Stalking Vampire,0.0,82.0,,,ja,0.6,0.0,0.0,0.0,,2018.0,['Horror'],24405,,,,,,,,,,,
+24739,,,Sucker: The Vampire,0.0,91.0,,,en,2.0,7.0,2.9,0.0,,1998.0,"['Comedy', ' Horror']",24740,,,,,,Yan Birch,,,,,
+24813,7413271.0,/m/0kv6xq,Sundown: The Vampire in Retreat,0.0,104.0,['English'],['United States of America'],en,7.187,44.0,6.4,2800000.0,,1990.0,"['Action/Adventure', 'Western', 'Horror', 'Comedy', 'Supernatural']",24814,/m/0kv6xq,Robert Van Helsing,1958-06-22,M,1.85,Bruce Campbell,31.0,/m/02tb77_,/m/0h0z02f,/m/01h8f,North American
+24838,,,Super-Horror Experience 2: Vampire Spirit,0.0,30.0,,,ja,0.6,0.0,0.0,0.0,,1995.0,['Horror'],24839,,,,,,Tsutsumi Mari,,,,,
+25122,,,Tale of a Vampire,1000000.0,93.0,,,en,13.971,14.0,5.1,0.0,,1992.0,"['Drama', ' Horror', ' Romance']",25123,,,,M,,Julian Sands,,,,,European
+25321,,,Teenage Bikini Vampire,0.0,7.0,,,en,0.6,1.0,6.0,1300.0,,2004.0,"['Comedy', ' Horror']",25322,,,,,,Ashley Fox,,,,,European
+25330,,,Teenage Vampire,0.0,90.0,,,en,1.246,1.0,5.5,0.0,,2020.0,"['Comedy', ' Horror']",25331,,,,,,Claire Tablizo,,,,,
+26010,,,The Black Water Vampire,0.0,82.0,,,en,3.877,32.0,4.5,0.0,,2014.0,"['Horror', ' Mystery', ' Thriller']",26011,,,,,,Danielle Lozeau,,,,,
+26084,,,The Bloody Vampire,0.0,110.0,,,es,1.4,8.0,8.4,0.0,,1962.0,['Horror'],26085,,,,,,Begoña Palacios,,,,,
+26482,,,The Close Encounters of Vampire,0.0,72.0,,,es,0.6,0.0,0.0,0.0,,1986.0,"['Action', ' Comedy', ' Horror']",26483,,,,,,Richard Dreyfuss,,,,,North American
+27219,,,The Education of a Vampire,0.0,0.0,,,en,1.132,1.0,2.0,0.0,,2001.0,['Horror'],27220,,,,,,George Balakirian,,,,,
+27433,1353086.0,/m/04w2c6,The Fearless Vampire Killers,0.0,108.0,['English'],"['United States of America', 'United Kingdom']",en,12.053,576.0,7.1,2000000.0,,1967.0,"['Parody', 'Cult', 'Horror', 'Comedy']",27434,/m/04w2c6,,1936-05-09,,,Terry Downes,30.0,/m/0gcdr7b,,/m/026ywx3,European
+27434,,,The Fearless Vampire Killers: Vampires 101,0.0,10.0,,,en,0.696,11.0,6.7,0.0,,1966.0,"['Comedy', ' Horror']",27435,,,,,,Max Wall,,,,,European
+27493,,,The First Vampire in China,0.0,88.0,,,cn,0.84,1.0,4.0,0.0,,1986.0,"['Adventure', ' Fantasy', ' Horror']",27494,,,,M,,Christian Slater,,,,,North American
+27797,,,The Golden Nazi Vampire of Absam: Part II - The Secret of Kottlitz Castle,0.0,45.0,,,de,0.986,3.0,4.8,0.0,,2007.0,"['Comedy', ' Horror']",27798,,,,,,Daniel Krauss,,,,,
+28159,,,The Horrible Sexy Vampire,0.0,90.0,,,es,0.985,5.0,4.1,0.0,,1971.0,['Horror'],28160,,,,,,Wal Davis,,,,,
+28490,,,The Ironbound Vampire,0.0,59.0,,,en,0.65,2.0,2.5,0.0,,1994.0,['Horror'],28491,,,,F,,Dolores Fuller,,,,,North American
+28603,2091700.0,/m/06lk7c,The Kiss of the Vampire,0.0,88.0,['English'],['United Kingdom'],en,5.299,70.0,6.2,0.0,,1963.0,['Horror'],28604,/m/06lk7c,,1932-09-04,,,Edward de Souza,31.0,/m/0k5l6_,,/m/04t55p,
+28620,,,The Lady Vampire,0.0,78.0,,,ja,0.6,4.0,5.8,0.0,,1959.0,['Horror'],28621,,,,,,Melanie Denholme,,,,,
+28631,,,The Lake Vampire,0.0,102.0,,,es,0.683,9.0,5.7,0.0,,2018.0,"['Crime', ' Horror', ' Mystery', ' Thriller']",28632,,,,,,Gerardo H. Fernández,,,,,
+28732,,,The Last Vampire On Earth,0.0,80.0,,,en,1.416,4.0,2.8,250000.0,,2010.0,"['Horror', ' Romance']",28733,,,,,,McKenzie Grimmett,,,,,
+29306,,,The Musical Vampire,0.0,90.0,,,cn,2.022,8.0,5.1,0.0,,1992.0,"['Comedy', ' Horror']",29307,,,,,,Stanley Sui-Fan Fung,,,,,
+29477,,,The Not So Bright Vampire,0.0,3.0,,,en,0.6,0.0,0.0,0.0,,2020.0,"['Comedy', ' Horror']",29478,,,,F,,June Allyson,,,,,North American
+29482,,,The Nude Vampire,0.0,85.0,,,en,4.273,35.0,4.9,0.0,,1970.0,"['Horror', ' Science Fiction']",29483,,,,,,Caroline Cartier,,,,,
+29808,,,The Playgirls and the Vampire,0.0,70.0,,,it,0.889,7.0,5.1,0.0,,1960.0,['Horror'],29809,,,,,,Kim Newman,,,,,
+29967,,,The Rape of the Vampire,0.0,95.0,,,fr,1.903,26.0,5.4,0.0,,1968.0,['Horror'],29968,,,,M,,Jean Rollin,,,,,European
+30098,7274197.0,/m/0kv2zp,The Return of the Vampire,,70.0,['English'],['United States of America'],,,,,,,1944.0,"['Horror', 'Creature Film']",30099,/m/0kv2zp,,1913-10-16,,,Matt Willis,30.0,/m/0gcpb8m,,/m/0gcp389,
+31142,,,The Vampire,0.0,75.0,,,en,3.413,25.0,6.4,0.0,,1957.0,['Horror'],31143,,,,F,,Nina Dobrev,,,,,European
+31144,,,The Vampire,0.0,90.0,,,th,0.6,0.0,0.0,0.0,,1985.0,['Horror'],31145,,,,F,,Nina Dobrev,,,,,European
+31145,,,The Vampire Assassin,0.0,19.0,,,en,0.6,0.0,0.0,0.0,,2007.0,['Horror'],31146,,,,,,Stefani Brown,,,,,
+31146,,,The Vampire Attack,0.0,1.0,,,xx,0.6,4.0,3.5,0.0,,2010.0,['Horror'],31147,,,,M,,Spike Jonze,,,,,North American
+31147,6550108.0,/m/0g9vy7,The Vampire Bat,,63.0,['English'],['United States of America'],,,,,,,1933.0,"['Thriller', 'Crime Thriller', 'Horror', 'Black-and-white', 'Mystery']",31148,/m/0g9vy7,,1899-02-22,M,,Dwight Frye,,/m/02vdcjs,,/m/05127t,North American
+31148,,,The Vampire Combat,0.0,91.0,,,en,0.84,1.0,4.0,0.0,,2001.0,"['Fantasy', ' Horror']",31149,,,,,,Jackie Chung-yin Lui,,,,,
+31149,,,The Vampire Conspiracy,0.0,86.0,,,en,0.6,0.0,0.0,0.0,,1995.0,['Horror'],31150,,,,,,Sarah Boes,,,,,
+31150,,,The Vampire Conspiracy,0.0,90.0,,,en,0.6,1.0,4.0,0.0,,2005.0,['Horror'],31151,,,,,,Sarah Boes,,,,,
+31151,,,The Vampire Doll,0.0,71.0,,,ja,3.461,32.0,7.3,0.0,The Bloodthirsty Trilogy,1970.0,['Horror'],31152,,,,,,Kayo Matsuo,,,,,
+31152,,,The Vampire Dominator,0.0,89.0,,,zh,0.6,1.0,5.0,0.0,,1984.0,['Horror'],31153,,,,,,Li-Yun Chen,,,,,
+31153,,,The Vampire Factory,0.0,90.0,,,fr,0.6,1.0,5.5,0.0,,1977.0,['Horror'],31154,,,,,,,,,,,
+31154,,,The Vampire Family,0.0,82.0,,,ru,0.845,6.0,5.7,0.0,,1990.0,['Horror'],31155,,,,,,Leandro Hassum,,,,,
+31155,,,The Vampire Girls,0.0,91.0,,,es,0.6,8.0,5.1,0.0,,1969.0,['Horror'],31156,,,,,,Jeff Christensen,,,,,
+31156,26448607.0,/m/0bbxs31,The Vampire Happening,0.0,102.0,['German'],['West Germany'],de,1.877,8.0,5.8,0.0,,1971.0,"['Horror', 'Comedy']",31157,/m/0bbxs31,,,,,Daria Damar,,/m/0gbqv_b,,/m/0gbqv_f,
+31157,,,The Vampire Is Alive,0.0,90.0,,,en,1.15,2.0,5.0,0.0,The Robo-Warrior Trilogy,1989.0,"['Action', ' Horror']",31158,,,,,,Sorapong Chatree,,,,,European
+31158,,,The Vampire King,0.0,75.0,,,en,0.6,1.0,10.0,0.0,,2017.0,['Horror'],31159,,,,,,Mark Morris,,,,,North American
+31159,2428193.0,/m/07cbtf,The Vampire Lovers,0.0,91.0,['English'],"['United States of America', 'United Kingdom']",en,8.065,139.0,6.5,0.0,Karnstein (Hammer) Trilogy,1970.0,"['Horror', 'Erotica']",31160,/m/07cbtf,,1920-01-08,M,,Douglas Wilmer,49.0,/m/03jr40c,,/m/0ckq6w,European
+31160,,,The Vampire Moth,0.0,89.0,,,ja,0.931,3.0,4.0,0.0,,1956.0,"['Horror', ' Mystery']",31161,,,,,,Arthur Lucan,,,,,
+31161,,,The Vampire Partner,0.0,86.0,,,cn,0.652,0.0,0.0,0.0,,1988.0,"['Comedy', ' Horror']",31162,,,,,,Lung Chen,,,,,
+31162,,,The Vampire Raiders,0.0,90.0,,,en,0.901,2.0,4.0,0.0,,1988.0,['Horror'],31163,,,,,,Deborah Grant,,,,,
+31163,,,The Vampire Sex Diaries,0.0,65.0,,,ja,2.3,0.0,0.0,0.0,,2011.0,['Horror'],31164,,,,,,Akie Harada,,,,,
+31164,,,The Vampire Wedding,0.0,94.0,,,cs,1.261,4.0,4.8,0.0,,1993.0,"['Comedy', ' Horror', ' Romance']",31165,,,,,,Rudolf Hrusínský,,,,,European
+31165,19800425.0,/m/04q6lbm,The Vampire Who Admires Me,,93.0,['Cantonese'],['Hong Kong'],,,,,,,2008.0,"['Crime Fiction', 'Thriller', 'Horror', 'Comedy film', 'Mystery', 'Drama', 'Chinese Movies']",31166,/m/04q6lbm,Macy,1982-09-20,,,J.J. Jia,26.0,/m/0j7t_6s,/m/0n662wk,/m/0gbxvnj,
+31166,,,The Vampire Wino,0.0,0.0,,,es,1.681,11.0,6.5,0.0,,1989.0,"['Comedy', ' Horror']",31167,,,,,,Liesel Hanson,,,,,
+31167,,,The Vampire and the Ballerina,0.0,85.0,,,it,0.88,14.0,5.9,0.0,,1960.0,['Horror'],31168,,,,F,,Nina Dobrev,,,,,European
+31168,,,The Vampire and the Starlet,0.0,90.0,,,es,0.6,1.0,5.0,0.0,,2010.0,"['Comedy', ' Horror']",31169,,,,F,,Nina Dobrev,,,,,European
+31169,,,The Vampire of Soho,0.0,0.0,,,en,1.352,0.0,0.0,0.0,,2018.0,"['Comedy', ' Horror', ' Romance']",31170,,,,,,Amelia Bennett,,,,,
+31170,,,The Vampire's Coffin,0.0,80.0,,,es,1.976,27.0,6.6,0.0,,1958.0,['Horror'],31171,,,,,,Abel Salazar,,,,,Latino/Hispanic
+31171,,,The Vampire's Curse,0.0,0.0,,,en,0.6,0.0,0.0,0.0,,1998.0,['Horror'],31172,,,,,,Lukas Beer,,,,,
+31172,,,"The Vampire, Vincent",0.0,9.0,,,en,0.6,0.0,0.0,0.0,,2020.0,"['Comedy', ' Horror']",31173,,,,,,John Hasler,,,,,
+31189,,,The Vegan Vampire,0.0,11.0,,,en,0.6,0.0,0.0,0.0,,2010.0,['Horror'],31190,,,,,,Carlos Diehz,,,,,
+31198,,,The Velvet Vampire,0.0,80.0,,,en,2.697,18.0,4.5,0.0,,1971.0,['Horror'],31199,,,,M,,Michael Blodgett,,,,,North American
+31203,,,The Vengeance of the Vampire Women,0.0,85.0,,,en,0.856,7.0,3.1,0.0,,1970.0,"['Action', ' Horror']",31204,,,,M,,John Malkovich,,,,,North American
+31335,,,The Werewolf Versus the Vampire Woman,0.0,95.0,,,es,3.23,29.0,5.6,0.0,Daninsky Werewolf Collection,1971.0,['Horror'],31336,,,,,,,,,,,
+31607,,,Therapy for a Vampire,0.0,85.0,,,de,2.708,25.0,5.9,0.0,,2014.0,"['Comedy', ' Horror']",31608,,,,M,,Anatole Taubman,,,,,European
+31741,,,This Darkness: The Vampire Virus,0.0,107.0,,,en,0.6,0.0,0.0,0.0,,2003.0,['Horror'],31742,,,,,,David Everritt,,,,,
+31955,,,To Sleep with a Vampire,0.0,81.0,,,en,0.923,7.0,3.9,0.0,,1993.0,"['Drama', ' Horror', ' Romance', ' Thriller']",31956,,,,M,,Scott Valentine,,,,,North American
+31959,,,To kill a vampire,0.0,10.0,,,es,0.6,0.0,0.0,0.0,,2014.0,['Horror'],31960,,,,,,Kirby Ellwood,,,,,
+32010,,,Tokyo Vampire Hotel,0.0,142.0,,,ja,1.961,8.0,6.4,0.0,,2017.0,"['Fantasy', ' Horror']",32011,,,,,,Ami Tomite,,,,,
+32353,,,Tropical Vampire,0.0,78.0,,,pt,1.4,2.0,4.0,0.0,,2016.0,['Horror'],32354,,,,,,Renata Davies,,,,,
+32632,,,Uncle Was A Vampire,0.0,85.0,,,it,0.616,5.0,5.7,0.0,,1959.0,"['Comedy', ' Horror']",32633,,,,,,,,,,,
+32858,,,V is for Vampire,0.0,65.0,,,en,0.6,0.0,0.0,20000.0,,2000.0,['Horror'],32859,,,,,,,,,,,
+32925,,,Vampire,0.0,120.0,,,en,4.893,37.0,6.1,0.0,,2011.0,"['Drama', ' Horror']",32926,,,,F,,Nina Dobrev,,,,,European
+32926,,,Vampire,0.0,100.0,,,en,3.03,4.0,7.5,0.0,,1979.0,"['Horror', ' TV Movie']",32927,,,,F,,Nina Dobrev,,,,,European
+32927,,,Vampire,0.0,18.0,,,th,0.6,5.0,6.4,0.0,,2008.0,"['Horror', ' Mystery']",32928,,,,F,,Nina Dobrev,,,,,European
+32928,,,Vampire,0.0,3.0,,,en,0.6,0.0,0.0,0.0,,2016.0,"['Horror', ' Music']",32929,,,,F,,Nina Dobrev,,,,,European
+32929,,,Vampire,0.0,3.0,,,en,0.6,2.0,7.0,0.0,,2017.0,['Horror'],32930,,,,F,,Nina Dobrev,,,,,European
+32930,,,Vampire,0.0,10.0,,,en,0.6,0.0,0.0,0.0,,1964.0,"['Drama', ' Horror']",32931,,,,F,,Nina Dobrev,,,,,European
+32931,,,Vampire,0.0,13.0,,,jv,0.6,1.0,7.0,0.0,,2014.0,"['Comedy', ' Horror']",32932,,,,F,,Nina Dobrev,,,,,European
+32932,3515134.0,/m/09hrrs,Vampire Assassin,0.0,90.0,['English'],['United States of America'],en,1.312,5.0,2.9,1500000.0,,2005.0,"['Thriller', 'Action/Adventure', 'Horror', 'Indie', 'Creature Film', 'Action Thrillers', 'Action']",32933,/m/09hrrs,,1964-03-15,,,Ron Hall,40.0,/m/0k7nn7,,/m/0gnvl5,
+32933,16154245.0,/m/03wbd7b,Vampire Bats,0.0,120.0,['English'],['United States of America'],en,6.28,20.0,4.8,0.0,,2005.0,"['Thriller', 'Science Fiction', 'Action', 'Horror']",32934,/m/03wbd7b,,1951-08-30,M,1.81,Timothy Bottoms,54.0,/m/04dfwps,,/m/03806d,North American
+32934,,,Vampire Black: Trail of the Dead,0.0,82.0,,,en,0.6,0.0,0.0,0.0,,2008.0,['Horror'],32935,,,,,,Scott Shaw,,,,,
+32935,,,Vampire Blues,0.0,91.0,,,en,2.164,3.0,2.0,0.0,,1999.0,['Horror'],32936,,,,,,Rachel Sheppard,,,,,
+32936,2914997.0,/m/08c8nm,Vampire Blvd.,,90.0,['English'],['United States of America'],,,,,,,2004.0,['Horror'],32937,/m/08c8nm,,1946-02-13,,,Joe Estevez,57.0,/m/02tb8gx,,/m/06gv55,North American
+32937,,,Vampire Boulevard,0.0,90.0,,,en,0.6,0.0,0.0,0.0,,2004.0,"['Action', ' Horror']",32938,,,,,,Michael Tin Fu Cheung,,,,,
+32938,,,Vampire Boys,0.0,70.0,,,en,3.423,23.0,4.0,0.0,Vampire Boys Collection,2011.0,['Horror'],32939,,,,,,Jason Lockhart,,,,,
+32939,,,Vampire Boys 2: The New Brood,0.0,75.0,,,en,2.972,21.0,2.9,20000.0,Vampire Boys Collection,2013.0,['Horror'],32940,,,,,,Addison Graham,,,,,
+32940,,,Vampire Brides,0.0,90.0,,,en,0.6,0.0,0.0,0.0,,1993.0,['Horror'],32941,,,,,,Dave Castiglione,,,,,
+32941,,,Vampire Burt's Serenade,0.0,76.0,,,en,0.65,5.0,7.4,0.0,,2020.0,"['Comedy', ' Horror', ' Music']",32942,,,,,,Kevin Scott Richardson,,,,,
+32942,,,Vampire Buster,0.0,93.0,,,cn,1.273,3.0,5.7,0.0,,1989.0,"['Comedy', ' Horror']",32943,,,,M,,Andy Dick,,,,,North American
+32943,,,Vampire C.E.O.,0.0,10.0,,,en,0.6,0.0,0.0,0.0,,2017.0,['Horror'],32944,,,,,,Chase Anderson,,,,,
+32944,,,Vampire Call Girls,0.0,73.0,,,en,1.4,3.0,3.7,0.0,,1998.0,['Horror'],32945,,,,,,Everette Hartsoe,,,,,
+32945,,,Vampire Camp,0.0,78.0,,,en,0.6,1.0,0.5,0.0,,2012.0,"['Comedy', ' Horror']",32946,,,,,,Levi J. Anderson,,,,,
+32946,,,Vampire Catholic School Girls from Hell,0.0,83.0,,,en,1.341,0.0,0.0,0.0,,2001.0,['Horror'],32947,,,,,,,,,,,
+32947,,,Vampire Chicks with Chainsaws,0.0,82.0,,,en,1.342,0.0,0.0,0.0,,2006.0,['Horror'],32948,,,,,,Adam Abram,,,,,
+32948,5818165.0,/m/0f72p7,Vampire Circus,0.0,87.0,['English'],['United Kingdom'],en,10.012,77.0,5.9,0.0,,1972.0,['Horror'],32949,/m/0f72p7,,1951-02-05,M,1.82,Robin Sachs,21.0,/m/02vcvw4,,/m/03jkr2,North American
+32949,,,Vampire City,0.0,71.0,,,en,0.6,0.0,0.0,1500.0,Vampire City,2009.0,"['Comedy', ' Horror']",32950,,,,,,Anna Alimani,,,,,
+32950,,,Vampire City 2: Rock 'N Roll Zombies from Outer Space,0.0,75.0,,,en,0.6,0.0,0.0,2500.0,Vampire City,2009.0,"['Action', ' Comedy', ' Horror']",32951,,,,,,Wolf Morrison,,,,,
+32951,,,Vampire Clan,0.0,87.0,,,en,4.016,20.0,4.4,0.0,,2002.0,['Horror'],32952,,,,M,,Drew Fuller,,,,,North American
+32952,,,Vampire Clay,0.0,81.0,,,ja,1.915,26.0,6.2,0.0,,2018.0,['Horror'],32953,,,,,,Ena Fujita,,,,,
+32953,,,Vampire Cleanup Department,0.0,93.0,,,cn,4.704,35.0,6.2,0.0,,2017.0,"['Action', ' Comedy', ' Horror']",32954,,,,,,Babyjohn Choi,,,,,
+32954,,,Vampire Club 3D,0.0,0.0,,,en,0.6,0.0,0.0,0.0,,2013.0,['Horror'],32955,,,,F,,Veronica Ricci,,,,,North American
+32955,,,Vampire Controller,0.0,91.0,,,cn,0.627,0.0,0.0,0.0,,2001.0,['Horror'],32956,,,,,,Gallen Lo,,,,,
+32956,,,Vampire Cop,0.0,89.0,,,en,1.308,6.0,3.3,0.0,,1990.0,"['Action', ' Horror']",32957,,,,,,Ed Cannon,,,,,
+32957,,,Vampire Cop Ricky,0.0,110.0,,,ko,2.119,10.0,4.5,0.0,,2006.0,"['Action', ' Comedy', ' Crime', ' Horror']",32958,,,,M,,Kim Soo-ro,,,,,Asian
+32958,,,Vampire Couch Trip,0.0,17.0,,,en,0.6,0.0,0.0,0.0,,2017.0,"['Horror', ' Thriller']",32959,,,,,,Ivy Rose Breslin,,,,,
+32959,,,Vampire Dentist,0.0,90.0,,,en,0.6,1.0,1.0,0.0,,2006.0,"['Comedy', ' Horror']",32960,,,,,,James Patrick Pettitt,,,,,
+32960,26334330.0,/m/0bbxywy,Vampire Diary,2000000.0,90.0,['English'],['United Kingdom'],en,2.816,18.0,4.5,0.0,,2006.0,"['LGBT', 'B-movie', 'Horror', 'Psychological thriller']",32961,/m/0bbxywy,,1980,,,Kate Sissons,26.0,/m/0gcfrtx,,/m/08r8hm,
+32961,,,Vampire Family,0.0,88.0,,,en,0.6,1.0,6.0,0.0,,1993.0,"['Comedy', ' Horror']",32962,,,,,,Leandro Hassum,,,,,
+32962,,,Vampire Femmes,0.0,90.0,,,en,0.6,0.0,0.0,0.0,,1999.0,['Horror'],32963,,,,M,,Jack Palance,,,,,North American
+32963,24168980.0,/m/07k50mv,Vampire Girl vs. Frankenstein Girl,0.0,85.0,['Japanese'],['Japan'],ja,5.971,74.0,5.5,0.0,,2009.0,"['Thriller', 'Science Fiction', 'Japanese Movies', 'World cinema', 'Horror', 'Action']",32964,/m/07k50mv,,1986-01-23,,1.58,Yukie Kawamura,23.0,/m/0gc6pwk,,/m/0281fs2,Asian
+32964,,,Vampire Girls,0.0,79.0,,,ja,1.84,0.0,0.0,0.0,,2011.0,"['Drama', ' Horror']",32965,,,,,,Everette Hartsoe,,,,,
+32965,,,Vampire Holocaust,0.0,72.0,,,en,0.6,1.0,3.0,0.0,,1997.0,['Horror'],32966,,,,,,Nick Stodden,,,,,
+32966,,,Vampire Hooker Hotel,0.0,3.0,,,en,0.6,0.0,0.0,0.0,,2018.0,['Horror'],32967,,,,,,Nathan Hill,,,,,
+32967,,,Vampire Hookers,0.0,82.0,,,en,2.6,16.0,4.0,0.0,,1978.0,"['Comedy', ' Horror']",32968,,,,M,,John Carradine,,,,,North American
+32968,,,Vampire Hunter,0.0,71.0,,,en,0.84,0.0,0.0,0.0,,2004.0,['Horror'],32969,,,,,,Andrew Philpot,,,,,
+32969,5162931.0,/m/0d5qll,Vampire Hunter D,0.0,80.0,['Japanese'],['Japan'],ja,18.575,377.0,6.6,0.0,Vampire Hunter D Collection,1985.0,"['Japanese Movies', 'World cinema', 'Animation', 'Anime', 'Fantasy', 'Horror']",32970,/m/0d5qll,,1948-03-15,,,Yusaku Yara,36.0,/m/02vbnty,,/m/04mw2h,Asian
+32970,1275719.0,/m/04pc3t,Vampire Hunter D: Bloodlust,151086.0,103.0,['English'],"['Japan', 'Hong Kong']",ja,18.001,447.0,7.5,0.0,Vampire Hunter D Collection,2000.0,"['Horror', 'World cinema', 'Animation', 'Anime', 'Fantasy', 'Japanese Movies', 'Romance Film', 'Action', 'Chinese Movies']",32971,/m/04pc3t,,1961-06-17,M,,Koichi Yamadera,39.0,/m/09vksqn,,/m/039tg4,Asian
+32971,,,Vampire In Vegas,0.0,82.0,,,en,2.622,15.0,2.1,0.0,,2009.0,['Horror'],32972,,,,,,Tony Todd,,,,,North American
+32972,,,Vampire Island,0.0,122.0,,,ja,2.973,18.0,5.4,0.0,,2009.0,['Horror'],32973,,,,,,Kôji Yamamoto,,,,,
+32973,4975477.0,/m/0cy03w,Vampire Journals,0.0,92.0,['English'],"['United States of America', 'Romania']",en,2.168,40.0,4.9,0.0,Subspecies Collection,1997.0,"['Thriller', 'Horror', 'Creature Film', 'Supernatural']",32974,/m/0cy03w,,1960-07-20,,,Jonathon Morris,36.0,/m/0k7ns5,,/m/07h7p2,
+32974,,,Vampire Junction,0.0,94.0,,,en,1.083,3.0,1.3,0.0,,2001.0,['Horror'],32975,,,,,,Samantha Olsen,,,,,
+32975,,,Vampire Kids,0.0,85.0,,,cn,0.99,4.0,3.5,0.0,,1991.0,"['Comedy', ' Horror']",32976,,,,M,,Billy Lau,,,,,North American
+32976,,,Vampire Killer Barbys,0.0,87.0,,,es,1.278,17.0,3.9,0.0,,1996.0,"['Horror', ' Music']",32977,,,,M,,Santiago Segura,,,,,European
+32977,,,Vampire Knights,0.0,83.0,,,en,1.302,3.0,7.5,0.0,,1988.0,"['Comedy', ' Horror']",32978,,,,F,,Robin Stille,,,,,North American
+32978,,,Vampire Night,0.0,73.0,,,ja,0.6,0.0,0.0,0.0,,2017.0,"['Action', ' Horror']",32979,,,,,,Cynthia Marie,,,,,
+32979,11768615.0,/m/02rrm6z,Vampire Noir,0.0,90.0,['English'],['United States of America'],en,0.6,0.0,0.0,0.0,,2007.0,['Horror'],32980,,,,,,William Marshall,,,,,
+32980,,,Vampire Nymphets,0.0,60.0,,,en,0.6,1.0,2.0,0.0,,2021.0,['Horror'],32981,,,,,,Valeria Hernandez,,,,,
+32981,,,Vampire Obsession,0.0,75.0,,,en,1.039,1.0,1.0,0.0,,2002.0,['Horror'],32982,,,,,,Anoushka,,,,,
+32982,,,Vampire Party,0.0,85.0,,,fr,1.944,36.0,4.4,0.0,,2008.0,"['Comedy', ' Fantasy', ' Horror']",32983,,,,M,,Patrick Mille,,,,,Latino/Hispanic
+32983,,,Vampire Princess Miyu,0.0,100.0,,,ja,1.178,6.0,7.3,0.0,,1988.0,"['Action', ' Animation', ' Fantasy', ' Horror']",32984,,,,,,Miki Nagasawa,,,,,Asian
+32984,,,Vampire Queen,0.0,0.0,,,en,0.621,1.0,1.0,0.0,,2002.0,['Horror'],32985,,,,,,Shelby Hightower,,,,,
+32985,,,Vampire Resurrection,0.0,77.0,,,en,1.367,3.0,3.2,0.0,,2001.0,['Horror'],32986,,,,,,,,,,,
+32986,,,Vampire Settle On Police Camp,0.0,86.0,,,zh,1.257,3.0,4.0,0.0,,1990.0,"['Action', ' Horror']",32987,,,,,,Yuen-Man Cheng,,,,,
+32987,,,Vampire Sisters,0.0,80.0,,,en,0.961,4.0,5.0,0.0,,2004.0,['Horror'],32988,,,,,,Marta Martin,,,,,
+32988,,,Vampire Strippers,0.0,75.0,,,en,0.6,0.0,0.0,0.0,,2021.0,['Horror'],32989,,,,,,Lola Luciana Black,,,,,
+32989,,,Vampire Sunrise,0.0,0.0,,,en,0.6,0.0,0.0,0.0,,2014.0,['Horror'],32990,,,,,,Scott Shaw,,,,,
+32990,,,Vampire Super,0.0,91.0,,,en,0.6,0.0,0.0,0.0,,2007.0,"['Action', ' Fantasy', ' Horror']",32991,,,,,,Iryna Salyuta,,,,,
+32991,,,Vampire Tales,0.0,50.0,,,en,0.6,0.0,0.0,0.0,,1993.0,['Horror'],32992,,,,,,Ana Calixto,,,,,
+32992,,,Vampire Time Travelers,0.0,80.0,,,en,0.622,0.0,0.0,0.0,,1998.0,"['Comedy', ' Horror']",32993,,,,,,Lynne Baker,,,,,
+32993,,,Vampire Training Camp,0.0,93.0,,,zh,0.6,0.0,0.0,0.0,,1988.0,"['Comedy', ' Fantasy', ' Horror']",32994,,,,,,Jack Long,,,,,
+32994,,,Vampire Vignettes,0.0,90.0,,,en,0.6,0.0,0.0,20000.0,,1999.0,['Horror'],32995,,,,,,,,,,,
+32995,,,Vampire Virus,0.0,90.0,,,en,4.207,21.0,5.1,0.0,,2020.0,"['Horror', ' Thriller']",32996,,,,,,Natalie Martins,,,,,
+32996,,,Vampire Vixens,0.0,78.0,,,en,1.181,4.0,1.5,0.0,,2003.0,"['Comedy', ' Fantasy', ' Horror']",32997,,,,F,,Tina Krause,,,,,North American
+32997,,,Vampire Vixens from Venus,0.0,90.0,,,en,1.176,6.0,5.3,0.0,,1995.0,"['Comedy', ' Horror', ' Science Fiction']",32998,,,,,,Leon Head,,,,,
+32998,,,Vampire Vs Vampire,0.0,86.0,,,cn,3.38,12.0,6.3,0.0,,1989.0,"['Action', ' Comedy', ' Horror']",32999,,,,,,Ching-Ying Lam,,,,,
+32999,26134241.0,/m/0b6d047,Vampire Vs. Vampire,,86.0,"['Standard Mandarin', 'Cantonese']",['Hong Kong'],,,,,,,1989.0,"['Horror', 'World cinema', 'Creature Film', 'Action/Adventure', 'Martial Arts Film', 'Comedy', 'Action', 'Chinese Movies', 'Horror Comedy']",33000,/m/0b6d047,,1965-08-02,F,,Sandra Ng,23.0,/m/0cs721m,,/m/0cc32s,Asian
+33000,,,Vampire Warriors,0.0,100.0,,,cn,1.25,9.0,3.9,0.0,,2010.0,"['Action', ' Horror', ' Thriller']",33001,,,,,,Wah Yuen,,,,,Asian
+33001,,,Vampire Wars,0.0,50.0,,,ja,2.045,7.0,5.2,0.0,,1990.0,"['Action', ' Animation', ' Crime', ' Horror']",33002,,,,,,Masashi Sugawara,,,,,
+33002,,,Vampire Whores from Outer Space,0.0,75.0,,,en,0.6,1.0,1.0,15000.0,,2005.0,"['Action', ' Comedy', ' Horror']",33003,,,,,,Diana Burton,,,,,
+33003,,,Vampire Woman,0.0,0.0,,,cn,0.6,0.0,0.0,0.0,,1962.0,['Horror'],33004,,,,,,Paul Naschy,,,,,European
+33004,,,Vampire Woman,0.0,278.0,,,en,0.6,0.0,0.0,0.0,,1996.0,['Horror'],33005,,,,,,Paul Naschy,,,,,European
+33005,,,Vampire at Midnight,0.0,93.0,,,en,1.109,5.0,3.9,0.0,,1988.0,['Horror'],33006,,,,,,Jason Williams,,,,,North American
+33006,,,Vampire from Gorjanci,0.0,106.0,,,sl,0.6,0.0,0.0,0.0,,2008.0,"['Comedy', ' Horror']",33007,,,,,,,,,,,
+33007,3056404.0,/m/08nltc,Vampire in Brooklyn,19751736.0,102.0,['English'],['United States of America'],en,10.96,451.0,5.0,14000000.0,,1995.0,"['Black comedy', 'Horror', 'Comedy', 'Horror Comedy']",33008,/m/08nltc,,1945-08-02,F,1.753,Joanna Cassidy,50.0,/m/03jss78,,/m/06lj1m,North American
+33008,,,Vampire in Union City,0.0,0.0,,,en,0.6,0.0,0.0,5000.0,,2010.0,['Horror'],33009,,,,,,Lucio Fernandez,,,,,
+33009,,,Vampire in Venice,0.0,97.0,,,it,5.721,31.0,5.6,0.0,,1988.0,['Horror'],33010,,,,,,Klaus Kinski,,,,,European
+33010,,,Vampire of Quezon City,0.0,73.0,,,tl,0.6,1.0,1.0,0.0,,2006.0,['Horror'],33011,,,,,,Cishwa Balista,,,,,
+33011,,,Vampire vs. Sorcerer,0.0,0.0,,,cn,0.6,0.0,0.0,0.0,,1988.0,"['Action', ' Comedy', ' Horror']",33012,,,,,,Wai-To Chan,,,,,
+33012,,,Vampire's Breakfast,0.0,86.0,,,cn,1.96,1.0,7.0,0.0,,1987.0,"['Comedy', ' Horror']",33013,,,,M,,Kent Cheng,,,,,Asian
+33013,,,Vampire's Call,0.0,0.0,,,en,0.6,0.0,0.0,0.0,,2005.0,"['Horror', ' Thriller']",33014,,,,,,Justus Esiri,,,,,
+33014,,,Vampire's Embrace,0.0,75.0,,,en,0.6,1.0,3.0,0.0,,1991.0,"['Horror', ' Romance']",33015,,,,,,Susan Andreiev,,,,,
+33015,4045254.0,/m/0bf79w,Vampire's Kiss,725131.0,103.0,['English'],['United States of America'],en,8.615,284.0,5.9,2000000.0,,1988.0,"['Black comedy', 'Horror', 'Comedy', 'Horror Comedy']",33016,/m/0bf79w,Peter Leow,1964-01-07,M,1.83,Nicolas Cage,,/m/0k7nv3,/m/04gdskp,/m/01vvb4m,North American
+33016,,,Vampire's story,0.0,6.0,,,es,0.6,0.0,0.0,0.0,,2020.0,['Horror'],33017,,,,,,,,,,,
+33017,,,Vampire-Killing Prostitute,0.0,16.0,,,en,0.6,0.0,0.0,0.0,,2015.0,"['Action', ' Horror']",33018,,,,,,Brittany Sparkles,,,,,
+33193,,,Vidar the Vampire,0.0,83.0,,,no,1.095,17.0,4.5,0.0,,2017.0,"['Comedy', ' Fantasy', ' Horror']",33194,,,,,,Kathrine Jünger Ims,,,,,
+33240,,,Village Of The Vampire,0.0,152.0,,,it,3.935,59.0,5.9,0.0,,2020.0,"['Fantasy', ' Horror', ' Thriller']",33241,,,,M,,Christopher Reeve,,,,,North American
+33262,,,Viola vs. The Vampire King,0.0,8.0,,,en,0.6,0.0,0.0,0.0,,2017.0,"['Comedy', ' Horror']",33263,,,,,,Dan Levine,,,,,
+33604,,,Way of the Vampire,0.0,90.0,,,en,5.258,12.0,3.4,580000.0,,2005.0,"['Action', ' Horror', ' Thriller']",33605,,,,,,Rhett Giles,,,,,
+33940,,,Who Wants To Be A Vampire Bride?,0.0,60.0,,,en,0.6,0.0,0.0,0.0,,2003.0,['Horror'],33941,,,,,,Chris Tarrant,,,,,European
+34941,,,殭屍拜月 A Vampire Pays Offerings to the Moon,0.0,0.0,,,cn,0.6,0.0,0.0,0.0,,1958.0,"['Family', ' Horror']",34942,,,,,,,,,,,

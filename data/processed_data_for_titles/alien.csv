@@ -1,0 +1,97 @@
+Unnamed: 0,Wikipedia movie ID,Freebase_ID,Name,Revenue,Runtime,Language_clean,Countries_clean,original_language,popularity,vote_count,vote_average,budget,collection_name,Release_year,Genres,ID,Freebase Movie ID,Character Name,Actor DOB,Actor gender,Actor height,Actor Name,Actor age at movie release,Freebase character map1,Freebase character map2,Freebase character map3,ethnicity_clean
+972,,,AVH: Alien vs. Hunter,0.0,85.0,,,en,5.557,31.0,2.3,500000.0,,2007.0,"['Action', ' Horror', ' Science Fiction']",973,,,,M,,William Katt,,,,,North American
+973,901421.0,/m/03n785,AVP: Alien vs. Predator,172544654.0,109.0,"['Italian', 'English']","['United States of America', 'Czech Republic', 'United Kingdom', 'Germany']",en,50.996,3654.0,5.9,70000000.0,AVP Collection,2004.0,"['Monster movie', 'Thriller', 'Science Fiction', 'Horror', 'Action/Adventure', 'Action']",974,/m/03n785,Graeme Miller,1972-01-23,M,1.73,Ewen Bremner,32.0,/m/0jt89n,/m/0h5nzhg,/m/07cc2x,European
+1308,23487440.0,/m/067ghz,Alien,104931801.0,116.0,"['English', 'Spanish']","['United States of America', 'United Kingdom']",en,60.982,12083.0,8.1,11000000.0,Alien Collection,1979.0,"['Science Fiction', 'Horror', 'Adventure', 'Sci-Fi Horror', 'Creature Film', 'New Hollywood']",1309,/m/067ghz,Ellen Ripley,1949-10-08,,1.82,Sigourney Weaver,29.0,/m/0jt7sz,/m/02xd83,/m/0h96g,North American
+1309,3305827.0,/m/02p78lg,Alien 2,,92.0,[],['Italy'],,,,,,,,"['Science Fiction', 'Horror']",1310,/m/02p78lg,,1954-10-02,F,1.65,Belinda Mayne,,/m/09h_qy6,,/m/0561dkb,European
+1310,,,Alien 2: On Earth,0.0,84.0,,,it,5.692,43.0,3.1,0.0,,1980.0,"['Horror', ' Science Fiction']",1311,,,,,,,,,,,
+1311,5787607.0,/m/0f4kmy,Alien 51,0.0,90.0,['English'],['United States of America'],en,1.617,3.0,2.7,0.0,,2004.0,"['Natural horror films', 'Science Fiction', 'Horror']",1312,/m/0f4kmy,Evelda,1965-12-30,,,Heidi Fleiss,,/m/02vd2_p,/m/0h2x24f,/m/01l46p,North American
+1312,21459905.0,/m/05f2w9w,Alien Abduction,0.0,90.0,['English'],['United States of America'],en,20.702,301.0,5.7,0.0,,2005.0,"['Sci-Fi Horror', 'Science Fiction', 'Horror', 'Indie']",1313,/m/05f2w9w,Rescue Worker,1984-11-02,,,Mark Elias,20.0,/m/0gdlc21,/m/0ghfjyj,/m/0gdk0hr,
+1314,,,Alien Abduction: Incident in Lake County,0.0,93.0,,,en,9.018,138.0,7.3,0.0,,1998.0,"['Drama', ' Horror', ' Science Fiction']",1315,,,,,,Benz Antoine,,,,,
+1315,,,Alien Abduction: Intimate Secrets,0.0,70.0,,,en,3.084,5.0,4.0,0.0,,1996.0,"['Drama', ' Horror', ' Science Fiction']",1316,,,,F,,Darcy DeMoss,,,,,North American
+1316,1699805.0,/m/05pd88,Alien Apocalypse,0.0,88.0,['English'],['United States of America'],en,5.412,58.0,3.9,0.0,,2005.0,"['Alien Film', 'Science Fiction', 'Horror', 'Dystopia', 'Television movie']",1317,/m/05pd88,,1976-11-07,,,Jonas Talkington,28.0,/m/0gcxdyj,,/m/0gcxdym,
+1317,,,Alien Autopsy,0.0,78.0,,,en,0.608,0.0,0.0,0.0,,2020.0,['Horror'],1318,,,,,,Declan Donnelly,,,,,
+1318,,,Alien Beach Party Massacre,0.0,92.0,,,en,0.6,0.0,0.0,0.0,,1996.0,"['Comedy', ' Horror', ' Science Fiction']",1319,,,,,,John Eineigl,,,,,
+1319,,,Alien Beasts,0.0,75.0,,,en,0.6,5.0,4.4,0.0,,1991.0,"['Horror', ' Science Fiction']",1320,,,,,,Neal Dealosi,,,,,
+1320,,,Alien Blood,0.0,80.0,,,en,0.918,7.0,1.3,0.0,,1999.0,"['Horror', ' Science Fiction']",1321,,,,,,Francesca Manning,,,,,
+1321,7223822.0,/m/0kv0z8,Alien Contamination,,95.0,['Italian'],"['Italy', 'West Germany']",,,,,,,1980.0,"['Alien Film', 'Science Fiction', 'Horror', 'Creature Film', 'World cinema']",1322,/m/0kv0z8,Commander Ian Hubbard,1939-11-18,,,Ian McCulloch,40.0,/m/02vckxv,/m/0468k9k,/m/068lnd,
+1322,,,Alien Convergence,0.0,86.0,,,en,5.927,39.0,4.2,0.0,,2017.0,"['Action', ' Horror', ' Science Fiction']",1323,,,,,,Caroline Ivari,,,,,
+1323,4180145.0,/m/0bnhc8,Alien Dead,,90.0,['English'],['United States of America'],,,,,,,1980.0,"['Zombie Film', 'Science Fiction', 'Horror']",1324,/m/0bnhc8,,,,,Raymond Roberts,,/m/0jt86d,,/m/0jt852,
+1324,,,Alien Dick,0.0,6.0,,,en,1.199,0.0,0.0,0.0,,2022.0,"['Comedy', ' Horror']",1325,,,,,,Gary Green,,,,,
+1325,,,Alien Domicile,0.0,88.0,,,en,1.528,7.0,2.8,0.0,,2017.0,['Horror'],1326,,,,,,Elly Brown,,,,,
+1326,,,Alien Domicile 2: Lot 24,0.0,75.0,,,en,1.476,2.0,1.5,0.0,,2019.0,"['Horror', ' Science Fiction']",1327,,,,,,Trenell Blanks,,,,,
+1327,,,Alien Escape,0.0,85.0,,,en,1.351,3.0,3.7,0.0,,1997.0,"['Horror', ' Science Fiction']",1328,,,,,,Gail Thackray,,,,,
+1328,9380065.0,/m/0286kkz,Alien Express,,120.0,['English'],['United States of America'],,,,,,,2005.0,"['Science Fiction', 'Horror']",1329,/m/0286kkz,,1940-10-16,M,1.8,Barry Corbin,64.0,/m/07ndd7b,,/m/04vcdj,North American
+1329,,,Alien Factor 2: The Alien Rampage,0.0,75.0,,,en,1.136,4.0,3.9,35000.0,Alien Factor Collection,2001.0,"['Horror', ' Science Fiction']",1330,,,,,,Donna Sherman,,,,,
+1330,,,Alien Goddess,0.0,107.0,,,en,0.6,0.0,0.0,0.0,,2022.0,['Horror'],1331,,,,,,Okan Akdag,,,,,
+1331,,,Alien Hunger,0.0,89.0,,,en,3.62,7.0,3.6,0.0,,2017.0,"['Comedy', ' Horror', ' Science Fiction']",1332,,,,,,Krystal Banks,,,,,
+1332,,,Alien Implant,0.0,75.0,,,en,3.079,13.0,5.2,1000000.0,,2017.0,"['Drama', ' Horror', ' Science Fiction']",1333,,,,,,Lisa Mueller,,,,,
+1333,,,Alien Incursion,0.0,86.0,,,en,1.699,3.0,5.3,0.0,,2006.0,"['Comedy', ' Horror', ' Science Fiction', ' Thriller']",1334,,,,,,Michael Coleman,,,,,
+1334,,,Alien Inside,0.0,6.0,,,es,0.656,2.0,5.0,0.0,,2015.0,['Horror'],1335,,,,M,,Kelly Blatz,,,,,North American
+1335,,,Alien Invasion,0.0,82.0,,,en,4.643,20.0,3.4,0.0,,2018.0,"['Comedy', ' Horror', ' Science Fiction']",1336,,,,,,Sarah T. Cohen,,,,,
+1336,,,Alien Invasion Arizona,0.0,87.0,,,en,1.666,4.0,4.3,0.0,,2007.0,"['Action', ' Horror', ' Science Fiction', ' Thriller']",1337,,,,,,Dan Southworth,,,,,
+1337,2285959.0,/m/070yrj,Alien Lockdown,0.0,92.0,['English'],['United States of America'],en,2.66,12.0,3.8,0.0,,2005.0,"['Thriller', 'Science Fiction', 'Horror', 'Television movie', 'Creature Film', 'Action']",1338,/m/070yrj,,1949-08-25,,,John Savage,55.0,/m/0crs8q9,,/m/03gl8g,
+1338,,,Alien Lover,0.0,74.0,,,en,0.626,0.0,0.0,0.0,,1975.0,"['Drama', ' Horror', ' Mystery', ' Science Fiction', ' TV Movie']",1339,,,,,,,,,,,
+1339,,,Alien Outbreak,0.0,84.0,,,en,18.908,23.0,3.9,0.0,,2020.0,"['Horror', ' Science Fiction']",1340,,,,,,Katherine Drake,,,,,
+1340,,,Alien Outlaw,0.0,90.0,,,en,0.93,7.0,3.3,0.0,,1985.0,"['Comedy', ' Horror', ' Mystery', ' Science Fiction', ' Western']",1341,,,,,,Stephen Winegard,,,,,
+1341,,,Alien Overlords,0.0,76.0,,,en,14.083,11.0,4.0,1000000.0,,2018.0,"['Action', ' Drama', ' Horror', ' Science Fiction']",1342,,,,,,Bette Smith,,,,,
+1342,,,Alien Platoon,0.0,87.0,,,fr,0.6,1.0,2.0,0.0,,1992.0,"['Action', ' Horror']",1343,,,,,,Sylvaine Charlet,,,,,
+1343,,,Alien Predator,0.0,87.0,,,en,5.95,27.0,4.6,0.0,,2018.0,"['Action', ' Adventure', ' Horror', ' Science Fiction']",1344,,,,F,,Sanaa Lathan,,,,,North American
+1344,,,Alien Psychosis,0.0,74.0,,,en,2.327,8.0,5.0,1000000.0,,2018.0,['Horror'],1345,,,,,,Steve Baran,,,,,
+1345,20829476.0,/m/058f37c,Alien Raiders,0.0,85.0,['English'],['United States of America'],en,8.891,128.0,5.4,0.0,,2008.0,"['Thriller', 'Science Fiction', 'Horror']",1346,/m/058f37c,Ulrich,1968-10-13,,1.75,Joseph Steven Yang,39.0,/m/0hnk747,/m/0hnk74b,/m/04cxhhc,
+1346,,,Alien Resurrection,162000000.0,109.0,,,en,26.916,3981.0,6.1,70000000.0,Alien Collection,1997.0,"['Action', ' Horror', ' Science Fiction']",1347,,,,,,Sigourney Weaver,,,,,North American
+1347,,,Alien Seed,0.0,88.0,,,en,1.856,10.0,2.2,0.0,,1989.0,"['Horror', ' Mystery', ' Science Fiction', ' Thriller']",1348,,,,M,,Erik Estrada,,,,,North American
+1348,20878070.0,/m/058sgg3,Alien Siege,,89.0,[],['United States of America'],,,,,,,2005.0,"['Science Fiction', 'Horror', 'Television movie']",1349,/m/058sgg3,,,,,Carl Ed,,/m/0gcbjgt,,/m/0gbz64v,North American
+1349,,,Alien Space Avenger,0.0,80.0,,,en,1.108,12.0,4.6,0.0,,1989.0,"['Comedy', ' Horror', ' Science Fiction']",1350,,,,,,Robert Prichard,,,,,
+1350,,,Alien Strain,0.0,82.0,,,en,2.731,5.0,4.4,0.0,,2014.0,"['Horror', ' Science Fiction', ' Thriller']",1351,,,,,,Michael Finn,,,,,
+1351,,,Alien Swamp Beast,0.0,69.0,,,en,1.725,0.0,0.0,0.0,,2018.0,"['Horror', ' Science Fiction']",1352,,,,,,Kenny Andrews,,,,,
+1352,,,Alien Tampon,0.0,3.0,,,de,1.077,5.0,6.4,0.0,,2015.0,"['Comedy', ' Horror']",1353,,,,,,Ramona Beckmann,,,,,
+1353,,,Alien Terminator,0.0,80.0,,,en,2.5,18.0,4.3,0.0,,1996.0,"['Horror', ' Science Fiction']",1354,,,,,,Maria Ford,,,,,
+1354,,,Alien Terror,0.0,90.0,,,es,1.564,16.0,4.3,0.0,,1971.0,"['Horror', ' Science Fiction']",1355,,,,F,,Belinda Mayne,,,,,European
+1355,,,Alien Trespass,0.0,90.0,,,en,4.775,60.0,5.2,0.0,,2009.0,"['Action', ' Adventure', ' Comedy', ' Horror', ' Science Fiction']",1356,,,,M,,Eric McCormack,,,,,North American
+1356,,,Alien Valley,0.0,75.0,,,en,1.001,2.0,3.5,0.0,,2012.0,"['Horror', ' Mystery', ' Science Fiction']",1357,,,,,,Nate Bakke,,,,,
+1357,,,Alien Vows,0.0,87.0,,,en,0.6,0.0,0.0,0.0,,1996.0,['Horror'],1358,,,,,,Bill Cook,,,,,North American
+1358,,,Alien Vs. Zombies,0.0,70.0,,,en,2.975,3.0,3.7,0.0,,2017.0,"['Adventure', ' Comedy', ' Horror']",1359,,,,,,Alex Knapp,,,,,
+1359,,,Alien Zombie Invasion,0.0,84.0,,,en,0.855,0.0,0.0,0.0,,2011.0,"['Documentary', ' Horror', ' Science Fiction']",1360,,,,,,Larry Jack Dotson,,,,,
+1360,2108325.0,/m/06mngv,Alien from the Darkness,0.0,45.0,['Japanese'],['Japan'],ja,5.327,3.0,5.3,0.0,,1996.0,"['Japanese Movies', 'Science Fiction', 'Adult', 'Horror', 'Animation']",1361,/m/06mngv,,,,,Sharon Becker,,/m/0ggh1sq,,/m/0c42h25,
+1361,,,Alien from the Deep,0.0,90.0,,,it,2.756,13.0,3.4,0.0,,1989.0,"['Horror', ' Science Fiction']",1362,,,,,,,,,,,
+1362,17377846.0,/m/043p60f,Alien invasion arizona,,87.0,['English'],['United States of America'],,,,,,,2005.0,"['Thriller', 'Alien Film', 'Science Fiction', 'Horror']",1363,/m/043p60f,,,,,Philip Tiboni,,/m/0gc8d9q,,/m/0gc0p3s,
+1363,27507076.0,/m/0c012mx,Alien vs Ninja,,83.0,['Japanese'],['Japan'],,,,,,,2010.0,"['Thriller', 'Science Fiction', 'Horror', 'Adventure', 'World cinema', 'Action/Adventure', 'Fantasy', 'Comedy', 'Japanese Movies', 'Action']",1364,/m/0c012mx,,1982-10-13,,,Mika Hijii,27.0,/m/0g41lry,,/m/0g41lrw,
+1364,15454699.0,/m/03m9wl_,Alien vs. Hunter,,85.0,['English'],['United States of America'],,,,,,,2008.0,"['Thriller', 'Science Fiction', 'Horror', 'Indie']",1365,/m/03m9wl_,,1951-02-16,M,1.74,William Katt,57.0,/m/04df4xn,,/m/049zpg,North American
+1365,,,Alien vs. Ninja,0.0,81.0,,,ja,4.233,48.0,4.7,600000.0,,2010.0,"['Action', ' Horror', ' Science Fiction', ' Thriller']",1366,,,,,,Masanori Mimoto,,,,,
+1366,,,Alien: Alone,0.0,13.0,,,en,1.421,29.0,6.4,35000.0,,2019.0,"['Horror', ' Science Fiction']",1367,,,,,,Taylor Lyons,,,,,
+1367,,,Alien: Containment,0.0,10.0,,,en,3.224,38.0,6.1,35000.0,,2019.0,"['Horror', ' Science Fiction']",1368,,,,F,,Gaia Weiss,,,,,European
+1368,,,Alien: Covenant,240891763.0,122.0,,,en,73.672,7298.0,6.1,97000000.0,Prometheus Collection,2017.0,"['Horror', ' Mystery', ' Science Fiction']",1369,,,,M,,Michael Fassbender,,,,,European
+1369,,,Alien: Covenant - Prologue: Advent,0.0,7.0,,,en,2.215,17.0,6.7,0.0,Alien: Covenant Short Film Collection,2017.0,"['Horror', ' Science Fiction']",1370,,,,M,,Michael Fassbender,,,,,European
+1370,,,Alien: Covenant - Prologue: The Crossing,0.0,3.0,,,en,7.985,100.0,6.3,0.0,Alien: Covenant Short Film Collection,2017.0,"['Horror', ' Science Fiction']",1371,,,,M,,Michael Fassbender,,,,,European
+1371,,,Alien: Covenant - Prologue: The Secrets of David’s Lab,0.0,0.0,,,en,2.88,5.0,6.8,0.0,,2017.0,"['Horror', ' Science Fiction']",1372,,,,,,,,,,,
+1372,,,Alien: Harvest,0.0,10.0,,,en,3.24,40.0,7.0,35000.0,,2019.0,"['Horror', ' Science Fiction']",1373,,,,,,Agnes Albright,,,,,
+1373,,,Alien: Night Shift,0.0,9.0,,,en,2.503,31.0,6.6,35000.0,,2019.0,"['Horror', ' Science Fiction']",1374,,,,,,Amber Gaston,,,,,
+1374,,,Alien: Ore,0.0,11.0,,,en,3.429,35.0,6.3,35000.0,,2019.0,"['Horror', ' Science Fiction']",1375,,,,,,Mikela Jay,,,,,
+1375,,,Alien: Specimen,0.0,10.0,,,en,3.848,68.0,6.2,35000.0,,2019.0,"['Horror', ' Science Fiction']",1376,,,,,,Jolene Andersen,,,,,
+1710,,,An Alien Claymation,0.0,3.0,,,en,0.6,0.0,0.0,0.0,,2012.0,"['Animation', ' Comedy', ' Horror', ' Science Fiction']",1711,,,,,,Jordan Ramoth,,,,,
+3155,,,Beyond the Lost World: The Alien Conspiracy III,0.0,82.0,,,en,0.6,0.0,0.0,0.0,,2003.0,"['Horror', ' Science Fiction']",3156,,,,,,Tom Nondorf,,,,,
+3294,,,Biohazard: The Alien Force,0.0,88.0,,,en,0.6,4.0,2.0,0.0,,1994.0,"['Horror', ' Science Fiction']",3295,,,,,,James L. Miles,,,,,
+7337,9537791.0,/m/02pj7b0,Decoys 2: Alien Seduction,0.0,94.0,['English'],['Canada'],en,6.46,40.0,5.5,1500000.0,Decoys Collection,2007.0,"['Science Fiction', 'Horror', 'Comedy']",7338,/m/02pj7b0,,1981-09-10,F,1.7,Lindsay Maxwell,25.0,/m/0cgn08w,,/m/04q7sxr,North American
+11068,,,Ghost vs. Alien 03,0.0,96.0,,,ja,0.89,0.0,0.0,0.0,,2007.0,"['Comedy', ' Drama', ' Horror', ' Science Fiction']",11069,,,,F,,Takako Fuji,,,,,Asian
+13130,,,Housewife Alien vs. Gay Zombie,0.0,95.0,,,en,0.715,2.0,3.5,0.0,,2017.0,"['Comedy', ' Horror']",13131,,,,,,Anna Walman,,,,,
+13748,,,Inbred Redneck Alien Abduction,0.0,90.0,,,en,0.6,3.0,3.7,0.0,,2004.0,"['Comedy', ' Horror', ' Science Fiction']",13749,,,,,,Ethan Blum,,,,,
+17095,,,Metamorphosis : The Alien Factor,0.0,98.0,,,en,2.434,19.0,4.8,0.0,,1990.0,"['Horror', ' Science Fiction']",17096,,,,,,Matt Kulis,,,,,
+17096,8786958.0,/m/027jqy9,Metamorphosis: The Alien Factor,,98.0,['English'],['United States of America'],,,,,,,1990.0,"['Thriller', 'Science Fiction', 'Horror', 'Creature Film']",17097,/m/027jqy9,,,,,George Gerard,,/m/0gcgc7m,,/m/0gc1_1h,
+18531,,,"Night of the Day of the Dawn of the Son of the Bride of the Return of the Revenge of the Terror of the Attack of the Evil, Mutant, Alien, Flesh Eating, Hellbound, Zombified Living Dead Part 2",0.0,96.0,,,en,2.286,9.0,4.6,0.0,,1991.0,"['Comedy', ' Horror']",18532,,,,,,Alexandria DeFabiis,,,,,
+18532,8112245.0,/m/026rz0q,"Night of the Day of the Dawn of the Son of the Bride of the Return of the Revenge of the Terror of the Attack of the Evil, Mutant, Alien, Flesh Eating, Hellbound, Zombified Living Dead Part 2: In Shocking 2-D",,96.0,['English'],['United States of America'],,,,,,,1991.0,"['Parody', 'Horror', 'Indie']",18533,,,,,,Alexandria DeFabiis,,,,,
+19271,,,Ombis: Alien Invasion,0.0,85.0,,,en,2.798,4.0,3.3,32350.0,,2013.0,"['Action', ' Horror', ' Science Fiction', ' Thriller']",19272,,,,,,Richard Satterwhite,,,,,
+20623,,,Preylien: Alien Predators,0.0,75.0,,,en,0.6,0.0,0.0,6000.0,,2004.0,['Horror'],20624,,,,,,Todd Carpenter,,,,,
+22077,,,STAR [Space Traveling Alien Reject],0.0,93.0,,,es,0.6,0.0,0.0,0.0,,2017.0,"['Action', ' Comedy', ' Drama', ' Horror', ' Science Fiction']",22078,,,,,,Chris Barbis,,,,,
+22947,,,Sex Files: Alien Erotica,0.0,99.0,,,en,5.144,10.0,5.7,0.0,The Sex Files,1998.0,"['Horror', ' Romance', ' Science Fiction']",22948,,,,F,,Kira Reed Lorsch,,,,,North American
+24362,,,Stacey & the Alien,0.0,15.0,,,en,0.6,0.0,0.0,0.0,,2016.0,['Horror'],24363,,,,,,Joanna Page,,,,,European
+25649,,,The Alien Agenda: Endangered Species,0.0,102.0,,,en,0.956,1.0,2.0,0.0,,1998.0,"['Horror', ' Science Fiction']",25650,,,,F,,Debbie Rochon,,,,,North American
+25650,,,The Alien Agenda: Out of the Darkness,0.0,76.0,,,en,0.6,0.0,0.0,0.0,,1996.0,"['Horror', ' Science Fiction']",25651,,,,,,Mick McCleery,,,,,
+25651,,,The Alien Agenda: Under the Skin,0.0,75.0,,,en,0.6,0.0,0.0,0.0,,1997.0,"['Horror', ' Science Fiction']",25652,,,,,,Arthur Lundquist,,,,,
+25652,,,The Alien Autopsy,0.0,20.0,,,en,0.9,2.0,5.0,0.0,,1995.0,"['Horror', ' Science Fiction']",25653,,,,,,John Humphreys,,,,,
+25653,,,The Alien Conspiracy: Grey Skies,0.0,0.0,,,en,1.228,0.0,0.0,0.0,,2003.0,"['Horror', ' Science Fiction']",25654,,,,,,Nathan King,,,,,
+25654,,,The Alien Dead,0.0,74.0,,,en,2.041,22.0,2.7,0.0,,1980.0,"['Horror', ' Science Fiction']",25655,,,,,,Buster Crabbe,,,,,North American
+25655,,,The Alien Factor,0.0,80.0,,,en,2.142,18.0,3.4,0.0,Alien Factor Collection,1978.0,"['Horror', ' Science Fiction']",25656,,,,,,Don Leifert,,,,,
+25656,27566975.0,/m/0c3yfqn,The Alien Within,0.0,75.0,['English'],['United States of America'],en,1.285,3.0,3.0,0.0,,1995.0,"['Science Fiction', 'Horror', 'Sci-Fi Horror']",25657,/m/0c3yfqn,,1964-08-01,,,Melanie Shatner,30.0,/m/0ggk9yj,,/m/087b0h,
+31655,,,They Came: Alien Death Fuck,0.0,4.0,,,en,0.875,0.0,0.0,0.0,,2021.0,"['Comedy', ' Horror', ' Science Fiction']",31656,,,,,,Kristina Holt,,,,,
+32158,,,Toxic Alien Zombie Babes from Outer Space,0.0,125.0,,,en,0.779,0.0,0.0,0.0,,2022.0,"['Comedy', ' Horror', ' Science Fiction']",32159,,,,,,Vixey Teh,,,,,
+32572,,,Ultimate Kill 4: Zombies 2: Zombie Alien,0.0,14.0,,,en,0.6,0.0,0.0,0.0,Ultimate Kill Collection,2014.0,"['Action', ' Drama', ' Horror', ' Science Fiction']",32573,,,,,,,,,,,
