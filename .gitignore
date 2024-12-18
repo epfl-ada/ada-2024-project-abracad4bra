@@ -1,3 +1,4 @@
 .DS_Store
 __pycache__
 *.pyc
+data/data_hist/unsupervised_model_reconstructed.bin

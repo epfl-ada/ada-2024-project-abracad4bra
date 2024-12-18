@@ -2,11 +2,11 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
 import numpy as np
+import matplotlib as mpl
 
 # Usefull variables
 custom_palette = ["#ff7100", "#fd9702", "#e102ff", "#ae03ff", "#000000"]
-colors=[custom_palette[0], custom_palette[1], custom_palette[2], custom_palette[3]]
-
+colors = [custom_palette[0], custom_palette[1], custom_palette[2], custom_palette[3]]
 
 # Plot functions
 def get_character_count(df, on_what, what, nb, title=None, plot=False):
