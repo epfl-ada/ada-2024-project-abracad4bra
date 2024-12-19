@@ -1,9 +1,24 @@
 # Horror movies, the collective nightmares of society 
 
+Welcome to the Horror Movie Museum!
+
+
+## Final Website : https://valentinedelevaux.github.io/ada.github.io/
+
+## Contributions :
+Valentine Delevaux : Trigger Analysis, Graphisms of the characters and backgrounds of the website, Layout of the website, Texts of the website
+Valentine Casalta : Content and World Analysis, Layout of the website, Texts of the website, Conversion of the plots in plotly
+Julie Le Tallec : Titles and Diversity Analysis, Texts of the website, Graphisms of the portraits of the team
+Elie Roth : Global events Analysis, Texts of the website
+Marco Lourenço Leitao : World Analysis, Layout of the Notebook
+
 ## Abstract: 
 Our project aims to explore the evolution of  horror movies as a reflection of societal fears and transformations. We believe that horror films are acting as the nightmares of society, allowing the audience to confront what scares them in a controlled, metaphorical space, and therefore offer a unique lens to examine collective fears. 
 By analyzing horror themes across decades, we are looking at how shifting societal dynamics, such as technological advancements, cultural fears and moral concerns, manifest within this genre. Recent trends, like the rise of movies focused on AI, illustrate how horror adapts to contemporary issues, much as past horror movies reelected anxieties around religion, societal violence. 
 This analysis aims to show how horror movies both respond to and shape societal fears and evolutions, ultimately offering insight into society's subconscious and its evolving concerns over time. 
+
+The final project takes the form of an immersive story, where the reader becomes a visitor exploring Dracula's Museum of Horror Movies, guided by Dracula's loyal butler. The visitor journeys through various themed rooms, each dedicated to a unique subject of analysis within the horror genre.
+
 
 ## Research questions 
 1- Do horror movies reflect societal evolution on diversity ? 
