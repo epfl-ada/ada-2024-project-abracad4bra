@@ -8,7 +8,7 @@ Welcome to the Horror Movie Museum!
 ## Contributions :
 Valentine Delevaux : Trigger Analysis, Graphisms of the characters and backgrounds of the website, Layout of the website, Texts of the website   
 Valentine Casalta : Content and World Analysis, Layout of the website, Texts of the website, Conversion of the plots in plotly  
-Julie Le Tallec : Titles and Diversity Analysis, Texts of the website, Graphisms of the portraits of the team  
+Julie Le Tallec : World, Titles and Diversity Analysis, Texts of the website, Graphisms of the portraits of the team  
 Elie Roth : Global events Analysis, Texts of the website  
 Marco Lourenço Leitao : World Analysis, Layout of the Notebook  
 
@@ -22,18 +22,19 @@ The final project takes the form of an immersive story, where the reader becomes
 
 ## Research questions 
 1- Do horror movies reflect societal evolution on diversity ? 
-- How does the representation of diversity in horror movies compare to other film genres, and does this reveal the role of horror in reflecting societal changes?
-- Within the horror genre, how have portrayals of diversity evolved over time in terms of actor representation, character tropes, and the descriptions provided in movie summaries ?
+- How does the representation of actor genders in horror movies compare to other film genres, and does this reveal the role of horror in reflecting societal changes? ("WORLD" tab)
+- Within the horror genre, how are the titles of the movies associated with the actor diversity, and which actor profiles are mostly represented in the movies, depending on the theme ? ("DIVERSITY" tab)
 
-2- How did horror movies' scenarios evolve over time ? 
-- General evolution of themes addressed 
-- Analysis of different tropes and content 
+2- How do the content and scenarios of movies reflect human preferences and societal values ?
+- General evolution of themes addressed ("WORLD" tab)
+- Analysis of titles and word associations ("TITLES" tab)
+- Analysis of triggers ("TRIGGERS" tab)
 
 3- Are there cultural specificities in horror ? 
-- Are the themes addressed different around the world ? 
-- Are horror movies as popular a genre everywhere ? 
+- Are the themes addressed different around the world ? ("WORLD" tab)
+- Are horror movies as popular a genre everywhere ? ("WORLD" tab)
 
-4- Do historical events have an impact on horror movies scenarios ? 
+4- Do historical events have an impact on horror movies scenarios ? ("HISTORICAL" tab)
 
 ## Methods 
 1- To analyze how diversity in horror movies compares to other genres, we will collect data on gender and ethnicity of actors. We will use descriptive statistics (e.g., proportions) to summarize representation, and inferential tests like chi-square and ANOVA to determine if differences are statistically significant.
@@ -54,3 +55,6 @@ This dataset contains information on 32k movies released between 1950 and 2022. 
 This dataset comes from the website ‘Doesthedogdie.com’ that regroups a variety of triggering content for thousands of movies, series, books… The developers provided us with a csv file of the list of 50k movies between 1900 and today, and the kind of triggering content they have. 
 The concept of studying triggering content (ex : blood, violence, clowns…) is closely related to horror movies, as these films often feature disturbing and frightening themes that may not be suitable for all audiences.
 This dataset is then crossed with the other datasets we use for assuring we only keep horror movies.
+
+**Wikipedia and IMDb:**
+These websites were used to retrieve missing information about actors, their gender and their ethnicity.
