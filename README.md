@@ -54,18 +54,3 @@ This dataset contains information on 32k movies released between 1950 and 2022. 
 This dataset comes from the website ‘Doesthedogdie.com’ that regroups a variety of triggering content for thousands of movies, series, books… The developers provided us with a csv file of the list of 50k movies between 1900 and today, and the kind of triggering content they have. 
 The concept of studying triggering content (ex : blood, violence, clowns…) is closely related to horror movies, as these films often feature disturbing and frightening themes that may not be suitable for all audiences.
 This dataset is then crossed with the other datasets we use for assuring we only keep horror movies.
-
-## Proposed Timeline 
-Beginning of the project: Repartition of the different subjects of the project & looking for new datasets (Julie : Introduction and metadata analysis + actor/trope repartition, Elie : Impact of important events on movie industry, Marco : Analysis of tropes and introduction, Valentine C: Analysis of the summaries/cultural specificities, Valentine D: movie content and triggers analysis)
-
-14/11: Sharing of new datasets and beginning of the analysis for each 
-
-21/11: Homework 2. All principal figures need to be chosen, qualitative analysis
-
-28/11: Quantitative analysis and significance tests
-
-05/12: Written analysis of each graph, website development
-
-12/12: Redaction of the final project and aesthetic of the graphs/website
-
-19/12: Proofreading + Final touch
