@@ -6,11 +6,11 @@ Welcome to the Horror Movie Museum!
 ## Final Website : https://valentinedelevaux.github.io/ada.github.io/
 
 ## Contributions :
-Valentine Delevaux : Trigger Analysis, Graphisms of the characters and backgrounds of the website, Layout of the website, Texts of the website
-Valentine Casalta : Content and World Analysis, Layout of the website, Texts of the website, Conversion of the plots in plotly
-Julie Le Tallec : Titles and Diversity Analysis, Texts of the website, Graphisms of the portraits of the team
-Elie Roth : Global events Analysis, Texts of the website
-Marco Lourenço Leitao : World Analysis, Layout of the Notebook
+Valentine Delevaux : Trigger Analysis, Graphisms of the characters and backgrounds of the website, Layout of the website, Texts of the website   
+Valentine Casalta : Content and World Analysis, Layout of the website, Texts of the website, Conversion of the plots in plotly  
+Julie Le Tallec : Titles and Diversity Analysis, Texts of the website, Graphisms of the portraits of the team  
+Elie Roth : Global events Analysis, Texts of the website  
+Marco Lourenço Leitao : World Analysis, Layout of the Notebook  
 
 ## Abstract: 
 Our project aims to explore the evolution of  horror movies as a reflection of societal fears and transformations. We believe that horror films are acting as the nightmares of society, allowing the audience to confront what scares them in a controlled, metaphorical space, and therefore offer a unique lens to examine collective fears. 
