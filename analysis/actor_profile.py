@@ -4,9 +4,10 @@ import pandas as pd
 import numpy as np
 from collections import Counter
 import re
-import geopandas as gpd
 import matplotlib as mpl
 from scipy import stats
+import matplotlib.cm as cm
+
 
 # Usefull variables
 custom_palette = ["#ff7100", "#fd9702", "#e102ff", "#ae03ff", "#000000"]

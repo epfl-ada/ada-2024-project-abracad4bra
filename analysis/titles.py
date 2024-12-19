@@ -12,6 +12,10 @@ from nltk.tokenize import word_tokenize
 from matplotlib.ticker import MaxNLocator
 nltk.download('punkt_tab')
 nltk.download('stopwords')
+import matplotlib.cm as cm
+import matplotlib.colors as mcolors
+
+
 
 # Usefull variables
 time_intervals = [
