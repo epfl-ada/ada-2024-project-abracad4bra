@@ -3,7 +3,7 @@
 Welcome to the Horror Movie Museum!
 
 
-## Final Website : https://valentinedelevaux.github.io/ada.github.io/
+## Final Website : https://valentinedelevaux.github.io/project_ada.github.io/
 (If the website appears cropped, try reducing the zoom to 80%.)
 
 ## Contributions :
