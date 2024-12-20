@@ -4,6 +4,7 @@ Welcome to the Horror Movie Museum!
 
 
 ## Final Website : https://valentinedelevaux.github.io/ada.github.io/
+(If the website appears cropped, try reducing the zoom to 80%.)
 
 ## Contributions :
 Valentine Delevaux : Trigger Analysis, Graphisms of the characters and backgrounds of the website, Layout of the website, Texts of the website   
