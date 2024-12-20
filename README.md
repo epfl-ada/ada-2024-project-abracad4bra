@@ -22,7 +22,7 @@ The final project takes the form of an immersive story, where the reader becomes
 
 ## Research questions 
 1- Do horror movies reflect societal evolution on diversity ? 
-- How does the representation of actor genders in horror movies compare to other film genres, and does this reveal the role of horror in reflecting societal changes? ("WORLD" tab)
+- How does the role of the horror movies evolves in time and space ? ("WORLD" tab)
 - Within the horror genre, how are the titles of the movies associated with the actor diversity, and which actor profiles are mostly represented in the movies, depending on the theme ? ("DIVERSITY" tab)
 
 2- How do the content and scenarios of movies reflect human preferences and societal values ?
